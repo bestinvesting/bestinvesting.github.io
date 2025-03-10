@@ -1,5 +1,5 @@
 # Configurations
-title:            best investing
+title:            Welcome to Best Investor's Blog
 longtitle:        
 author:           Best Investor
 email:            misoinvesment@gmail.com
@@ -10,11 +10,11 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://bestinvesting.github.io'
-baseurl:          '/'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: bestinvesting/jekyll-gitbook
 
 toc:
   enabled: true
