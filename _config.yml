@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            best investing
+longtitle:        
+author:           Best Investor
+email:            misoinvesment@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://bestinvesting.github.io'
+baseurl:          '/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -44,7 +44,7 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
-# disqushandler:            sighingnow
+# disqushandler:            best investor
 
 exclude:
   - _drafts
