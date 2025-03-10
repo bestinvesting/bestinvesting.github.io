@@ -51,6 +51,7 @@ exclude:
 
 collections:
   pages:
+    title:  페이지
     output: true
     permalink: /:collection/:path/
   others:
