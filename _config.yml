@@ -57,15 +57,12 @@ collections:
   others:
     output: true
     permalink: /:collection/:path/
-  newside:
-    output: true
-    permalink: /:collection/:path/
 
 ordered_collections:
   - pages
   - posts
   - others
-  - newside
+
 
 page_width: 800px
 
