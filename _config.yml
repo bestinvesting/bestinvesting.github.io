@@ -59,8 +59,8 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - pages
   - posts
+  - pages
   - others
 
 
