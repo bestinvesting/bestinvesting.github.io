@@ -51,7 +51,6 @@ exclude:
 
 collections:
   pages:
-    title:  페이지
     output: true
     permalink: /:collection/:path/
   others:
@@ -59,8 +58,8 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
   - pages
+  - posts
   - others
 
 
