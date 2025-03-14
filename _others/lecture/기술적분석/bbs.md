@@ -1,5 +1,5 @@
 ---
-title: 볼린저 밴드 스퀴즈 (Bollinger Band Squeeze)
+title: ✅ 볼린저밴드스퀴즈(BollingerBandSqueeze)
 author: best investor
 date: 2025-03-11
 category: Jekyll
