@@ -1,11 +1,3 @@
----
-title: 오늘의 뉴스
-author: best investor
-date: 2025-03-11
-category: Jekyll
-layout: post
----
-
 # Today News_20250314
 
 [1. 금감원, 홈플 관련 신영證·신평사 2곳 검사…필요시 MBK도 착수(종합2보)](http://v.daum.net/v/20250313201533476)
