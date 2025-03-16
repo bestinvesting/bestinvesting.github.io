@@ -34,7 +34,8 @@
 
                 <div class="body-inner">
                     {%- include body.html -%}
-
+	        {%- include utterances.htmll -%}
+	
                     {% if page.previous %}
                         <a href="{{site.baseurl}}{{page.previous.url}}" class="navigation navigation-prev navigation-unique" aria-label="Previous page: {{page.previous.title}}">
                             <i class="fa fa-angle-left"></i>
@@ -63,8 +64,6 @@
 
         </div>
        
- {% include utterances.html %}
-
         {%- include footer.html -%}
 
 
