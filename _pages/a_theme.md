@@ -12,7 +12,6 @@ layout: post
 
 ![image](/img/fig20250320.jpg)
 
-![image](/img/fig20250319.jpg)
 
 ![image](/img/fig20250319.jpg)
 
