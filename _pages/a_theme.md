@@ -10,6 +10,8 @@ layout: post
 
 ![image](/img/fig20250805.jpg)
 
+![image](/img/fig20250805.jpg)
+
 ![image](/img/fig20250804.jpg)
 
 ![image](/img/fig20250801.jpg)
