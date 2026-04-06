@@ -8,6 +8,8 @@ layout: post
 
 # 한국 시장 오늘의 테마 종목
 
+![image](/img/fig20260406.jpg)
+
 ![image](/img/fig20260403.jpg)
 
 ![image](/img/fig20260402.jpg)
