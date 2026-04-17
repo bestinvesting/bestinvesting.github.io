@@ -1,75 +1,80 @@
-# Configurations
-title:            Welcome to Best Investor's Blog
-longtitle:        
-author:           Best Investor
-email:            misoinvesment@gmail.com
+# -----------------------------
+# 기본 정보
+# -----------------------------
+title: Welcome to Best Investor's Blog
+author: Best Investor
+email: misoinvesment@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Quant-based trading signals and market analysis.
 
-version:          1.0
-gitbook_version:  3.2.3
+url: "https://bestinvesting.github.io"
+baseurl: ""
 
-url:              'https://bestinvesting.github.io'
-baseurl:          ''
-rss:              RSS
-
-# bootstrap: use the remote theme for the site itself
+# -----------------------------
+# 테마 및 빌드 설정
+# -----------------------------
 remote_theme: bestinvesting/jekyll-gitbook
 
+include:
+  - _a_posts
+  - _b_pages
+  - _c_others
+
+# -----------------------------
+# Markdown & Permalink
+# -----------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+permalink: /:year-:month-:day-:title/
+
+# -----------------------------
+# TOC & Navigation
+# -----------------------------
 toc:
   enabled: true
-  h_min:   1
-  h_max:   3
+  h_min: 1
+  h_max: 3
 
-# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/gitbook/images/favicon.ico
+navigation:
+  collapse: true
 
-# markdown render engine.
-markdown:         kramdown
-kramdown:
-  auto_ids:               true
-  input:                  GFM
-  math_engine:            mathjax
-  smart_quotes:           lsquo,rsquo,ldquo,rdquo
-  toc_levels:             1..6
-  syntax_highlighter:     rouge
-  syntax_highlighter_opts:
-    guess_lang:           true
-
-syntax_highlighter_style: colorful
-
-markdown_ext:             markdown,mkdown,mkdn,mkd,md
-
-# Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
-
-# Disqus comments
-# disqushandler:            best investor
+# -----------------------------
+# 플러그인 & 제외
+# -----------------------------
+plugins:
+  - jekyll-remote-theme
+  - jemoji
 
 exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
   - _drafts
 
+# -----------------------------
+# Collections (매우 중요)
+# -----------------------------
 collections:
-  pages:
+  a_posts:            
     output: true
-    permalink: /:collection/:path/
-  others:
+    permalink: /:year/:month/:day/:title/
+  b_pages:
     output: true
-    permalink: /:collection/:path/
+  c_others:
+    output: true
 
-ordered_collections:
-  - pages
-  - posts
-  - others
-
-
-page_width: 800px
-
-destination:      ./_site
-incremental:      false
-regenerate:       true
-
-plugins:
-  - jekyll-feed
-  - jekyll-readme-index
-  - jemoji
+# -----------------------------
+# 기본값 설정 
+# -----------------------------
+defaults:
+  - scope:
+      path: "_a_posts"
+    values:
+      layout: default      # 중요: post 레이아웃은 사이드바에서 빠질 수 있음
+      has_children: false
+      nav_order: 10        # 자식들이 가질 기본 순서

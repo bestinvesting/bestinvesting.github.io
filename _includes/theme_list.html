@@ -1,0 +1,8 @@
+{% for post in site.categories.theme %}
+### {{ post.date | date: "%Y-%m-%d" }}
+
+{{ post.content }}
+
+---
+
+{% endfor %}

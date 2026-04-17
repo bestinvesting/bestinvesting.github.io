@@ -1,0 +1,8 @@
+summary:
+  - title: Home
+    url: /
+
+  - title: Dashboard
+    children:
+      - title: Theme
+        url: /theme/
