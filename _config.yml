@@ -1,80 +1,74 @@
-# -----------------------------
-# 기본 정보
-# -----------------------------
-title: Welcome to Best Investor's Blog
-author: Best Investor
-email: misoinvesment@gmail.com
+# Configurations
+title:            Jekyll Gitbook
+longtitle:        Jekyll Gitbook
+author:           HE Tao
+email:            sighingnow@gmail.com
 description: >
-  Quant-based trading signals and market analysis.
+  Build Jekyll site with the GitBook style.
 
-url: "https://bestinvesting.github.io"
-baseurl: ""
+version:          1.0
+gitbook_version:  3.2.3
 
-# -----------------------------
-# 테마 및 빌드 설정
-# -----------------------------
-remote_theme: bestinvesting/jekyll-gitbook
+url:              'https://sighingnow.github.io'
+baseurl:          '/jekyll-gitbook'
+rss:              RSS
 
-include:
-  - _a_posts
-  - _b_pages
-  - _c_others
+# bootstrap: use the remote theme for the site itself
+remote_theme: sighingnow/jekyll-gitbook
 
-# -----------------------------
-# Markdown & Permalink
-# -----------------------------
-markdown: kramdown
-kramdown:
-  input: GFM
-  math_engine: mathjax
-  syntax_highlighter: rouge
-
-permalink: /:year-:month-:day-:title/
-
-# -----------------------------
-# TOC & Navigation
-# -----------------------------
 toc:
   enabled: true
-  h_min: 1
-  h_max: 3
+  h_min:   1
+  h_max:   3
 
-navigation:
-  collapse: true
+# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
+favicon_path:     /assets/gitbook/images/favicon.ico
 
-# -----------------------------
-# 플러그인 & 제외
-# -----------------------------
-plugins:
-  - jekyll-remote-theme
-  - jemoji
+# markdown render engine.
+markdown:         kramdown
+kramdown:
+  auto_ids:               true
+  input:                  GFM
+  math_engine:            mathjax
+  smart_quotes:           lsquo,rsquo,ldquo,rdquo
+  toc_levels:             1..6
+  syntax_highlighter:     rouge
+  syntax_highlighter_opts:
+    guess_lang:           true
+
+syntax_highlighter_style: colorful
+
+markdown_ext:             markdown,mkdown,mkdn,mkd,md
+
+# Permalinks
+permalink:                /:categories/:year-:month-:day-:title:output_ext
+
+# Disqus comments
+# disqushandler:            sighingnow
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
   - _drafts
 
-# -----------------------------
-# Collections (매우 중요)
-# -----------------------------
 collections:
-  a_posts:            
+  pages:
     output: true
-    permalink: /:year/:month/:day/:title/
-  b_pages:
+    permalink: /:collection/:path/
+  others:
     output: true
-  c_others:
-    output: true
+    permalink: /:collection/:path/
 
-# -----------------------------
-# 기본값 설정 
-# -----------------------------
-defaults:
-  - scope:
-      path: "_a_posts"
-    values:
-      layout: default      # 중요: post 레이아웃은 사이드바에서 빠질 수 있음
-      has_children: false
-      nav_order: 10        # 자식들이 가질 기본 순서
+ordered_collections:
+  - posts
+  - pages
+  - others
+
+page_width: 800px
+
+destination:      ./_site
+incremental:      false
+regenerate:       true
+
+plugins:
+  - jekyll-feed
+  - jekyll-readme-index
+  - jemoji

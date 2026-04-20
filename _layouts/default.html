@@ -1,12 +1,28 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE HTML>
+<html lang="ko">
 <head>
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+    {% include head.html %}
 </head>
 <body>
-
-{{ content }}
-
+    <div class="book">
+        <div class="book-summary">
+            <nav role="navigation">
+                {% include nav.html %} </nav>
+        </div>
+        <div class="book-body">
+            <div class="body-inner">
+                <div class="book-header" role="navigation">
+                    <a class="btn pull-left js-toolbar-action" href="#"><i class="fa fa-align-justify"></i></a>
+                    <h1>{{ page.title }}</h1>
+                </div>
+                <div class="page-wrapper" tabindex="-1" role="main">
+                    <div class="page-inner">
+                        <section class="normal markdown-section">
+                            {{ content }} </section>
+                    </div>
+                </div>
+            </div>
+            {% include footer.html %} </div>
+    </div>
 </body>
 </html>
