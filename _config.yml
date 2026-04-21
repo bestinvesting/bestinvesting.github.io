@@ -68,8 +68,8 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - pages
   - posts
+  - pages
   - lectures
 
 page_width: 800px
