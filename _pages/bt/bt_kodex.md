@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "BT: 오늘의 시그널(ETF)"
+title: BT, 오늘의 시그널(ETF)
 author: Best Investor
-date: "2026-07-14 07:12:45"
+date: 2026-07-14 
 category: BT
 mermaid: true
 parent: 포트폴리오

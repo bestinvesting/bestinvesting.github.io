@@ -1,7 +1,7 @@
 ---
-title: "BT: 전략2(Stock_Future)"
+title: BT, 전략2(Stock_Future)
 author: Best Investor
-date: "2026-07-14 07:19:05"
+date: 2026-07-14 
 category: BT
 layout: post
 mermaid: true
