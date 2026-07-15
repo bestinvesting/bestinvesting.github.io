@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "BT, 주식선물"
+title: BT, 주식선물
 author: Best Investor
-date: "2026-07-15"
+date: 2026-07-15
 category: BT
 mermaid: true
 parent: 포트폴리오
