@@ -54,6 +54,13 @@
         "change": "+0.23% · 11/13 종가",
         "tone": "up",
         "source": 3
+      },
+      {
+        "name": "김치 프리미엄",
+        "symbol": "BTC · Upbit / Coinbase",
+        "value": "+2.34%",
+        "change": "18:21 KST · 전일비 미집계",
+        "source": 12
       }
     ],
     "story": [
@@ -159,6 +166,21 @@
         "title": "Coinbase Institutional · Weekly: From Hack to Hawk",
         "url": "https://www.coinbase.com/en-au/institutional/research-insights/research/weekly-market-commentary/weekly-2026-11-13",
         "asOf": "11/13 발행 · 30일 스테이블코인 공급 변화에 대한 기관 집계, 현재 실시간 잔액 아님"
+      },
+      {
+        "title": "Upbit BTC/KRW ticker · 김치 프리미엄 국내 가격",
+        "url": "https://api.upbit.com/v1/ticker?markets=KRW-BTC",
+        "asOf": "2026-11-14 18:21:00 KST · BTC 91,787,000원"
+      },
+      {
+        "title": "Coinbase BTC/USD ticker · 김치 프리미엄 해외 가격",
+        "url": "https://api.exchange.coinbase.com/products/BTC-USD/ticker",
+        "asOf": "2026-11-14 18:21:01 KST · BTC $67,076.16"
+      },
+      {
+        "title": "Frankfurter USD/KRW 기준환율 · 김치 프리미엄 환산",
+        "url": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=KRW",
+        "asOf": "2026-11-13 기준 · 1 USD = 1,337.13 KRW · 실시간 환율 아님"
       }
     ],
     "issues": [
@@ -282,8 +304,9 @@
       "선물 OI·펀딩·청산 규모와 섹터 지수·시장 폭은 동일 시점 원자료를 확보하지 못해 정량 판단에서 제외했습니다.",
       "스테이블 공급 감소는 11/13 기관 리포트의 30일 집계입니다. 오늘 현재의 전체 발행 잔액과 코인 매수·매도 자금으로 간주하지 않습니다. 밈 시장은 별도 특이점을 교차 확인하지 못했습니다.",
       "이번 실제 브리핑이 첫 발행본이므로 전일 브리핑과 비교하지 않습니다. ETF·금리 비교는 원자료의 직전 거래일 수치입니다.",
-      "이전판과 가격 공급자·수익률 기간을 변경했습니다. 시세 수준과 수익률 변화만으로 장중 회복 또는 악화를 추론하지 않습니다. API 응답 원문은 이번 조회 시점의 스냅샷입니다."
+      "이전판과 가격 공급자·수익률 기간을 변경했습니다. 시세 수준과 수익률 변화만으로 장중 회복 또는 악화를 추론하지 않습니다. API 응답 원문은 이번 조회 시점의 스냅샷입니다.",
+      "김치 프리미엄은 11/14 18:21 KST 국내외 체결가와 11/13 USD/KRW 기준환율로 산출한 참고값입니다. 주말 실시간 환율 및 체결 비용을 반영하지 않으며, 프리미엄 수준 자체는 매수·매도 신호가 아닙니다."
     ],
-    "correctionReason": "11/14 17:03 KST 거래소 API 직접 조회로 캐시 시세 교체. 공급자 당일 수익률을 Coinbase Exchange 24시간 통계(last/open−1)로 변경했으므로 이전 수익률과 직접 연결하지 않음. 스테이블코인 유동성 관련 기관 리포트 추가."
+    "correctionReason": "상단 김치 프리미엄 지표 추가. 18:21 KST 별도 관측이며 기존 주요 지표·시황의 관측 시각은 유지."
   }
 ]

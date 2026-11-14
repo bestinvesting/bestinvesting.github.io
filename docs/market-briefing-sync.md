@@ -16,3 +16,9 @@ Use authenticated GitHub tools for repository `bestinvesting/bestinvesting.githu
 Do not copy access tokens, private operational instructions, or user account information. Public market report content is authorized for this public blog. If either publication fails, state which destination succeeded and which failed. A GitHub commit is not proof that Pages deployment succeeded; check the deployment workflow status.
 
 The US update task continues to update `us-market-briefing/reports.json` and regime records. The homepage reads those same files, so it updates together without duplicating data. Preserve the shared menu script and absolute data routes if refreshing briefing HTML.
+
+
+## 김치 프리미엄 · 방문 집계 (2026-11-14)
+- 데일리 metrics에 김치 프리미엄을 포함한다. 국내 BTC KRW / (해외 BTC USD × USDKRW) - 1. 양쪽 가격 시각과 환율 기준일을 기록한다. 주말 기준환율 사용은 참고값으로 명시. 전일 동일 기준이 없으면 전일비를 만들지 않는다. 본문에는 의미 있는 변화만 반영한다.
+- 상단 7개 카드 및 전일 비교를 유지한다. 과거 미관측 값은 —로 표시한다.
+- assets/market-navigation.js는 하단 익명 브라우저 방문 집계를 실행한다. 집계 API는 공개 미국 Site의 /api/visitors이며 보고서 저장 권한과 독립적이다. 날짜는 KST, 누적은 전체 고유 브라우저, 오늘은 당일 고유 브라우저. 집계 시작 2026-11-14, IP 미저장. 삭제·덮어쓰기 금지. 오류시 숨긴다.
