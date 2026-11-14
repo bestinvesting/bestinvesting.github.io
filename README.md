@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Best Investor's Blog
-permalink: /
+permalink: /blog/
 ---
 
 

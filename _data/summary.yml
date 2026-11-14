@@ -1,7 +1,10 @@
 summary:
-  - title: Home
+  - title: 미국 증시 브리핑
     url: /
-
+  - title: 크립토 시장 브리핑
+    url: /crypto-market-briefing/
+  - title: 기존 메뉴
+    url: /blog/
   - title: Dashboard
     children:
       - title: Theme
