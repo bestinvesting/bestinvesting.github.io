@@ -696,5 +696,334 @@
       "VIX·SOX는 최신 마감 화면을 사용했습니다. 검색에 남은 장중·이전 스냅샷과 혼용하지 않았습니다. https://www.investing.com/indices/volatility-s-p-500-historical-data https://www.investing.com/indices/phlx-semiconductor-historical-data"
     ],
     "updatedAt": "2026-11-12T22:35:52.388Z"
+  },
+  {
+    "date": "2026-11-14",
+    "session": "미국 2026-11-13 금요일 정규장 마감(16:00 EST / 11월 14일 06:00 KST) · 작성 2026-11-14 09:51 KST · 주말 브리핑, 금요일 마감 기준",
+    "summary": "금요일 미국장은 S&P 500 −0.40%, 나스닥 −0.91%, 다우 +0.10%로 혼조 마감했습니다. SOX −3.43%, 10년물 공식치 5.15%가 함께 확인됐습니다. 해석: PPI 월간 상승세 둔화만으로 기술주 할인율 부담이 해소됐다고 보기 어렵습니다. 다음 국내 거래일에는 반도체와 방어주 간 상대수익률, 원/달러·외국인 선물 수급을 확인할 구간입니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,561.67",
+        "change": "−0.40% · −30.73p"
+      },
+      {
+        "name": "NASDAQ",
+        "value": "25,136.27",
+        "change": "−0.91% · −229.82p"
+      },
+      {
+        "name": "DOW",
+        "value": "52,347.55",
+        "change": "+0.10% · +50.46p"
+      },
+      {
+        "name": "VIX",
+        "value": "19.30",
+        "change": "+3.21% · 11/13 마감 집계 · 비교 기준 18.70"
+      },
+      {
+        "name": "미 국채 10년",
+        "value": "5.15%",
+        "change": "+5bp · 11/12 공식치 5.10% 대비"
+      },
+      {
+        "name": "필라델피아 반도체 (SOX)",
+        "value": "10,146.3",
+        "change": "−3.43% · −360.4p · 11/13 마감"
+      },
+      {
+        "name": "금 선물 (COMEX 11월)",
+        "value": "$3,879.70/oz",
+        "change": "+$1.30 · +0.03%(계산) · 11/13 결제"
+      }
+    ],
+    "issues": [
+      {
+        "category": "시장 종합",
+        "title": "나스닥 약세 확대, 다우는 소폭 반등",
+        "highlight": {
+          "title": "미국 3대 지수 마감",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "S&P 500",
+              "value": "−0.40%",
+              "status": "neutral"
+            },
+            {
+              "label": "나스닥",
+              "value": "−0.91%",
+              "status": "neutral"
+            },
+            {
+              "label": "다우",
+              "value": "+0.10%",
+              "status": "neutral"
+            }
+          ],
+          "note": "미국 11/13 정규장 · AP 종가·Reuters 소수점 등락률"
+        },
+        "summary": "AP 기준 S&P 500 7,561.67, 나스닥 25,136.27, 다우 52,347.55로 마감했습니다.",
+        "changed": "전일 −0.35%·−0.39%·−0.36%에서 나스닥 낙폭은 커지고 다우는 상승으로 전환했습니다.",
+        "impact": "해석: 지수 전체 방향보다 기술주와 그 밖의 업종 간 차별화를 확인할 필요가 있습니다.",
+        "analysis": "AP 종가와 Reuters 마감치를 대조했습니다. AP 주간 수익률은 S&P 500 +2.5%, 나스닥 +2.3%, 다우 +2.1%로 일간 약세와 주간 상승이 공존했습니다. https://www.reuters.com/business/nasdaq-futures-dip-nvidia-tumult-keeps-investors-edge-2026-11-13/",
+        "follow": "월요일 국내 반도체·방어주 상대수익률과 외국인 현·선물 수급",
+        "source": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74",
+        "sourceName": "AP·Reuters · 2026-11-13 정규장 마감"
+      },
+      {
+        "category": "경제지표",
+        "title": "PPI 월간 상승률은 둔화, 연간 물가 압력은 지속",
+        "highlight": {
+          "title": "10월 미국 PPI",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "최종수요 전월비",
+              "value": "+0.3%",
+              "status": "neutral"
+            },
+            {
+              "label": "최종수요 전년비",
+              "value": "+6.5%",
+              "status": "neutral"
+            },
+            {
+              "label": "식품·에너지·유통 제외 전월비",
+              "value": "+0.5%",
+              "status": "neutral"
+            }
+          ],
+          "note": "BLS 11/13 발표 · 전월비 계절조정, 전년비 비조정"
+        },
+        "summary": "BLS 최종수요 PPI는 10월 전월비 0.3%, 전년비 6.5% 상승했습니다. 식품·에너지·유통서비스 제외 지수는 전월비 0.5% 상승했습니다.",
+        "changed": "전일 예정이던 PPI가 발표됐습니다. 최종수요 전월비는 9월 수정치 +1.4%에서 둔화했습니다.",
+        "impact": "해석: 월간 둔화를 물가 안정 완료로 해석하기 어렵습니다. 광범위한 비용 압력과 기업 마진을 함께 점검해야 합니다.",
+        "analysis": "상품 +0.5%, 서비스 +0.2%로 모두 상승했습니다. 식품·에너지 제외와 식품·에너지·유통서비스 제외는 다른 지표이므로 혼용하지 않습니다. 시장 예상치 수치는 본 브리핑에서 별도 채택하지 않았습니다.",
+        "follow": "기업 가격 전가·매출총이익률과 다음 물가 지표, 금리 반응",
+        "source": "https://www.bls.gov/news.release/archives/ppi_11132026.htm",
+        "sourceName": "BLS · 2026-11-13 공식 PPI"
+      },
+      {
+        "category": "거시·금리",
+        "title": "10년물은 5.15%로 상승, 금은 소폭 반등",
+        "highlight": {
+          "title": "금리와 금 결제",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "미 국채 10년",
+              "value": "5.15%",
+              "status": "neutral"
+            },
+            {
+              "label": "전일 공식치 대비",
+              "value": "+5bp",
+              "status": "neutral"
+            },
+            {
+              "label": "COMEX 11월 금",
+              "value": "$3,879.70/oz",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/13 미 재무부 공식 곡선·WSJ/Dow Jones 결제 · USD/트로이온스"
+        },
+        "summary": "미 재무부 11/13 10년물은 5.15%로 전일 5.10%보다 5bp 높았습니다. COMEX 11월 금은 $1.30 오른 $3,879.70로 결제됐습니다.",
+        "changed": "전일 금 급락 이후 소폭 반등했지만 10년물 수익률은 추가 상승했습니다.",
+        "impact": "해석: 금리 상승은 성장주 할인율·차입비용 부담을 유지할 수 있습니다. 금의 작은 반등만으로 위험회피 강화를 확정하지 않습니다.",
+        "analysis": "금 일간 +0.03%는 1.30÷3,878.40으로 계산한 반올림 수치입니다. WSJ 주간 변화 −4.55%와 구분합니다. 동일한 11월 최근월물 결제 기준을 유지하며 12월물·현물·장중 가격을 혼합하지 않습니다. https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211",
+        "follow": "달러·원화와 미 장기금리 동행, 국내 성장주 민감도",
+        "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve",
+        "sourceName": "미 재무부 11/13 · WSJ/Dow Jones 11/13"
+      },
+      {
+        "category": "시장구조",
+        "title": "전일 상승했던 반도체 경쟁사도 하락 전환",
+        "highlight": {
+          "title": "반도체와 변동성",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "필라델피아 반도체",
+              "value": "−3.43%",
+              "status": "neutral"
+            },
+            {
+              "label": "AMD",
+              "value": "−8.75%",
+              "status": "neutral"
+            },
+            {
+              "label": "VIX 마감",
+              "value": "19.30",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/13 정규장·VIX 마감 집계 · Investing 역사적 데이터"
+        },
+        "summary": "SOX는 10,146.3으로 3.43% 하락했습니다. AMD는 8.75%, Broadcom은 4.76% 하락했습니다.",
+        "changed": "전일 AMD +5.86%, AVGO +5.54%에서 동반 하락했습니다. VIX도 상승했습니다.",
+        "impact": "해석: NVIDIA 경쟁사라는 이유만으로 방어력을 기대하기 어렵습니다. 국내 반도체는 고객별 수요와 업종 전체 위험선호를 함께 확인해야 합니다.",
+        "analysis": "VIX 공급자 현재 기록은 전일 18.70, 당일 19.30으로 +3.21%입니다. 어제 브리핑의 18.69와 0.01 차이가 있어 기존 이력은 보존하며 공급자의 현재 비교 기준을 명시합니다. https://www.investing.com/indices/volatility-s-p-500-historical-data https://www.investing.com/equities/adv-micro-device-historical-data https://www.investing.com/equities/avago-technologies-historical-data",
+        "follow": "월요일 반도체 상승 종목 확산·거래대금·vKOSPI 반응",
+        "source": "https://www.investing.com/indices/phlx-semiconductor-historical-data",
+        "sourceName": "Investing.com · 2026-11-13 마감 집계"
+      },
+      {
+        "category": "기업·실적",
+        "title": "Cisco: 매출 성장과 매출총이익률 하락을 함께 확인",
+        "highlight": {
+          "title": "Cisco FY2027 1분기",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "매출",
+              "value": "185억 달러",
+              "status": "neutral"
+            },
+            {
+              "label": "GAAP 주당순이익",
+              "value": "$1.14",
+              "status": "neutral"
+            },
+            {
+              "label": "비GAAP 매출총이익률",
+              "value": "65.6%",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/12 회사 발표 · 10/24 종료 분기, 11/13 주가 반응과 구분"
+        },
+        "summary": "Cisco는 매출 185억 달러(+24%), GAAP EPS $1.14, 비GAAP EPS $1.40를 공시했습니다. 비GAAP 매출총이익률은 전년 68.1%에서 65.6%로 낮아졌습니다.",
+        "changed": "11/12 장 마감 후 실적 발표를 거친 11/13 CSCO 정규장 주가는 6.24% 하락했습니다.",
+        "impact": "해석: AI 관련 매출 성장만으로 주가 상승을 보장하지 않습니다. 성장률과 마진·밸류에이션을 함께 평가할 필요가 있습니다.",
+        "analysis": "회사는 FY2027 매출 가이던스를 748억~758억 달러로 상향했습니다. 이는 전망이며 확정 실적이 아닙니다. 주가 하락을 마진 하나의 인과로 확정하지 않습니다. https://www.investing.com/equities/cisco-sys-inc-historical-data",
+        "follow": "AI 인프라 매출의 수익성·주문 전환·제품 믹스",
+        "source": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-FIRST-QUARTER-EARNINGS/default.aspx",
+        "sourceName": "Cisco IR · 2026-11-12 실적 / Investing 11/13"
+      },
+      {
+        "category": "연준·정책",
+        "title": "주택 비용 부담과 물가 안정의 정책 상충관계",
+        "highlight": {
+          "title": "정책 확인 단계",
+          "kind": "steps",
+          "items": [
+            {
+              "label": "콜린스 공식 연설",
+              "value": "11/13 공개",
+              "status": "done"
+            },
+            {
+              "label": "물가 안정·주택 영향",
+              "value": "점검 중",
+              "status": "current"
+            },
+            {
+              "label": "차기 정책금리 결정",
+              "value": "미정",
+              "status": "pending"
+            }
+          ],
+          "note": "보스턴 연은 공식 원문 · 발언은 정책 결정이 아님"
+        },
+        "summary": "콜린스 보스턴 연은 총재는 긴축이 단기 주택 비용·공급에 부담을 줄 수 있지만 장기 물가 안정이 주택시장에도 이롭다고 설명했습니다.",
+        "changed": "전일 주택 판매 부진 확인 이후 통화정책과 주택의 상충관계를 다룬 공식 연설이 공개됐습니다.",
+        "impact": "해석: 주택 둔화만으로 빠른 완화를 단정하기 어렵습니다. 물가·주택·성장 지표를 분리해서 봐야 합니다.",
+        "analysis": "공식 연설은 11/13 주택시장 콘퍼런스 발언입니다. 금리 인상 폭·확률을 이 연설로 확정하지 않습니다.",
+        "follow": "연준 공식 결정과 후속 발언, 주택 금융비용과 공급 지표",
+        "source": "https://www.bostonfed.org/-/media/Documents/Speeches/PDF/collins/2026/20261113-text.pdf",
+        "sourceName": "Federal Reserve Bank of Boston · 2026-11-13"
+      }
+    ],
+    "winners": [
+      {
+        "theme": "필수소비·대형 유통",
+        "stocks": "WMT +1.51%",
+        "reason": "11/13 정규장 개별종목 수익률 기준. 상승 확인, 방어적 소비 선호와의 연결은 해석이며 고유 촉매는 확인 불가. https://www.investing.com/equities/wal-mart-stores-historical-data"
+      },
+      {
+        "theme": "대형 은행",
+        "stocks": "JPM +0.98%",
+        "reason": "11/13 정규장 개별종목 수익률 기준. 상승 확인, 금리 상승이 이익 개선을 보장하지 않으며 당일 고유 원인은 확인 불가. https://www.investing.com/equities/jp-morgan-chase-historical-data"
+      },
+      {
+        "theme": "헬스케어·의약품",
+        "stocks": "JNJ +0.79%",
+        "reason": "11/13 정규장 개별종목 수익률 기준. 상승 확인, 당일 고유 원인은 확인 불가. https://www.investing.com/equities/johnson-johnson-historical-data"
+      },
+      {
+        "theme": "통합 에너지",
+        "stocks": "XOM +0.48%",
+        "reason": "11/13 정규장 개별종목 수익률 기준. 상승 확인, 업종 전체 수익률을 의미하지 않으며 고유 원인은 확인 불가. https://www.investing.com/equities/exxon-mobil-historical-data"
+      },
+      {
+        "theme": "기업용 소프트웨어",
+        "stocks": "MSFT +0.17%",
+        "reason": "11/13 정규장 개별종목 수익률 기준. 소폭 상승 확인. 서비스 장애 관련 보도와 종가의 단일 인과는 확정하지 않음. https://www.investing.com/equities/microsoft-corp-historical-data"
+      }
+    ],
+    "losers": [
+      {
+        "theme": "AI 가속기",
+        "stocks": "AMD −8.75%",
+        "reason": "11/13 정규장 종목 수익률 기준. 전일 상승에서 하락 전환. AI 업종 위험 회피와의 연결은 해석. https://www.investing.com/equities/adv-micro-device-historical-data"
+      },
+      {
+        "theme": "채굴 기반 AI 인프라 전환",
+        "stocks": "IREN −6.72%",
+        "reason": "11/13 정규장 종목 수익률 기준. 하락 확인, 당일 고유 원인은 확인 불가. https://www.investing.com/equities/iris-energy-historical-data"
+      },
+      {
+        "theme": "네트워크 장비·실적",
+        "stocks": "CSCO −6.24%",
+        "reason": "11/13 정규장 종목 수익률 기준. 실적 발표 후 하락. 마진 부담이 단일 하락 원인인지는 확인 불가. https://www.investing.com/equities/cisco-sys-inc-historical-data"
+      },
+      {
+        "theme": "데이터센터 개발·호스팅",
+        "stocks": "APLD −5.78%",
+        "reason": "11/13 정규장 종목 수익률 기준. 하락 확인, 당일 고유 원인은 확인 불가. https://www.investing.com/equities/applied-blockchain-historical-data"
+      },
+      {
+        "theme": "맞춤형 반도체·연결",
+        "stocks": "AVGO −4.76%",
+        "reason": "11/13 정규장 종목 수익률 기준. 전일 상승에서 하락 전환. 당일 고유 원인은 확인 불가. https://www.investing.com/equities/avago-technologies-historical-data"
+      }
+    ],
+    "korea": [
+      {
+        "theme": "반도체·HBM·장비",
+        "stocks": "삼성전자 · SK하이닉스 · 한미반도체",
+        "reason": "해석: SOX 약세와 경쟁사 동반 하락은 국내 반도체 위험선호에 부담 가능성. 고객별 주문·이익 전망과 외국인 수급으로 확인. 관찰 종목 예시."
+      },
+      {
+        "theme": "전력·데이터센터",
+        "stocks": "HD현대일렉트릭 · LS ELECTRIC",
+        "reason": "해석: 미국 인프라주 약세가 국내 수주 취소를 의미하지 않습니다. 실제 수주·투자 일정·대금 회수 조건을 반증 기준으로 사용."
+      },
+      {
+        "theme": "방어 소비·헬스케어",
+        "stocks": "KT&G · 대한약품 · 유통 업종",
+        "reason": "해석: 미국 관찰 종목의 방어적 상대 강세가 국내에도 나타나는지 거래대금·실적·환율 민감도로 점검. 직접적 수혜 확정 아님."
+      },
+      {
+        "theme": "KOSPI200 장중 전략",
+        "stocks": "지수 선물 · 반도체 대형주",
+        "reason": "해석: 다음 국내 거래일에 원/달러, 외국인 선물 순매매, 베이시스·프로그램 매매를 확인. 미국 VIX를 vKOSPI와 동일시하지 않음."
+      }
+    ],
+    "watch": [
+      "주말 안내: 오늘 11/14(토) 브리핑은 미국 11/13(금) 완료된 정규장 기준입니다. 미국 11/14~15는 주말 정규장 휴장. 다음 정규장은 11/16(월) 23:30 KST~11/17 06:00 KST입니다.",
+      "11/16 22:30 KST: 뉴욕 연은 Empire State 제조업 조사(공식 08:30 EST). https://www.newyorkfed.org/research/calendars/i-nov26.html",
+      "11/17 22:30 KST: 미국 소매판매·수출입물가, 23:15 KST: 산업생산(공식 달력 08:30·09:15 EST). 일정 변경 가능. https://www.newyorkfed.org/research/calendars/i-nov26.html",
+      "11/18 06:20 KST NVIDIA 실적 발표, 07:00 KST 실적 콜(회사 공지 11/17 13:20·14:00 PST). https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx",
+      "테마 표는 검증한 관찰 종목 중 정규장 종목 수익률로 선정·정렬한 상승 5개·하락 5개 사례입니다. 전체 테마 모집단의 수익률 순위가 아니며, 개별종목 수익률을 업종 수익률로 일반화하지 않습니다.",
+      "10년물은 재무부 공식 일일 곡선 11/13 5.15%, 전일 5.10%와 비교 +5bp입니다. 주식 종가와 산출 시각은 다릅니다. https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve",
+      "금은 COMEX 11월 최근월물 결제 $3,879.70, 전일 대비 +$1.30(+0.03% 계산), 주간 −4.55%. 현물·12월물과 혼용하지 않습니다. https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211",
+      "VIX 공급자 전일 값은 현재 18.70으로 어제 기록 18.69와 0.01 차이입니다. 금일 19.30 및 +3.21%는 현재 공급자 기준이며 과거 브리핑 이력은 유지했습니다. https://www.investing.com/indices/volatility-s-p-500-historical-data"
+    ],
+    "updatedAt": "2026-11-14T00:52:52.522Z"
   }
 ]
