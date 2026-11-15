@@ -1,5 +1,261 @@
 [
   {
+    "date": "2026-11-16",
+    "demo": false,
+    "eyebrow": "2026.11.16 · 월요일 / 미국장 재개 전",
+    "title": "급락 뒤 크립토 반등,\n현물 수요 확인은 미국장 재개 이후",
+    "summary": "07:35 KST 기준 BTC는 24시간 +2.67%, ETH는 +4.86%로 반등했고, 관찰한 SOL·XRP도 BTC보다 강했습니다. 미국 최근 거래일의 금리·달러 부담과 ETF 수급은 아직 바뀌지 않아, 가격 회복과 신규 현물 수요의 확인을 구분할 때입니다.",
+    "takeaway": "크립토 동반 반등 → ETH·알트 상대 회복 → 미국 금리·ETF 재개 후 확인",
+    "metrics": [
+      {
+        "name": "BITCOIN",
+        "symbol": "BTC / USD",
+        "value": "$65,189.45",
+        "change": "+2.67% · 24h · 07:35 KST",
+        "tone": "up",
+        "source": 0
+      },
+      {
+        "name": "ETHEREUM",
+        "symbol": "ETH / USD",
+        "value": "$1,828.42",
+        "change": "+4.86% · 24h · 07:35 KST",
+        "tone": "up",
+        "source": 1
+      },
+      {
+        "name": "NASDAQ",
+        "symbol": "미국 11/13 정규장",
+        "value": "25,136.27",
+        "change": "−0.91% · 최근 정규장 종가",
+        "tone": "down",
+        "source": 4
+      },
+      {
+        "name": "US 2Y",
+        "symbol": "미 국채 2년",
+        "value": "4.88%",
+        "change": "+2bp · 11/13 공식 일일치",
+        "tone": "up",
+        "source": 5
+      },
+      {
+        "name": "US 10Y",
+        "symbol": "미 국채 10년",
+        "value": "5.15%",
+        "change": "+5bp · 11/13 공식 일일치",
+        "tone": "up",
+        "source": 5
+      },
+      {
+        "name": "DXY",
+        "symbol": "달러지수 · 공급자 CFD",
+        "value": "103.41",
+        "change": "+0.23% · 11/13 종가",
+        "tone": "up",
+        "source": 6
+      },
+      {
+        "name": "김치 프리미엄",
+        "symbol": "BTC · Upbit / Coinbase",
+        "value": "+3.24%",
+        "change": "07:35 KST · 전일비 미집계",
+        "source": 10
+      }
+    ],
+    "sources": [
+      {
+        "title": "Coinbase Exchange · BTC-USD 24시간 통계",
+        "url": "https://api.exchange.coinbase.com/products/BTC-USD/stats",
+        "asOf": "2026-11-16 07:35:22 KST 수신 · Coinbase Exchange stats.last/open의 24시간 창"
+      },
+      {
+        "title": "Coinbase Exchange · ETH-USD 24시간 통계",
+        "url": "https://api.exchange.coinbase.com/products/ETH-USD/stats",
+        "asOf": "2026-11-16 07:35:22 KST 수신 · Coinbase Exchange stats.last/open의 24시간 창"
+      },
+      {
+        "title": "Coinbase Exchange · SOL-USD 24시간 통계",
+        "url": "https://api.exchange.coinbase.com/products/SOL-USD/stats",
+        "asOf": "2026-11-16 07:35:22 KST 수신 · Coinbase Exchange stats.last/open의 24시간 창"
+      },
+      {
+        "title": "Coinbase Exchange · XRP-USD 24시간 통계",
+        "url": "https://api.exchange.coinbase.com/products/XRP-USD/stats",
+        "asOf": "2026-11-16 07:35:22 KST 수신 · Coinbase Exchange stats.last/open의 24시간 창"
+      },
+      {
+        "title": "AP · 11/13 미국 정규장 마감",
+        "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74",
+        "asOf": "2026-11-13 16:00 EST / 11-14 06:00 KST · 종가와 하락폭으로 등락률 계산"
+      },
+      {
+        "title": "미 재무부 · 일일 국채 수익률 곡선",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve",
+        "asOf": "2026-11-13 공식 일일치 · 11/12 대비 bp"
+      },
+      {
+        "title": "Investing.com · DXY 일일 자료",
+        "url": "https://kr.investing.com/indices/usdollar-historical-data",
+        "asOf": "2026-11-13 종가 · 공급자 실시간 CFD 표기 자료"
+      },
+      {
+        "title": "BLS · 10월 생산자물가 발표 원문",
+        "url": "https://www.bls.gov/news.release/archives/ppi_11132026.htm",
+        "asOf": "2026-11-13 08:30 EST / 22:30 KST 발표"
+      },
+      {
+        "title": "Farside · 미국 현물 BTC ETF 수급",
+        "url": "https://farside.co.uk/btc/",
+        "asOf": "2026-11-13 거래일 · 11/16 오전 재확인 · 미국 주말 정규장 휴장, 집계 수정 가능"
+      },
+      {
+        "title": "Farside · 미국 현물 ETH ETF 수급",
+        "url": "https://farside.co.uk/eth/",
+        "asOf": "2026-11-13 거래일 · 11/16 오전 재확인 · 미국 주말 정규장 휴장, 집계 수정 가능"
+      },
+      {
+        "title": "Upbit · BTC/KRW 체결가",
+        "url": "https://api.upbit.com/v1/ticker?markets=KRW-BTC",
+        "asOf": "2026-11-16 07:35:20.638 KST 체결 · 89,950,000원"
+      },
+      {
+        "title": "Coinbase Exchange · BTC/USD 체결가",
+        "url": "https://api.exchange.coinbase.com/products/BTC-USD/ticker",
+        "asOf": "2026-11-16 07:35:21.832 KST 체결 · $65,157.04"
+      },
+      {
+        "title": "Frankfurter · USD/KRW 기준환율",
+        "url": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=KRW",
+        "asOf": "2026-11-13 기준 · 1 USD = 1,337.13 KRW · 11/16 실시간 환율 아님"
+      }
+    ],
+    "issues": [
+      {
+        "category": "거시·정책",
+        "title": "금리·달러 부담은 최근 거래일 자료에 남아 있다",
+        "highlights": [
+          "US2Y 4.88% · +2bp / US10Y 5.15% · +5bp",
+          "DXY +0.23% · 나스닥 −0.91%",
+          "모두 미국 11/13 최근 거래일 기준"
+        ],
+        "fact": "미국 최근 정규장 나스닥은 25,136.27로 마감했고, 공식 국채 일일치는 2년 4.88%, 10년 5.15%였습니다. DXY의 최근 일일 종가는 103.41입니다.",
+        "change": "금리 변화는 11/12 대비입니다. 관측 시각은 미국 11/15 일요일 저녁으로, 11/16 미국 정규장과 공식 일일 금리의 새 자료는 아직 없습니다.",
+        "impact": "해석: 새 거시 완화가 확인돼 반등했다고 단정할 수 없습니다. 다음 거래일 금리·달러가 가격 회복에 우호적으로 움직이는지 확인합니다.",
+        "sources": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "category": "크립토 반응",
+        "title": "관찰 자산 동반 반등, ETH·알트의 상대 회복",
+        "highlights": [
+          "BTC $65,189.45 · +2.67% / 24h",
+          "ETH $1,828.42 · +4.86% / 24h",
+          "SOL +4.33% · XRP +7.91% / 24h"
+        ],
+        "fact": "07:35 KST Coinbase Exchange 24시간 통계에서 BTC·ETH·SOL·XRP가 모두 상승했습니다. BTC의 해당 24시간 저가는 $61,946.17입니다.",
+        "change": "같은 관측 창에서 ETH는 BTC보다 +2.19%p, SOL은 +1.66%p, XRP는 +5.24%p 강했습니다. 전일 발행본의 동반 약세에서 오늘 관측 창은 동반 상승으로 바뀌었습니다.",
+        "impact": "해석: 낙폭이 컸던 관찰 자산의 상대 회복입니다. 전일과 오늘의 24시간 창은 다르며, 이 4개 종목만으로 섹터 전체 순환이나 실제 자금 이동을 확정하지 않습니다.",
+        "sources": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "category": "현물 수요",
+        "title": "주말 반등과 ETF 수요 회복은 별도로 검증",
+        "highlights": [
+          "최근 BTC ETF −$185.4M",
+          "최근 ETH ETF +$2.3M",
+          "미국 11/13 거래일 집계 · 신규 거래일 자료 아님"
+        ],
+        "fact": "Farside의 최근 완료 거래일 집계는 BTC ETF 1억8,540만 달러 순유출, ETH ETF 230만 달러 순유입입니다.",
+        "change": "미국 주말 정규장 휴장 동안 새 정규장 ETF 자금 흐름은 발생·집계되지 않았습니다. 이 수치를 오늘 새 유출·유입으로 제시하지 않습니다.",
+        "impact": "해석: 가격 반등의 지속성을 판단하려면 다음 미국 거래일의 현물 수급과 넓은 시장 참여를 확인해야 합니다. 반등만으로 기관 매수가 돌아왔다고 단정하지 않습니다.",
+        "sources": [
+          8,
+          9
+        ]
+      }
+    ],
+    "story": [
+      {
+        "label": "MACRO & POLICY",
+        "title": "크립토는 반등했지만, 거시 자료는 아직 금요일",
+        "body": "최근 미국 거래일의 금리·달러 상승과 나스닥 약세는 그대로 남아 있습니다. 월요일 아침의 코인 반등을 새 미국 정책 결정이나 금리 하락의 결과로 설명할 근거는 이번 조사에서 확인되지 않았습니다.",
+        "note": "미국 11/13 최근 거래일 · 11/14~15 주말 정규장 휴장 · 11/16 정규장 시작 전"
+      },
+      {
+        "label": "CRYPTO RESPONSE",
+        "title": "상대 회복이 수요 회복으로 이어지는지",
+        "body": "BTC·ETH와 관찰한 SOL·XRP가 함께 올랐고 ETH·알트의 상대 수익률이 높았습니다. 이는 가격 반응의 관찰이며 실제 자금 이동은 아닙니다. 다음 ETF 집계와 거래대금·시장 폭의 동반 회복이 후속 확인 조건입니다.",
+        "note": "Coinbase Exchange 11/16 07:35 KST 24시간 통계 · Farside 최근 11/13 집계"
+      }
+    ],
+    "spotlight": null,
+    "rotation": {
+      "title": "관찰 자산의 상대 회복 · ETH·SOL·XRP가 BTC보다 강세",
+      "note": "2026-11-16 07:35:22 KST Coinbase Exchange stats.last/open 24시간 기준. BTC 대비 단순 %p 차이이며 4개 자산 표본입니다. 섹터 전체 순위·거래대금·실제 자금 이동을 뜻하지 않습니다.",
+      "rows": [
+        {
+          "asset": "BTC",
+          "role": "시장 기준",
+          "price": "$65,189.45",
+          "change": "+2.67%",
+          "relative": "기준"
+        },
+        {
+          "asset": "ETH",
+          "role": "스마트계약 플랫폼",
+          "price": "$1,828.42",
+          "change": "+4.86%",
+          "relative": "+2.19%p"
+        },
+        {
+          "asset": "SOL",
+          "role": "스마트계약 플랫폼",
+          "price": "$72.09",
+          "change": "+4.33%",
+          "relative": "+1.66%p"
+        },
+        {
+          "asset": "XRP",
+          "role": "결제 관련 관찰 자산",
+          "price": "$0.9689",
+          "change": "+7.91%",
+          "relative": "+5.24%p"
+        }
+      ]
+    },
+    "checks": [
+      {
+        "title": "반등 참여가 넓어지는가",
+        "text": "ETH·알트의 BTC 대비 강세가 유지되고 거래대금·시장 폭이 함께 개선되는지 확인합니다. 현재 4개 관찰 자산의 상대강도만으로 시장 전체 순환을 확정하지 않습니다."
+      },
+      {
+        "title": "미국 금융 여건의 새 확인",
+        "text": "11/16 미국 정규장 재개 후 나스닥·금리·달러 반응을 확인합니다. 최근 금요일 수치를 월요일 당일 변화로 읽지 않습니다."
+      },
+      {
+        "title": "ETF 수요와 거래소 가용성",
+        "text": "다음 거래일 ETF 집계에서 BTC 유입 전환과 ETH 유입의 지속 여부를 확인합니다. 거래소 입출금 상태는 자산·네트워크별 공식 상태를 확인하며, 예치 잔액 감소를 자동으로 축적 수요로 해석하지 않습니다."
+      }
+    ],
+    "publishedAt": "2026-11-15T22:36:58.945040+00:00",
+    "dataNote": "크립토: 2026-11-16 07:35:22 KST 수신, Coinbase Exchange stats.last 가격 및 (last/open−1)×100의 공급자 24시간 창. 공급자 당일 수익률을 24시간으로 재표기하지 않았습니다. 미국 나스닥·DXY·공식 국채 일일치·ETF는 11/13 최근 완료 거래일; 미국 11/14~15 주말 정규장 휴장, 현재 11/16 미국 정규장 시작 전. 국채 변화는 11/12 대비 bp, 지수·코인은 %. 김치 프리미엄: Upbit BTC/KRW 11/16 07:35:20.638 KST 89,950,000원 / (Coinbase BTC/USD 07:35:21.832 KST $65,157.04 × 11/13 기준환율 1,337.13원) −1 = +3.24%. 두 가격 체결 시각은 약 1.2초 차이. USD/USDT 혼용 없음. 주말 이후 최신 공표된 11/13 기준환율을 사용한 참고값이며 11/16 실시간 환율 아님. 전일 동일 시각 관측값 부재로 전일비 미집계.",
+    "limitations": [
+      "시세는 특정 거래소 통계이며 시장 전체 합성 가격이 아닙니다. 일일 브리핑 간 24시간 수익률의 관측 창은 다릅니다.",
+      "김치 프리미엄은 최신 공표 기준환율을 사용한 참고값입니다. 실시간 환율·수수료·이체 제약은 미반영이며, 프리미엄 수준 자체는 매수·매도 신호가 아닙니다.",
+      "파생 OI·펀딩·청산 규모, 섹터 지수·거래대금·시장 폭은 동일 시점 원자료를 확보하지 못해 정량 인과 판단에서 제외했습니다.",
+      "스테이블코인·밈의 신규 중대 변화를 교차 확인하지 못해 별도 이슈로 추가하지 않았습니다. 특정 거래소 예치 잔액 감소 보도만으로 장기 축적 또는 시장 전체 유동성 증가를 판단하지 않았습니다."
+    ]
+  },
+  {
     "date": "2026-11-15",
     "demo": false,
     "eyebrow": "2026.11.15 · 일요일 / 주말 브리핑",
