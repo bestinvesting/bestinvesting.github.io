@@ -48,3 +48,9 @@ The US update task continues to update `us-market-briefing/reports.json` and reg
 ## 베타 안내 및 오전 갱신
 - 토론 제목 아래 작은 beta-note 안내문을 보존한다. 익명(닉네임) 작성이 현재 기본이고 로그인 도입·개편 가능성이 있음을 안내한다.
 - 미국·한국·크립토는 한국 시간 07:30 예약 작업 시작. 미국은 최근 완료된 정규장, 한국은 최근 완료된 한국 거래일, 크립토는 관측 시각을 명시한 최신 연속거래 자료. 조사·배포 소요에 따라 게시 완료는 이후다. 휴장일에는 최근 거래일을 명시하고 가짜 거래일을 만들지 않는다.
+
+## KOSPI200 주간 시장리포트 (2026-11-17)
+- 월요일 전략브리핑은 한국 주식시장 > 시장리포트에 게재한다. 데일리 JSON과 분리해 korea-market-briefing/data/market-reports.json 및 data/market-reports/YYYY-MM-DD.json에 모든 이력을 보존·병합한다.
+- 한국 원본 Site project appgprj_6af837385228819185cf105cade02c7a에도 dist/korea-market-briefing/data/market-reports.json을 동일하게 반영한다. 현재 정적 Site이므로 지원되는 source workflow와 기존 접근정책을 유지한 배포를 수행한다. Site와 GitBlog 양쪽 읽기·게시를 각각 검증한다.
+- 시장 리포트 렌더러 assets/korea-market-reports.js와 일일 브리핑·공통 메뉴·포럼 코드를 보존한다. 단순 일일 갱신에서 주간 리포트를 삭제·덮어쓰지 않는다.
+- originalBody 원문 보존. body에는 동작하는 출처 URL을 넣고 내부 인용만 있을 때 복원 실패를 명시한다. 통계 확률로 검증되지 않은 주관적 시나리오 비중을 사실처럼 게시하지 않는다.
