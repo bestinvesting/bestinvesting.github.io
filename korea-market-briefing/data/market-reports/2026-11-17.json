@@ -1,0 +1,60 @@
+{
+  "id": "kospi200-daily-2026-11-17",
+  "reportType": "daily",
+  "date": "2026-11-17",
+  "title": "KOSPI200 Daily Report — 2026년 11월 17일",
+  "summary": "국내 급락 뒤 미국 기술주도 약세. 외국인의 현물 매도·선물 매수 엇갈림 속 장초 반전과 수급 동조를 확인합니다.",
+  "asOf": "국내 2026-11-16 마감·15:40 잠정 수급 / 미국 2026-11-16 정규장 마감 / 한국 11/17 장전 작성",
+  "publishedAt": "2026-11-16T22:05:57.025Z",
+  "originalCreatedAt": "2026-11-16T22:05:57.025Z",
+  "notice": "오늘은 예약 시각 이후 수동 발행한 장전 보고서입니다. VKOSPI는 2차 참고 집계, 선물−현물 종가차는 비동시점 참고값입니다. 미확인 지표·확률은 만들지 않았습니다.",
+  "sources": [
+    {
+      "title": "삼성증권 11/16 국내 마감시황 · KRX 인용",
+      "url": "https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111616305082K_02_02.pdf&inlineYn=Y&saveKey=research.pdf",
+      "asOf": "11/16 15:40 기준 수급·지표, 잠정 집계"
+    },
+    {
+      "title": "AP · 미국 11/16 정규장 마감",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-2e6a9c41b6336e9240c1b01585d20cd4",
+      "asOf": "미국 11/16 마감·한국 11/17 06:00"
+    },
+    {
+      "title": "한경 · KOSPI200 선물",
+      "url": "https://markets.hankyung.com/indices/kospi-future",
+      "asOf": "11/16 장마감 · 지연 시세·계약 확인 필요"
+    },
+    {
+      "title": "테마와 놀자 · VKOSPI 참고 집계",
+      "url": "https://themeknow.com/market-gauge.php",
+      "asOf": "11/16 52.64 · 11/13 50.15, KRX 원자료 미확인"
+    },
+    {
+      "title": "연합뉴스 · 외국환시세",
+      "url": "https://www.yna.co.kr/view/AKR20261116128400002",
+      "asOf": "11/16 서울 15:30 달러 기준 1,335.70원"
+    },
+    {
+      "title": "NVIDIA 공식 IR · 실적 발표 일정",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/",
+      "asOf": "미국 11/17 13:20 PT 발표 예정·한국 11/18 06:20"
+    },
+    {
+      "title": "미 Census · 소매판매 발표일정",
+      "url": "https://www.census.gov/retail/release_schedule.html",
+      "asOf": "11/17 08:30 EST·한국 11/17 22:30"
+    },
+    {
+      "title": "KRX 거래·휴장 규정",
+      "url": "https://regulation.krx.co.kr/contents/RGL/03/03010100/RGL03010100T1.jsp",
+      "asOf": "거래일·휴장 규정"
+    },
+    {
+      "title": "국내 거래일 캘린더 보조 확인",
+      "url": "https://traderda.com/market/market-holidays",
+      "asOf": "2026-11-17 정상 거래일 표기·KRX 공지 우선"
+    }
+  ],
+  "body": "# KOSPI200 Daily Report — 2026년 11월 17일\n\n한국시장 장전 수동 발행본입니다. 국내 11/16 마감·미국 11/16 마감 기준이며, 오늘 한국장 가격을 예측값으로 채우지 않았습니다.\n\n## 오늘의 한 문장\n반등 확인보다 하방 재시험을 먼저 점검합니다. 다만 외국인 선물 매수만으로 방향성 매수 복귀를 판단하지 않습니다.\n\n## P1 · 시장 레짐: 핵심 변화 3개\n1. **가격·해외:** 11/16 KOSPI200 791.56(-4.03%), KOSPI 5,100.50(-3.59%). 간밤 미국 S&P500 7,416.59(-1.9%), Nasdaq 24,509.76(-2.5%). 국내 하락 뒤 추가된 미국 약세이므로 한국 하락의 원인으로 소급하지 않습니다. → 하락 갭 위험을 점검하되 첫 15분 반전 여부와 분리합니다. [국내 지표](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111616305082K_02_02.pdf&inlineYn=Y&saveKey=research.pdf) · [미국 마감](https://apnews.com/article/wall-street-stocks-dow-nasdaq-2e6a9c41b6336e9240c1b01585d20cd4)\n2. **수급·베이시스:** 11/16 15:40 잠정 집계에서 외국인 KOSPI 현물 -13,771억원, 기관 -4,647억원, 개인 +13,471억원. 외국인 KOSPI200 선물은 +3,980억원입니다(계약 수 아님). 선물 마감 표시는 789.35로 현물과 단순 차감하면 -2.21p이지만 마감시각이 달라 동시점 베이시스가 아닙니다. → 현물 매도·선물 매수는 헤지·차익거래일 수도 있습니다. [수급 기준](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111616305082K_02_02.pdf&inlineYn=Y&saveKey=research.pdf) · [선물 시세](https://markets.hankyung.com/indices/kospi-future)\n3. **변동성·환율:** VKOSPI 참고 집계는 11/13 50.15→11/16 52.64(+2.49p). 거래소 확정 원자료는 미확인입니다. 11/16 원·달러는 서울 15:30 기준 1,335.70원입니다. → 원화 가격 하나로 위험선호를 판정하지 않습니다. IV 기간구조·RV 괴리·스큐·PCR·동시점 OI는 확인 보류입니다. [변동성 참고](https://themeknow.com/market-gauge.php) · [환율 기준](https://www.yna.co.kr/view/AKR20261116128400002)\n\n정성 점검: 거시 위험 -1 / 변동성 -1(참고 집계) / 시장폭·유동성 N/A. 합산 점수는 산출하지 않았습니다.\n\n## P2 · 반도체 집중 점검\n11/16 삼성전자 -4.47%, SK하이닉스 -7.89%. 두 종목의 동반 약세가 지수에 부담입니다. 오늘은 두 종목의 시가 이후 상대강도와 외국인 매수 연속성을 확인합니다. 전체 업종 순위·10점 점수는 자료 부족으로 미산출입니다. [종목·수급 근거](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111616305082K_02_02.pdf&inlineYn=Y&saveKey=research.pdf)\n\n## P3 · 전략 가설\n- One-line Thesis: 하방 위험은 유지되지만 시초 갭과 장중 추세는 별개다.\n- Variant View: 선물 순매수보다 현물·프로그램 동조 회복이 더 중요하다.\n- Blind Spot: 최신 야간선물·동시점 OI 및 딜러 포지션이 없어 헤지 방향을 확정할 수 없다.\n- Thesis Invalidation: 반도체 동반 회복과 현·선물 매수 동조가 지속되면 하방 우선 가설을 수정한다.\n\n## P4 · 조건부 시나리오 — 통계 확률 아님\nMY ORIGINAL VIEW v1: 반도체·현물 매도가 이어지면 약세 지속, 매도 둔화와 시장폭 회복이면 반전, 신호 충돌이면 혼조를 가정합니다.\nFALSIFY: 미국 약세가 이미 충분히 반영됐거나 신규 정책·실적 호재가 나오면 하방 가설이 실패할 수 있습니다.\nCROWD VIEW: 미수집. MY REVISED VIEW v2: 조건부 하방 경계를 유지하되 개장 후 재평가합니다.\n\n## P5 · 장중 검증·리스크\n현재 판단은 Neutral(조건 확인 전)입니다. 검증된 진입·손절·수량을 제시하는 매매 신호가 아닙니다.\n- **장초:** 하락 갭 후 첫 15분 VWAP 회복과 반도체 동조를 확인합니다. 갭 크기만으로 추종하지 않습니다.\n- **오전→오후:** 첫 범위 돌파가 현물·선물·비차익 수급으로 확인되는지 재평가합니다. 돌파폭은 당일 변동성에 맞춰 검증하며 고정 임계값을 새로 만들지 않습니다.\n- **종가·옵션:** 14:30 이후 비차익 흐름을 다시 확인합니다. 풋 OI만으로 지지선이나 딜러 감마 방향을 단정하지 않습니다.\n\n계좌·체결비용 자료가 없어 수량·R/R은 미산출입니다. 총점 N/A. 핵심 전환 신호는 반도체 동조, 현·선물 수급 일치, 동시점 베이시스 정상화입니다.\n\n## 오늘 이후 이벤트·데이터 과제\n- 11/17 22:30 KST 미국 소매판매. [공식 일정](https://www.census.gov/retail/release_schedule.html)\n- 11/18 06:20 KST NVIDIA 실적 발표 예정, 07:00 컨퍼런스콜. 내일 06시 정기본에는 아직 미발표라는 점을 표시해야 합니다. [공식 IR](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/)\n- 점검 과제: 현물·선물 동일 시각 베이시스, KRX VKOSPI 확정치, 가격×OI 및 옵션 델타 환산 수급 확보.\n\n의사결정 보조·전략 연구용입니다. 당일 후행 결과를 장전 정보처럼 사용하지 않습니다.\n",
+  "originalBody": "# KOSPI200 Daily Report — 2026년 11월 17일\n\n한국시장 장전 수동 발행본입니다. 국내 11/16 마감·미국 11/16 마감 기준이며, 오늘 한국장 가격을 예측값으로 채우지 않았습니다.\n\n## 오늘의 한 문장\n반등 확인보다 하방 재시험을 먼저 점검합니다. 다만 외국인 선물 매수만으로 방향성 매수 복귀를 판단하지 않습니다.\n\n## P1 · 시장 레짐: 핵심 변화 3개\n1. **가격·해외:** 11/16 KOSPI200 791.56(-4.03%), KOSPI 5,100.50(-3.59%). 간밤 미국 S&P500 7,416.59(-1.9%), Nasdaq 24,509.76(-2.5%). 국내 하락 뒤 추가된 미국 약세이므로 한국 하락의 원인으로 소급하지 않습니다. → 하락 갭 위험을 점검하되 첫 15분 반전 여부와 분리합니다. [국내 지표](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111616305082K_02_02.pdf&inlineYn=Y&saveKey=research.pdf) · [미국 마감](https://apnews.com/article/wall-street-stocks-dow-nasdaq-2e6a9c41b6336e9240c1b01585d20cd4)\n2. **수급·베이시스:** 11/16 15:40 잠정 집계에서 외국인 KOSPI 현물 -13,771억원, 기관 -4,647억원, 개인 +13,471억원. 외국인 KOSPI200 선물은 +3,980억원입니다(계약 수 아님). 선물 마감 표시는 789.35로 현물과 단순 차감하면 -2.21p이지만 마감시각이 달라 동시점 베이시스가 아닙니다. → 현물 매도·선물 매수는 헤지·차익거래일 수도 있습니다. [수급 기준](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111616305082K_02_02.pdf&inlineYn=Y&saveKey=research.pdf) · [선물 시세](https://markets.hankyung.com/indices/kospi-future)\n3. **변동성·환율:** VKOSPI 참고 집계는 11/13 50.15→11/16 52.64(+2.49p). 거래소 확정 원자료는 미확인입니다. 11/16 원·달러는 서울 15:30 기준 1,335.70원입니다. → 원화 가격 하나로 위험선호를 판정하지 않습니다. IV 기간구조·RV 괴리·스큐·PCR·동시점 OI는 확인 보류입니다. [변동성 참고](https://themeknow.com/market-gauge.php) · [환율 기준](https://www.yna.co.kr/view/AKR20261116128400002)\n\n정성 점검: 거시 위험 -1 / 변동성 -1(참고 집계) / 시장폭·유동성 N/A. 합산 점수는 산출하지 않았습니다.\n\n## P2 · 반도체 집중 점검\n11/16 삼성전자 -4.47%, SK하이닉스 -7.89%. 두 종목의 동반 약세가 지수에 부담입니다. 오늘은 두 종목의 시가 이후 상대강도와 외국인 매수 연속성을 확인합니다. 전체 업종 순위·10점 점수는 자료 부족으로 미산출입니다. [종목·수급 근거](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111616305082K_02_02.pdf&inlineYn=Y&saveKey=research.pdf)\n\n## P3 · 전략 가설\n- One-line Thesis: 하방 위험은 유지되지만 시초 갭과 장중 추세는 별개다.\n- Variant View: 선물 순매수보다 현물·프로그램 동조 회복이 더 중요하다.\n- Blind Spot: 최신 야간선물·동시점 OI 및 딜러 포지션이 없어 헤지 방향을 확정할 수 없다.\n- Thesis Invalidation: 반도체 동반 회복과 현·선물 매수 동조가 지속되면 하방 우선 가설을 수정한다.\n\n## P4 · 조건부 시나리오 — 통계 확률 아님\nMY ORIGINAL VIEW v1: 반도체·현물 매도가 이어지면 약세 지속, 매도 둔화와 시장폭 회복이면 반전, 신호 충돌이면 혼조를 가정합니다.\nFALSIFY: 미국 약세가 이미 충분히 반영됐거나 신규 정책·실적 호재가 나오면 하방 가설이 실패할 수 있습니다.\nCROWD VIEW: 미수집. MY REVISED VIEW v2: 조건부 하방 경계를 유지하되 개장 후 재평가합니다.\n\n## P5 · 장중 검증·리스크\n현재 판단은 Neutral(조건 확인 전)입니다. 검증된 진입·손절·수량을 제시하는 매매 신호가 아닙니다.\n- **장초:** 하락 갭 후 첫 15분 VWAP 회복과 반도체 동조를 확인합니다. 갭 크기만으로 추종하지 않습니다.\n- **오전→오후:** 첫 범위 돌파가 현물·선물·비차익 수급으로 확인되는지 재평가합니다. 돌파폭은 당일 변동성에 맞춰 검증하며 고정 임계값을 새로 만들지 않습니다.\n- **종가·옵션:** 14:30 이후 비차익 흐름을 다시 확인합니다. 풋 OI만으로 지지선이나 딜러 감마 방향을 단정하지 않습니다.\n\n계좌·체결비용 자료가 없어 수량·R/R은 미산출입니다. 총점 N/A. 핵심 전환 신호는 반도체 동조, 현·선물 수급 일치, 동시점 베이시스 정상화입니다.\n\n## 오늘 이후 이벤트·데이터 과제\n- 11/17 22:30 KST 미국 소매판매. [공식 일정](https://www.census.gov/retail/release_schedule.html)\n- 11/18 06:20 KST NVIDIA 실적 발표 예정, 07:00 컨퍼런스콜. 내일 06시 정기본에는 아직 미발표라는 점을 표시해야 합니다. [공식 IR](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/)\n- 점검 과제: 현물·선물 동일 시각 베이시스, KRX VKOSPI 확정치, 가격×OI 및 옵션 델타 환산 수급 확보.\n\n의사결정 보조·전략 연구용입니다. 당일 후행 결과를 장전 정보처럼 사용하지 않습니다.\n"
+}

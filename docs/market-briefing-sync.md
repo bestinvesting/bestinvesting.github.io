@@ -54,3 +54,8 @@ The US update task continues to update `us-market-briefing/reports.json` and reg
 - 한국 원본 Site project appgprj_6af837385228819185cf105cade02c7a에도 dist/korea-market-briefing/data/market-reports.json을 동일하게 반영한다. 현재 정적 Site이므로 지원되는 source workflow와 기존 접근정책을 유지한 배포를 수행한다. Site와 GitBlog 양쪽 읽기·게시를 각각 검증한다.
 - 시장 리포트 렌더러 assets/korea-market-reports.js와 일일 브리핑·공통 메뉴·포럼 코드를 보존한다. 단순 일일 갱신에서 주간 리포트를 삭제·덮어쓰지 않는다.
 - originalBody 원문 보존. body에는 동작하는 출처 URL을 넣고 내부 인용만 있을 때 복원 실패를 명시한다. 통계 확률로 검증되지 않은 주관적 시나리오 비중을 사실처럼 게시하지 않는다.
+
+## 2026-11-17 Weekly / Daily 최신 개정 (기존 월요일 주간 규칙 대체)
+- Weekly Report는 일요일 아침, Daily Report는 한국 실제 개장일 06:00 KST 발행한다. 기존 07:30 일일 시황은 별도다.
+- 발행·스키마·거래일 확인·정정·Site와 GitBlog 동기화는 docs/kospi200-report-publishing.md를 우선한다. Weekly/Daily를 reportType 및 id로 구분하고 서로 덮어쓰지 않는다.
+- 2026-11-16 주간 원문은 사용자 요청에 따라 2026-11-15 주간호로 제목·표기일을 정정했다. 실제 11/16 원문 작성과 관측 시각을 유지하며 과거 시점 정보로 재표기하지 않는다.
