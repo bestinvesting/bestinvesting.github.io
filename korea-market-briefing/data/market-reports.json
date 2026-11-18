@@ -1,5 +1,80 @@
 [
   {
+    "id": "kospi200-daily-2026-11-19",
+    "reportType": "daily",
+    "date": "2026-11-19",
+    "title": "KOSPI200 Daily Report — 2026년 11월 19일",
+    "summary": "기관 주도 반등에도 외국인 선물 매도·VKOSPI 상승이 공존. 조건부 회복을 점검하며 수능일 개장·종가 시각을 조정합니다.",
+    "asOf": "국내 11/18 마감·15:40 잠정 수급 / 미 금리 11/18 공식치 / 미국 지수 11/18 잠정 마감 / 한국 11/19 장전 작성",
+    "publishedAt": "2026-11-18T21:05:29.098Z",
+    "originalCreatedAt": "2026-11-18T21:05:29.098Z",
+    "notice": "수능일은 휴장이 아닌 시간 변경일입니다. VKOSPI는 거래소 확정 원자료 미확인 참고 집계, 선물−현물 종가차는 비동시점 참고값입니다. 미국 지수는 Reuters preliminary 집계이며 확정 종가로 단정하지 않았습니다. OI·스큐·RV 등 미확인 수치는 만들지 않았습니다.",
+    "sources": [
+      {
+        "title": "KRX · 수능일 거래시간 임시 변경",
+        "url": "https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm",
+        "asOf": "11/19 현물 정규장 10:00~16:30"
+      },
+      {
+        "title": "한화투자증권 · 파생상품 포함 수능일 안내",
+        "url": "https://www.hanwhawm.com/main/bbs/indexView.cmd?cc_gubun=1&mode=center&nn_id=69155&pageVal=1&vc_bid=notice",
+        "asOf": "11/19 KOSPI200 선물·옵션 09:45~16:45, 최종거래일 도래 종목 16:20"
+      },
+      {
+        "title": "삼성증권 · 국내 마감시황 11/18",
+        "url": "https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111816124993K_02_03.pdf&inlineYn=Y&saveKey=research.pdf",
+        "asOf": "11/18 마감지수·15:40 잠정 수급, KRX 인용"
+      },
+      {
+        "title": "한경 · KOSPI200 선물",
+        "url": "https://markets.hankyung.com/indices/kospi-future",
+        "asOf": "11/18 12월물 장마감 786.45"
+      },
+      {
+        "title": "테마와 놀자 · VKOSPI 참고 집계",
+        "url": "https://themeknow.com/market-gauge.php",
+        "asOf": "11/18 55.29·11/17 53.64; KRX 확정 원자료 미확인"
+      },
+      {
+        "title": "연합뉴스 · 서울 15:30 외국환시세",
+        "url": "https://www.yna.co.kr/view/AKR20261118136000002?section=economy%2Fall",
+        "asOf": "11/18 15:30 달러 1,333.00원"
+      },
+      {
+        "title": "미 재무부 · 공식 일별 par 수익률",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+        "asOf": "미국 11/18 2년 4.80%·10년 5.07%; 11/17 4.80%·5.10%"
+      },
+      {
+        "title": "Reuters · 미국 11/18 마감 잠정 집계",
+        "url": "https://www.reuters.com/business/nasdaq-futures-jump-nvidia-forecast-lifts-ai-trade-ahead-anthropic-pricing-2026-11-18/",
+        "asOf": "11/19 장전 열람; preliminary closing data, 확정 종가 교차확인 전"
+      },
+      {
+        "title": "NVIDIA 공식 · FY2027 3분기 실적",
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx",
+        "asOf": "미국 11/17 발표, 한국 11/18 국내장에 이미 반영 가능한 정보"
+      },
+      {
+        "title": "연준 · 10/27~28 FOMC 의사록",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+        "asOf": "미국 11/18 14:00 EST 공개·한국 11/19 04:00; 회의 당시 논의"
+      },
+      {
+        "title": "Walmart 공식 · 실적 발표 일정",
+        "url": "https://corporate.walmart.com/news/2026/11/Walmart-To-Host-Q3-Earnings-Call-Nov-19-2026",
+        "asOf": "11/19 06:00 CST 실적·07:00 CST 콜, KST 21:00·22:00"
+      },
+      {
+        "title": "직전 Daily Report 보관본",
+        "url": "https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-18.json",
+        "asOf": "전일 가설 비교·원문 보존"
+      }
+    ],
+    "body": "# KOSPI200 Daily Report — 2026년 11월 19일\n\n**오늘은 휴장이 아닙니다.** 수능일 현물 정규장 **10:00~16:30**, KOSPI200 선물·옵션 **09:45~16:45**입니다. 최종거래일 도래 종목은 16:20 종료이므로 계약별 확인이 필요합니다. 국내 11/18 마감·잠정 수급, 미국 11/18 확인자료 기준입니다. [KRX 공지](https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm) · [파생상품 시간](https://www.hanwhawm.com/main/bbs/indexView.cmd?cc_gubun=1&mode=center&nn_id=69155&pageVal=1&vc_bid=notice)\n\n## P1 · 핵심 변화 3개: 변화 → 의미 → 검증\n1. **반등했지만 외국인 복귀는 미확인.** 11/18 KOSPI200 787.71(+2.20%), KOSPI 5,067.44(+1.99%). 같은 날 15:40 잠정치에서 기관 현물 +5,117억원, 외국인 -3,274억원, 개인 -6,379억원. 외국인 KOSPI200 선물은 -504억원으로 직전 보고서의 매수에서 매도로 전환했습니다(금액, 계약 수 아님). → 기관 주도 반등을 신규 외국인 추세 매수로 해석하지 않습니다. 오늘 현·선물 동조 여부를 확인합니다. [국내 지표·수급](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111816124993K_02_03.pdf&inlineYn=Y&saveKey=research.pdf)\n2. **가격 회복과 변동성 상승이 공존.** VKOSPI 참고 집계는 11/17 53.64→11/18 55.29(+1.65p). 선물 마감 786.45와 현물 787.71의 단순 차감은 -1.26p로 직전 -3.54p보다 축소됐습니다. → 공포 해소나 차익거래 기회 확정이 아닙니다. 거래소 VKOSPI 확정치와 같은 시각 베이시스를 다시 확인합니다. 마감시각이 다른 종가차는 참고값입니다. [VKOSPI 참고](https://themeknow.com/market-gauge.php) · [선물 시세](https://markets.hankyung.com/indices/kospi-future)\n3. **실적 안도와 긴축 경계의 충돌.** NVIDIA 공식 FY27 3분기 매출은 1,158억달러(+103% YoY)였으나 이는 한국 11/18 장전에 공개된 재료입니다. 미국 11/18 Reuters 잠정 마감 집계는 S&P500 -0.24%, Nasdaq +0.39%이며 SOX는 소폭 하락했습니다(확정 종가 교차확인 전). 새 FOMC 의사록은 추가 긴축 가능성을 논의한 과거 회의 기록이지 새 금리 결정이 아닙니다. → 실적만으로 갭 추세를 확정하지 않습니다. [NVIDIA 실적](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx) · [미국 잠정 마감](https://www.reuters.com/business/nasdaq-futures-jump-nvidia-forecast-lifts-ai-trade-ahead-anthropic-pricing-2026-11-18/) · [의사록 원문](https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm)\n\n11/18 서울 15:30 원·달러는 1,333.00원. 미 재무부 공식 11/18 2년물 4.80%(전일 보합), 10년물 5.07%(-3bp)입니다. 정성 점검은 국내 가격 +1 / 변동성 -1(참고) / 금리 변화 +1, 시장폭·유동성 N/A로 합산하지 않습니다. [환율](https://www.yna.co.kr/view/AKR20261118136000002?section=economy%2Fall) · [공식 금리](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026)\n\n## P2 · 반도체\n11/18 SK하이닉스 +4.19%로 반등했지만 외국인은 삼성전자 보통주를 순매도했습니다. 개별종목 반등을 업종 전체 수급 회복으로 확대하지 않습니다. 업종 순위·점수는 미산출입니다. [종목·수급](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111816124993K_02_03.pdf&inlineYn=Y&saveKey=research.pdf)\n\n## P3 · 직전 가설 수정\n- One-line Thesis: 하방 우선에서 **조건부 회복 점검**으로 수정하되 추세 전환은 보류합니다.\n- Variant View: 기관 반등과 외국인 위험선호 복귀는 다른 사건입니다.\n- Blind Spot: 동시점 OI·IV 기간구조·스큐·PCR·RV 괴리·딜러 포지션은 미확인입니다.\n- Thesis Invalidation: 반도체 재약세와 외국인 현·선물 동반 매도가 이어지면 회복 가설을 철회합니다.\n\n## P4 · 조건부 시나리오\nMY ORIGINAL VIEW v1은 하방 경계+기관 흡수 확인이었습니다. 반등 지속은 반도체·수급 동조, 재하락은 매도 재확대, 혼조는 기관 흡수와 외국인 이탈 충돌을 조건으로 둡니다. FALSIFY: 변동성 상승이 단순 이벤트 수요가 아닌 하방 헤지 강화라면 회복 해석이 틀릴 수 있습니다. CROWD VIEW 미수집. MY REVISED VIEW v2는 조건부 회복 점검이며 확률은 부여하지 않습니다. [직전 원문](https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-18.json)\n\n## P5 · 오늘 장중 확인 조건\nNeutral(확인 전), 주문 신호가 아닙니다.\n- **갭·장초:** 선물 09:45~10:00과 현물 개장 후 10:00~10:15를 분리합니다. 현물 첫 15분 VWAP·반도체 동조로 갭 추세/반전을 판별합니다.\n- **오전→오후·돌파:** 개장 기준 경과시간으로 표본을 정렬합니다. 첫 범위 돌파에 동시점 베이시스와 현·선물 수급이 동반되는지 재평가합니다.\n- **종가·옵션:** 평시 14:30 점검은 오늘 15:30으로 이동합니다. 비차익 프로그램과 최종거래일 옵션의 16:20 전후 흐름을 구분하되, OI만으로 딜러 감마 방향을 단정하지 않습니다.\n\n총점·수량·R/R은 N/A. 전환 신호는 반도체 동조, 외국인 현·선물 방향 일치, 동시점 베이시스입니다. 전략 연구·의사결정 보조용입니다.\n\n## 이벤트\n- **오늘 09:45/10:00:** 선물·현물 순차 개장. **16:20/16:30/16:45:** 최종거래일 도래 종목·현물·선물 종료 시각을 구분합니다. [거래시간 안내](https://www.hanwhawm.com/main/bbs/indexView.cmd?cc_gubun=1&mode=center&nn_id=69155&pageVal=1&vc_bid=notice)\n- **오늘 21:00 실적·22:00 콜(KST):** Walmart. 미국 소비·재고·가격 전가를 점검할 예정이며 발표 결과는 미포함입니다. [공식 일정](https://corporate.walmart.com/news/2026/11/Walmart-To-Host-Q3-Earnings-Call-Nov-19-2026)\n",
+    "originalBody": "# KOSPI200 Daily Report — 2026년 11월 19일\n\n**오늘은 휴장이 아닙니다.** 수능일 현물 정규장 **10:00~16:30**, KOSPI200 선물·옵션 **09:45~16:45**입니다. 최종거래일 도래 종목은 16:20 종료이므로 계약별 확인이 필요합니다. 국내 11/18 마감·잠정 수급, 미국 11/18 확인자료 기준입니다. [KRX 공지](https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm) · [파생상품 시간](https://www.hanwhawm.com/main/bbs/indexView.cmd?cc_gubun=1&mode=center&nn_id=69155&pageVal=1&vc_bid=notice)\n\n## P1 · 핵심 변화 3개: 변화 → 의미 → 검증\n1. **반등했지만 외국인 복귀는 미확인.** 11/18 KOSPI200 787.71(+2.20%), KOSPI 5,067.44(+1.99%). 같은 날 15:40 잠정치에서 기관 현물 +5,117억원, 외국인 -3,274억원, 개인 -6,379억원. 외국인 KOSPI200 선물은 -504억원으로 직전 보고서의 매수에서 매도로 전환했습니다(금액, 계약 수 아님). → 기관 주도 반등을 신규 외국인 추세 매수로 해석하지 않습니다. 오늘 현·선물 동조 여부를 확인합니다. [국내 지표·수급](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111816124993K_02_03.pdf&inlineYn=Y&saveKey=research.pdf)\n2. **가격 회복과 변동성 상승이 공존.** VKOSPI 참고 집계는 11/17 53.64→11/18 55.29(+1.65p). 선물 마감 786.45와 현물 787.71의 단순 차감은 -1.26p로 직전 -3.54p보다 축소됐습니다. → 공포 해소나 차익거래 기회 확정이 아닙니다. 거래소 VKOSPI 확정치와 같은 시각 베이시스를 다시 확인합니다. 마감시각이 다른 종가차는 참고값입니다. [VKOSPI 참고](https://themeknow.com/market-gauge.php) · [선물 시세](https://markets.hankyung.com/indices/kospi-future)\n3. **실적 안도와 긴축 경계의 충돌.** NVIDIA 공식 FY27 3분기 매출은 1,158억달러(+103% YoY)였으나 이는 한국 11/18 장전에 공개된 재료입니다. 미국 11/18 Reuters 잠정 마감 집계는 S&P500 -0.24%, Nasdaq +0.39%이며 SOX는 소폭 하락했습니다(확정 종가 교차확인 전). 새 FOMC 의사록은 추가 긴축 가능성을 논의한 과거 회의 기록이지 새 금리 결정이 아닙니다. → 실적만으로 갭 추세를 확정하지 않습니다. [NVIDIA 실적](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx) · [미국 잠정 마감](https://www.reuters.com/business/nasdaq-futures-jump-nvidia-forecast-lifts-ai-trade-ahead-anthropic-pricing-2026-11-18/) · [의사록 원문](https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm)\n\n11/18 서울 15:30 원·달러는 1,333.00원. 미 재무부 공식 11/18 2년물 4.80%(전일 보합), 10년물 5.07%(-3bp)입니다. 정성 점검은 국내 가격 +1 / 변동성 -1(참고) / 금리 변화 +1, 시장폭·유동성 N/A로 합산하지 않습니다. [환율](https://www.yna.co.kr/view/AKR20261118136000002?section=economy%2Fall) · [공식 금리](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026)\n\n## P2 · 반도체\n11/18 SK하이닉스 +4.19%로 반등했지만 외국인은 삼성전자 보통주를 순매도했습니다. 개별종목 반등을 업종 전체 수급 회복으로 확대하지 않습니다. 업종 순위·점수는 미산출입니다. [종목·수급](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111816124993K_02_03.pdf&inlineYn=Y&saveKey=research.pdf)\n\n## P3 · 직전 가설 수정\n- One-line Thesis: 하방 우선에서 **조건부 회복 점검**으로 수정하되 추세 전환은 보류합니다.\n- Variant View: 기관 반등과 외국인 위험선호 복귀는 다른 사건입니다.\n- Blind Spot: 동시점 OI·IV 기간구조·스큐·PCR·RV 괴리·딜러 포지션은 미확인입니다.\n- Thesis Invalidation: 반도체 재약세와 외국인 현·선물 동반 매도가 이어지면 회복 가설을 철회합니다.\n\n## P4 · 조건부 시나리오\nMY ORIGINAL VIEW v1은 하방 경계+기관 흡수 확인이었습니다. 반등 지속은 반도체·수급 동조, 재하락은 매도 재확대, 혼조는 기관 흡수와 외국인 이탈 충돌을 조건으로 둡니다. FALSIFY: 변동성 상승이 단순 이벤트 수요가 아닌 하방 헤지 강화라면 회복 해석이 틀릴 수 있습니다. CROWD VIEW 미수집. MY REVISED VIEW v2는 조건부 회복 점검이며 확률은 부여하지 않습니다. [직전 원문](https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-18.json)\n\n## P5 · 오늘 장중 확인 조건\nNeutral(확인 전), 주문 신호가 아닙니다.\n- **갭·장초:** 선물 09:45~10:00과 현물 개장 후 10:00~10:15를 분리합니다. 현물 첫 15분 VWAP·반도체 동조로 갭 추세/반전을 판별합니다.\n- **오전→오후·돌파:** 개장 기준 경과시간으로 표본을 정렬합니다. 첫 범위 돌파에 동시점 베이시스와 현·선물 수급이 동반되는지 재평가합니다.\n- **종가·옵션:** 평시 14:30 점검은 오늘 15:30으로 이동합니다. 비차익 프로그램과 최종거래일 옵션의 16:20 전후 흐름을 구분하되, OI만으로 딜러 감마 방향을 단정하지 않습니다.\n\n총점·수량·R/R은 N/A. 전환 신호는 반도체 동조, 외국인 현·선물 방향 일치, 동시점 베이시스입니다. 전략 연구·의사결정 보조용입니다.\n\n## 이벤트\n- **오늘 09:45/10:00:** 선물·현물 순차 개장. **16:20/16:30/16:45:** 최종거래일 도래 종목·현물·선물 종료 시각을 구분합니다. [거래시간 안내](https://www.hanwhawm.com/main/bbs/indexView.cmd?cc_gubun=1&mode=center&nn_id=69155&pageVal=1&vc_bid=notice)\n- **오늘 21:00 실적·22:00 콜(KST):** Walmart. 미국 소비·재고·가격 전가를 점검할 예정이며 발표 결과는 미포함입니다. [공식 일정](https://corporate.walmart.com/news/2026/11/Walmart-To-Host-Q3-Earnings-Call-Nov-19-2026)\n"
+  },
+  {
     "id": "kospi200-daily-2026-11-18",
     "reportType": "daily",
     "date": "2026-11-18",
