@@ -1,0 +1,220 @@
+{
+  "date": "2026-11-20",
+  "demo": false,
+  "eyebrow": "2026.11.20 · 금요일 / 07:28 KST 관측",
+  "title": "미국 주식 매도 확산,\n크립토는 가격 안정과 수요 회복을 구분",
+  "summary": "미국 11/19 정규장에서 나스닥은 2.3% 하락했고 국채금리도 낮아졌습니다. 07:28 KST 관측에서 BTC·ETH의 24시간 하락률은 작았지만, 새로 확인된 11/18 ETF 순유출은 확대됐습니다. 하루 가격 움직임이 잦아들었다고 현물 수요가 회복됐다고 판단하기는 이릅니다.",
+  "takeaway": "주식 위험 회피와 ETF 수요 약화가 이어지는 가운데, 크립토의 작은 24시간 변동을 회복 신호로 확대하지 않습니다.",
+  "metrics": [
+    {
+      "name": "BITCOIN",
+      "symbol": "BTC / USD",
+      "value": "$62,015.38",
+      "change": "−0.24% · 24h · 07:28 KST",
+      "tone": "down",
+      "source": 0
+    },
+    {
+      "name": "ETHEREUM",
+      "symbol": "ETH / USD",
+      "value": "$1,754.66",
+      "change": "−0.03% · 24h · 07:28 KST",
+      "tone": "down",
+      "source": 1
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "미국 11/19 정규장",
+      "value": "23,879.20",
+      "change": "−2.3% · 정규장 종가",
+      "tone": "down",
+      "source": 4
+    },
+    {
+      "name": "US 2Y",
+      "symbol": "미 국채 2년",
+      "value": "4.76%",
+      "change": "−4bp · 11/19 공식 일일치",
+      "tone": "down",
+      "source": 5
+    },
+    {
+      "name": "US 10Y",
+      "symbol": "미 국채 10년",
+      "value": "5.04%",
+      "change": "−3bp · 11/19 공식 일일치",
+      "tone": "down",
+      "source": 5
+    },
+    {
+      "name": "DXY",
+      "symbol": "달러지수 · 공급자 CFD",
+      "value": "103.92",
+      "change": "+0.05% · 공급자 11/19 일일",
+      "tone": "up",
+      "source": 6
+    },
+    {
+      "name": "김치 프리미엄",
+      "symbol": "BTC · Upbit / Coinbase",
+      "value": "+2.59%",
+      "change": "07:28 KST · 전일비 미집계",
+      "source": 9
+    }
+  ],
+  "issues": [
+    {
+      "category": "거시·위험 선호",
+      "title": "주식 매도가 넓어지고 국채금리는 하락",
+      "highlights": [
+        "나스닥 23,879.20 · −2.3%",
+        "S&P500 −2.0% · 구성 종목 90% 이상 하락",
+        "US2Y 4.76% · −4bp / US10Y 5.04% · −3bp"
+      ],
+      "fact": "미국 11/19 정규장에서 주요 주가지수가 함께 하락했습니다. 공식 일일 국채 수익률은 2년 4.76%, 10년 5.04%로 낮아졌습니다.",
+      "change": "전일 나스닥 소폭 반등에서 다시 하락으로 바뀌었고, S&P500 구성 종목의 90% 이상이 내렸습니다. DXY 공급자 일일치는 103.92로 +0.05%였습니다.",
+      "impact": "해석: 금리 하락만으로 위험 선호 회복을 판단하기 어렵습니다. 주식시장 폭·달러·현물 수요를 함께 확인하며, AI 우려를 크립토 가격의 단일 원인으로 단정하지 않습니다.",
+      "sources": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "category": "크립토 반응",
+      "title": "BTC·ETH는 작은 하락, 비교 기간의 차이에 주의",
+      "highlights": [
+        "BTC $62,015.38 · −0.24% / 24h",
+        "ETH $1,754.66 · −0.03% / 24h",
+        "SOL +0.43% · XRP +0.27% / 24h"
+      ],
+      "fact": "07:28 KST Coinbase Exchange 통계에서 BTC·ETH는 24시간 기준 소폭 하락했고 SOL·XRP는 소폭 상승했습니다.",
+      "change": "직전 발행 때보다 BTC·ETH의 관측 24시간 하락률은 작아졌습니다. 다만 시작·종료 시각이 달라 어제부터 하락폭을 회복했다는 뜻은 아닙니다.",
+      "impact": "해석: 미국 정규장 하락률과 크립토 24시간 수익률은 직접 동률 비교할 수 없습니다. 네 자산의 작은 상대 수익률 차이만으로 섹터 주도권 교체나 실제 자금 이동을 판단하지 않습니다.",
+      "sources": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "category": "현물 수요·집계 상태",
+      "title": "11/18 ETF 순유출 확대, 새 거래일은 미집계",
+      "highlights": [
+        "11/18 BTC ETF −$306.5M",
+        "11/18 ETH ETF −$39.8M",
+        "11/19 상품별 미입력 · 전체 합계 미확인"
+      ],
+      "fact": "Farside의 11/18 입력 완료 합계는 BTC ETF 3억650만 달러, ETH ETF 3,980만 달러 순유출입니다. 11/19 상품별 행은 조회 당시 미입력(-)입니다.",
+      "change": "전일 발행 때 미집계였던 11/18 자료가 채워졌습니다. 11/17 BTC −2억3,990만 달러, ETH −2,910만 달러보다 유출 규모가 커졌습니다.",
+      "impact": "해석: 실제 ETF 순유출은 현물 수요 회복 판단에 부담이지만 환매 주체의 고유 목적까지 확인한 것은 아닙니다. 11/19 합계 0.0은 실제 수급 0이 아닌 미집계로 처리합니다.",
+      "sources": [
+        7,
+        8
+      ]
+    }
+  ],
+  "story": [
+    {
+      "label": "MACRO & POLICY",
+      "title": "금리 하락과 주식 위험 회피의 공존",
+      "body": "미국 최근 정규장에서 주식 매도가 넓게 나타났고, 공식 일일 국채금리도 낮아졌습니다. 달러지수 공급자 일일치는 소폭 상승했습니다. 금융 여건을 한 지표로 단순화하지 않고 주식 참여 폭과 달러를 함께 살펴야 합니다.",
+      "note": "미국 11/19 정규장·공식 일일 국채·공급자 DXY"
+    },
+    {
+      "label": "CRYPTO RESPONSE",
+      "title": "가격 변동 축소와 현물 매수의 회복은 별개",
+      "body": "BTC·ETH의 관측 24시간 변동은 작았지만 직전 거래일 ETF 순유출은 확대됐습니다. SOL·XRP의 소폭 상대 강세도 네 자산의 가격 관찰일 뿐입니다. 섹터 점검 결과 의미 있는 자금 순환을 확인하지 못해 별도 회전 표는 생략했습니다.",
+      "note": "11/20 07:28 KST 공급자 24시간 창 · ETF 11/18 입력 완료·11/19 미집계"
+    }
+  ],
+  "spotlight": null,
+  "rotation": null,
+  "checks": [
+    {
+      "title": "새 거래일 ETF 집계 완결성",
+      "text": "11/19 상품별 미입력이 채워지는지 확인하고, BTC·ETH 순유출이 완화되는지 봅니다. 미입력 합계 0.0은 실제 수급으로 사용하지 않습니다."
+    },
+    {
+      "title": "위험 회피 완화의 동반 조건",
+      "text": "미국 주식의 상승 참여 폭과 달러 부담, 크립토 현물 매수가 함께 개선되는지 확인합니다. 금리 하락이나 하루 가격 안정만으로 회복을 확정하지 않습니다."
+    },
+    {
+      "title": "상대강도와 실제 자금 이동",
+      "text": "SOL·XRP 등의 상대강도가 거래대금과 시장 폭으로 뒷받침되는지 점검합니다. 이번 네 자산 표본을 전체 섹터 순위로 확대하지 않습니다."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Coinbase Exchange · BTC-USD 24시간 통계",
+      "url": "https://api.exchange.coinbase.com/products/BTC-USD/stats",
+      "asOf": "2026-11-20 07:28:13 KST 수신 · Coinbase Exchange stats.last/open의 공급자 24시간 창"
+    },
+    {
+      "title": "Coinbase Exchange · ETH-USD 24시간 통계",
+      "url": "https://api.exchange.coinbase.com/products/ETH-USD/stats",
+      "asOf": "2026-11-20 07:28:13 KST 수신 · Coinbase Exchange stats.last/open의 공급자 24시간 창"
+    },
+    {
+      "title": "Coinbase Exchange · SOL-USD 24시간 통계",
+      "url": "https://api.exchange.coinbase.com/products/SOL-USD/stats",
+      "asOf": "2026-11-20 07:28:13 KST 수신 · Coinbase Exchange stats.last/open의 공급자 24시간 창"
+    },
+    {
+      "title": "Coinbase Exchange · XRP-USD 24시간 통계",
+      "url": "https://api.exchange.coinbase.com/products/XRP-USD/stats",
+      "asOf": "2026-11-20 07:28:13 KST 수신 · Coinbase Exchange stats.last/open의 공급자 24시간 창"
+    },
+    {
+      "title": "AP · 미국 11/19 정규장 마감 (Chron 게재 원문)",
+      "url": "https://www.chron.com/business/article/how-major-us-stock-indexes-fared-thursday-22540458.php",
+      "asOf": "미국 2026-11-19 16:00 EST / 한국 11/20 06:00 KST 정규장 마감 · AP 반올림 등락률"
+    },
+    {
+      "title": "미 재무부 · 일일 국채 수익률 곡선",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve",
+      "asOf": "2026-11-19 공식 일일 국채 수익률 · 11/18 대비 2년 −4bp, 10년 −3bp"
+    },
+    {
+      "title": "Investing.com · DXY 일일 자료",
+      "url": "https://kr.investing.com/indices/usdollar-historical-data",
+      "asOf": "2026-11-19 공급자 역사적 일일치 103.92·+0.05% · 비교 기준 11/18은 이번 조회 103.86로 수정 · 실시간 상단과 구분"
+    },
+    {
+      "title": "Farside · BTC ETF 수급",
+      "url": "https://farside.co.uk/btc/",
+      "asOf": "11/20 오전 조회 · 미국 11/18 상품별 입력 완료 −$306.5M · 11/19 전 상품 미입력(-), 집계 수정 가능"
+    },
+    {
+      "title": "Farside · ETH ETF 수급",
+      "url": "https://farside.co.uk/eth/",
+      "asOf": "11/20 오전 조회 · 미국 11/18 상품별 입력 완료 −$39.8M · 11/19 전 상품 미입력(-), 집계 수정 가능"
+    },
+    {
+      "title": "Upbit · BTC/KRW 체결가",
+      "url": "https://api.upbit.com/v1/ticker?markets=KRW-BTC",
+      "asOf": "2026-11-20 07:28:12.320 KST 체결 · BTC 84,576,000원"
+    },
+    {
+      "title": "Coinbase Exchange · BTC/USD 체결가",
+      "url": "https://api.exchange.coinbase.com/products/BTC-USD/ticker",
+      "asOf": "2026-11-20 07:28:12.375 KST 체결 · BTC $62,058.86"
+    },
+    {
+      "title": "Frankfurter · USD/KRW 기준환율",
+      "url": "https://api.frankfurter.dev/v1/latest?base=USD&symbols=KRW",
+      "asOf": "2026-11-19 기준 · 1 USD = 1,328.45 KRW · 실시간 환율 아님"
+    }
+  ],
+  "publishedAt": "2026-11-19T22:29:38.654082+00:00",
+  "dataNote": "크립토 관측 2026-11-20 07:28:13 KST, 가격 Coinbase Exchange stats.last·수익률 (last/open−1)×100의 공급자 24시간 창. 미국 나스닥은 11/19 16:00 EST / 한국 11/20 06:00 KST 정규장 마감, AP 반올림 −2.3%. 미국 11/19 정상 개장. 국채는 11/19 공식 일일치로 11/18 대비 bp. DXY는 공급자 11/19 역사적 일일치 103.92·+0.05%, 11/18 비교치는 이번 조회 103.86(직전 발행 당시 103.80)로 수정돼 과거 발행본은 보존. ETF 11/18 입력 완료·11/19 미집계. 김치 프리미엄: Upbit BTC/KRW 11/20 07:28:12.320 KST 84,576,000원 / (Coinbase BTC/USD 07:28:12.375 KST $62,058.86 × 11/19 기준환율 1,328.45원) −1 = +2.59%. 두 체결 시각 약 0.056초 차이, USD/USDT 혼용 없음. 실시간 환율·비용 미반영 참고값, 전일 동일 시각 관측값 부재로 전일비 미집계.",
+  "limitations": [
+    "거래소 공급자 24시간 창과 미국 정규장 수익률의 기간이 다릅니다. 작은 24시간 변동은 전일 발행 이후의 누적 회복률이 아닙니다.",
+    "DXY는 공급자 CFD 역사적 자료입니다. 공급자 과거 값 수정으로 발행본 간 차이와 이번 공급자 일일 수익률이 다를 수 있습니다.",
+    "11/19 ETF는 조회 당시 상품별 미입력입니다. 11/18도 공급자 집계이며 추후 수정될 수 있습니다.",
+    "섹터 전체 지수·시장 폭·파생 OI·펀딩·청산의 동일 시점 원자료를 확보하지 못했습니다. 네 자산 가격 차이를 실제 자금 순환으로 표시하지 않았습니다.",
+    "알트·스테이블·밈의 신규 시장 전체 중대 변화를 교차 확인하지 못해 별도 이슈를 추가하지 않았습니다.",
+    "김치 프리미엄은 기준환율 사용 참고값으로 수수료·실시간 환율·이체 제약 미반영입니다. 수준 자체는 매수·매도 신호가 아닙니다."
+  ]
+}
