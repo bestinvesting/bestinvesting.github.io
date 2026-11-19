@@ -1,5 +1,65 @@
 [
   {
+    "id": "kospi200-daily-2026-11-20",
+    "reportType": "daily",
+    "date": "2026-11-20",
+    "title": "KOSPI200 Daily Report — 2026년 11월 20일",
+    "summary": "국내 반도체 반등에도 외국인 현·선물 매도 지속. 미국 AI주 급락 잠정 집계에 조건부 회복 가설의 장초 검증 기준을 강화합니다.",
+    "asOf": "국내 11/19 완료장·장후 수급 / 미국 11/19 Reuters 잠정 마감, 11/20 06:05 KST 열람 / 미 금리 최신 확인 11/18",
+    "publishedAt": "2026-11-19T21:05:54.000Z",
+    "originalCreatedAt": "2026-11-19T21:05:54.000Z",
+    "notice": "11/20 정상 거래일. 미국 지수는 Reuters preliminary 집계로 확정 종가 교차검증 전입니다. 선물−현물 종가차는 비동시점 참고값이며 VKOSPI·OI·스큐·RV 괴리와 야간/NDF 환율은 미확인입니다. 기존 07:30 브리핑과 별도 전략 리포트입니다.",
+    "sources": [
+      {
+        "title": "KRX · 수능일에 한정된 거래시간 변경",
+        "url": "https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm",
+        "asOf": "11/19만 변경, 평시 현물 09:00~15:30"
+      },
+      {
+        "title": "거래일 캘린더 · 11/20 정상 거래일",
+        "url": "https://traderda.com/market/market-holidays",
+        "asOf": "2026-11-20"
+      },
+      {
+        "title": "삼성증권 · 국내 마감시황",
+        "url": "https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111916460203K_02_02.pdf&inlineYn=Y&saveKey=research.pdf",
+        "asOf": "11/19 현물 종가 및 16:40 업종 설명; 수급은 더 늦은 연합뉴스 집계 사용"
+      },
+      {
+        "title": "연합뉴스 · 국내 마감 종합",
+        "url": "https://www.yna.co.kr/view/AKR20261119149300008",
+        "asOf": "11/19 17:10 보도, 현물·선물 순매매 금액 및 15:30 환율"
+      },
+      {
+        "title": "한경 · KOSPI200 선물",
+        "url": "https://markets.hankyung.com/indices/kospi-future",
+        "asOf": "11/19 12월물 장마감 796.00"
+      },
+      {
+        "title": "Reuters · 미국 잠정 마감",
+        "url": "https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19/",
+        "asOf": "미국 11/19 preliminary, 한국 11/20 06:05 열람; 확정치 교차검증 전"
+      },
+      {
+        "title": "미 재무부 · 공식 par 수익률",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+        "asOf": "열람 표의 최신 확인 11/18, 11/19 미확인"
+      },
+      {
+        "title": "연준 · 11월 공식 일정",
+        "url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+        "asOf": "미국 11/20 Waller 08:25 EST·Cook 12:15 EST"
+      },
+      {
+        "title": "직전 Daily Report",
+        "url": "https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-19.json",
+        "asOf": "11/19 가설·종가차 비교"
+      }
+    ],
+    "body": "# KOSPI200 Daily Report — 2026년 11월 20일\n\n**오늘은 정상 개장일입니다.** 현물 정규장은 **09:00~15:30**으로 복귀합니다. 수능일 시간 변경은 어제에만 적용됐습니다. 국내 11/19 완료장, 미국 11/19 잠정 마감 자료를 한국 11/20 **06:05 KST**에 확인했습니다. 미국 확정 종가 교차검증 전입니다. [KRX 공지](https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm) · [거래일 캘린더](https://traderda.com/market/market-holidays)\n\n## 핵심 변화 3개 · 사실 → 해석 → 검증\n\n1. **국내 반등과 외국인 이탈이 공존.** 11/19 KOSPI200은 **799.57p(+1.51%)**로 마감했습니다. 코스피 현물 외국인 **-4,035억원**, 기관 **+194억원**, 개인 **-655억원**; KOSPI200 선물은 외국인 **-1,690억원**, 기관 **+2,330억원**, 개인 **-760억원**입니다(연합뉴스 17:10 보도, 금액이지 계약 수가 아님). → 지수 상승을 외국인 신규 추세 매수로 볼 근거는 없습니다. 오늘 현·선물 방향 일치와 기관 흡수 지속을 확인합니다. [지수](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111916460203K_02_02.pdf&inlineYn=Y&saveKey=research.pdf) · [장후 수급](https://www.yna.co.kr/view/AKR20261119149300008)\n\n2. **반도체의 오후 회복이 미국에서 재시험.** 국내 11/19 삼성전자 **+1.13%**, SK하이닉스 **+3.41%**로 마감했습니다. 그러나 미국 11/19 Reuters **잠정 마감**은 S&P500 **7,175.24p(-2.03%)**, Nasdaq **23,885.88p(-2.23%)**이며 SOX도 하락했습니다(06:05 KST 열람). → IPO 기대와 실적 호재만으로 AI 위험선호 회복을 단정하기 어렵습니다. 하락 갭이 발생해도 추종을 미리 결정하지 않고 국내 반도체의 시가 이후 회복 여부로 구분합니다. [국내 종목](https://www.yna.co.kr/view/AKR20261119149300008) · [미국 잠정 집계](https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19/)\n\n3. **가격 회복에도 선물·현물 간 종가차는 확대.** 11/19 12월 선물 마감 **796.00p**와 현물 **799.57p**의 단순 차감은 **-3.57p**입니다. 직전 보고서의 11/18 **-1.26p**보다 음의 차가 커졌지만, 마감시각이 다른 값이므로 정상 베이시스·저평가 확정치가 아닙니다. → 오늘 동시점 베이시스와 프로그램 차익·비차익 흐름을 재확인해야 합니다. OI 증가 없는 반등을 신규 매수 구축으로 단정하지 않습니다. [선물](https://markets.hankyung.com/indices/kospi-future) · [현물](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111916460203K_02_02.pdf&inlineYn=Y&saveKey=research.pdf) · [직전 비교](https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-19.json)\n\n## P1 Macro / P2 Sector\n\n11/19 서울 **15:30 원·달러 1,330.0원(-3.0원)**은 국내장에 우호적인 재료였으나 야간/NDF 값은 확인하지 못했습니다. 미 재무부 공식 표에서 확인한 최신치는 **11/18 2년 4.80%, 10년 5.07%**로, 11/19 변화를 뜻하지 않습니다. 금리 완화 지속 판단은 보류합니다. [환율](https://www.yna.co.kr/view/AKR20261119149300008) · [미 공식 금리](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026)\n\n중국 관련주는 한한령 완화 **기대**로 강세였으나 전면 해제 확정으로 해석하지 않습니다. 반도체·중국 소비주의 확산이 지수 상승과 함께 가는지 점검합니다. 정성 상태는 국내 가격 회복 / 해외 AI 역풍 / 금리 최신 변화·시장폭 N/A. 업종 순위·종합 점수는 미산출입니다. [업종 배경](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111916460203K_02_02.pdf&inlineYn=Y&saveKey=research.pdf)\n\n## P3 · 직전 가설: 유지하되 확인 기준 강화\n\n- **One-line Thesis:** 전일의 ‘조건부 회복 점검’을 유지하되, 추세 전환 판단은 계속 보류합니다.\n- **Variant View:** 국내 오후 반등과 해외 AI 위험선호는 아직 같은 방향이 아닙니다.\n- **Blind Spot:** 최신 VKOSPI 확정치·IV 기간구조·OI 증감·풋콜·스큐·RV 괴리·투자자별 옵션 델타는 미확인입니다. 변동성 진정·딜러 감마 방향을 추정하지 않습니다.\n- **Thesis Invalidation:** 국내 반도체 재약세와 외국인 현·선물 매도가 함께 지속되면 회복 가설을 철회합니다.\n\n## P4 · 전략가설과 반증\n\n**v1:** 기관 흡수가 반등을 지탱할 수 있다. **FALSIFY:** 해외 반도체 약세 전이, 기관 흡수 중단, 비동시점 종가차의 오독을 각각 반증 경로로 둡니다. **CROWD VIEW:** 별도 수집하지 않았습니다. **v2:** 회복 가설 유지, 장초 확인 기준 강화. 회복은 반도체·수급 동조, 하락은 동반 매도 지속, 혼조는 신호 충돌이 조건이며 확률은 부여하지 않습니다.\n\n## P5 · 오늘 장중 확인 조건\n\nNeutral(확인 전), 다음은 검증 가설이지 주문 지시가 아닙니다.\n\n- **갭·장초 추세/반전:** 현물 첫 **15분** VWAP와 삼성전자·SK하이닉스 동조를 봅니다. 하락 갭 뒤 VWAP 회복·매도 둔화는 반전 후보, 회복 실패·동반 매도는 추세 후보입니다.\n- **오전→오후·변동성 돌파:** 첫 범위 돌파에 동시점 베이시스·수급이 동반되는지 확인하고 오후에 다시 판정합니다. 어제 수능일 표본은 시계시각 대신 개장 후 경과시간으로 맞춥니다.\n- **종가 수급·옵션 헤지:** **14:30 이후** 비차익 프로그램과 종가 동시호가를 분리합니다. 옵션은 거래 방향·행사가·잔존만기·델타를 확보한 뒤 해석하며, PCR·OI만으로 헤지 매수/매도를 단정하지 않습니다.\n\n위 시간은 오늘 연구용 관찰 구간입니다. 총점·수량·R/R은 N/A. 계좌정보 없는 주문이나 미검증 승률을 제시하지 않습니다.\n\n## 이벤트 · 한국시간\n\n- **11/20 09:00~15:30:** 국내 현물 정상 거래시간 복귀. 어제 시간 지연을 오늘에 연장 적용하지 않습니다. [KRX](https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm)\n- **11/20 22:25:** Waller 연준 이사 College Fed Challenge 환영사. 정책 발언이 나올지는 미확정입니다. [연준 일정](https://www.federalreserve.gov/newsevents/2026-november.htm)\n- **11/21 02:15:** Cook 연준 이사 ‘세계 맥락에서의 미국 경제’ 연설. 국내장 종료 뒤 금리·달러 재평가 요인입니다. [연준 일정](https://www.federalreserve.gov/newsevents/2026-november.htm)\n",
+    "originalBody": "# KOSPI200 Daily Report — 2026년 11월 20일\n\n**오늘은 정상 개장일입니다.** 현물 정규장은 **09:00~15:30**으로 복귀합니다. 수능일 시간 변경은 어제에만 적용됐습니다. 국내 11/19 완료장, 미국 11/19 잠정 마감 자료를 한국 11/20 **06:05 KST**에 확인했습니다. 미국 확정 종가 교차검증 전입니다. [KRX 공지](https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm) · [거래일 캘린더](https://traderda.com/market/market-holidays)\n\n## 핵심 변화 3개 · 사실 → 해석 → 검증\n\n1. **국내 반등과 외국인 이탈이 공존.** 11/19 KOSPI200은 **799.57p(+1.51%)**로 마감했습니다. 코스피 현물 외국인 **-4,035억원**, 기관 **+194억원**, 개인 **-655억원**; KOSPI200 선물은 외국인 **-1,690억원**, 기관 **+2,330억원**, 개인 **-760억원**입니다(연합뉴스 17:10 보도, 금액이지 계약 수가 아님). → 지수 상승을 외국인 신규 추세 매수로 볼 근거는 없습니다. 오늘 현·선물 방향 일치와 기관 흡수 지속을 확인합니다. [지수](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111916460203K_02_02.pdf&inlineYn=Y&saveKey=research.pdf) · [장후 수급](https://www.yna.co.kr/view/AKR20261119149300008)\n\n2. **반도체의 오후 회복이 미국에서 재시험.** 국내 11/19 삼성전자 **+1.13%**, SK하이닉스 **+3.41%**로 마감했습니다. 그러나 미국 11/19 Reuters **잠정 마감**은 S&P500 **7,175.24p(-2.03%)**, Nasdaq **23,885.88p(-2.23%)**이며 SOX도 하락했습니다(06:05 KST 열람). → IPO 기대와 실적 호재만으로 AI 위험선호 회복을 단정하기 어렵습니다. 하락 갭이 발생해도 추종을 미리 결정하지 않고 국내 반도체의 시가 이후 회복 여부로 구분합니다. [국내 종목](https://www.yna.co.kr/view/AKR20261119149300008) · [미국 잠정 집계](https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19/)\n\n3. **가격 회복에도 선물·현물 간 종가차는 확대.** 11/19 12월 선물 마감 **796.00p**와 현물 **799.57p**의 단순 차감은 **-3.57p**입니다. 직전 보고서의 11/18 **-1.26p**보다 음의 차가 커졌지만, 마감시각이 다른 값이므로 정상 베이시스·저평가 확정치가 아닙니다. → 오늘 동시점 베이시스와 프로그램 차익·비차익 흐름을 재확인해야 합니다. OI 증가 없는 반등을 신규 매수 구축으로 단정하지 않습니다. [선물](https://markets.hankyung.com/indices/kospi-future) · [현물](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111916460203K_02_02.pdf&inlineYn=Y&saveKey=research.pdf) · [직전 비교](https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-19.json)\n\n## P1 Macro / P2 Sector\n\n11/19 서울 **15:30 원·달러 1,330.0원(-3.0원)**은 국내장에 우호적인 재료였으나 야간/NDF 값은 확인하지 못했습니다. 미 재무부 공식 표에서 확인한 최신치는 **11/18 2년 4.80%, 10년 5.07%**로, 11/19 변화를 뜻하지 않습니다. 금리 완화 지속 판단은 보류합니다. [환율](https://www.yna.co.kr/view/AKR20261119149300008) · [미 공식 금리](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026)\n\n중국 관련주는 한한령 완화 **기대**로 강세였으나 전면 해제 확정으로 해석하지 않습니다. 반도체·중국 소비주의 확산이 지수 상승과 함께 가는지 점검합니다. 정성 상태는 국내 가격 회복 / 해외 AI 역풍 / 금리 최신 변화·시장폭 N/A. 업종 순위·종합 점수는 미산출입니다. [업종 배경](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026111916460203K_02_02.pdf&inlineYn=Y&saveKey=research.pdf)\n\n## P3 · 직전 가설: 유지하되 확인 기준 강화\n\n- **One-line Thesis:** 전일의 ‘조건부 회복 점검’을 유지하되, 추세 전환 판단은 계속 보류합니다.\n- **Variant View:** 국내 오후 반등과 해외 AI 위험선호는 아직 같은 방향이 아닙니다.\n- **Blind Spot:** 최신 VKOSPI 확정치·IV 기간구조·OI 증감·풋콜·스큐·RV 괴리·투자자별 옵션 델타는 미확인입니다. 변동성 진정·딜러 감마 방향을 추정하지 않습니다.\n- **Thesis Invalidation:** 국내 반도체 재약세와 외국인 현·선물 매도가 함께 지속되면 회복 가설을 철회합니다.\n\n## P4 · 전략가설과 반증\n\n**v1:** 기관 흡수가 반등을 지탱할 수 있다. **FALSIFY:** 해외 반도체 약세 전이, 기관 흡수 중단, 비동시점 종가차의 오독을 각각 반증 경로로 둡니다. **CROWD VIEW:** 별도 수집하지 않았습니다. **v2:** 회복 가설 유지, 장초 확인 기준 강화. 회복은 반도체·수급 동조, 하락은 동반 매도 지속, 혼조는 신호 충돌이 조건이며 확률은 부여하지 않습니다.\n\n## P5 · 오늘 장중 확인 조건\n\nNeutral(확인 전), 다음은 검증 가설이지 주문 지시가 아닙니다.\n\n- **갭·장초 추세/반전:** 현물 첫 **15분** VWAP와 삼성전자·SK하이닉스 동조를 봅니다. 하락 갭 뒤 VWAP 회복·매도 둔화는 반전 후보, 회복 실패·동반 매도는 추세 후보입니다.\n- **오전→오후·변동성 돌파:** 첫 범위 돌파에 동시점 베이시스·수급이 동반되는지 확인하고 오후에 다시 판정합니다. 어제 수능일 표본은 시계시각 대신 개장 후 경과시간으로 맞춥니다.\n- **종가 수급·옵션 헤지:** **14:30 이후** 비차익 프로그램과 종가 동시호가를 분리합니다. 옵션은 거래 방향·행사가·잔존만기·델타를 확보한 뒤 해석하며, PCR·OI만으로 헤지 매수/매도를 단정하지 않습니다.\n\n위 시간은 오늘 연구용 관찰 구간입니다. 총점·수량·R/R은 N/A. 계좌정보 없는 주문이나 미검증 승률을 제시하지 않습니다.\n\n## 이벤트 · 한국시간\n\n- **11/20 09:00~15:30:** 국내 현물 정상 거래시간 복귀. 어제 시간 지연을 오늘에 연장 적용하지 않습니다. [KRX](https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm)\n- **11/20 22:25:** Waller 연준 이사 College Fed Challenge 환영사. 정책 발언이 나올지는 미확정입니다. [연준 일정](https://www.federalreserve.gov/newsevents/2026-november.htm)\n- **11/21 02:15:** Cook 연준 이사 ‘세계 맥락에서의 미국 경제’ 연설. 국내장 종료 뒤 금리·달러 재평가 요인입니다. [연준 일정](https://www.federalreserve.gov/newsevents/2026-november.htm)\n"
+  },
+  {
     "id": "kospi200-daily-2026-11-19",
     "reportType": "daily",
     "date": "2026-11-19",
