@@ -2858,5 +2858,409 @@
       "마감 자료 재조회에서 NEM −6.05%·JPM −1.77%로 값이 바뀌어 이번 발행본은 재확인한 수치를 채택했습니다. 이전 날짜 발행본은 수정하지 않습니다."
     ],
     "updatedAt": "2026-11-18T22:30:32.784Z"
+  },
+  {
+    "date": "2026-11-20",
+    "session": "미국 2026-11-19(목) 정규장 마감 · 작성 2026-11-20 07:36 KST",
+    "summary": "미국 3대 지수가 모두 2% 이상 하락했습니다. VIX는 28.47로 상승하고 SOX는 2차 역사표 기준 2.42% 하락했습니다. 미 국채 10년 공식 금리는 5.04%로 낮아졌지만 COMEX 11월 금 결제도 1.46% 하락했습니다. 해석: 금리 하락만으로 주식 위험 회피가 해소되지 않은 국면입니다. 국내장은 반도체·외국인 선물과 갭 회복 여부를 함께 확인해야 합니다. 상승 5개는 소형주 개별 사례이며 주요 업종의 강세를 뜻하지 않습니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,175.83",
+        "change": "−2.02% · AP 종가 대비 계산"
+      },
+      {
+        "name": "NASDAQ",
+        "value": "23,879.20",
+        "change": "−2.25% · AP 종가 대비 계산"
+      },
+      {
+        "name": "DOW",
+        "value": "49,097.06",
+        "change": "−2.19% · AP 종가 대비 계산"
+      },
+      {
+        "name": "VIX",
+        "value": "28.47",
+        "change": "+15.92% · 11/19"
+      },
+      {
+        "name": "미 국채 10년",
+        "value": "5.04%",
+        "change": "−3bp · 11/19 공식치"
+      },
+      {
+        "name": "필라델피아 반도체 (SOX)",
+        "value": "9,419.7",
+        "change": "−2.42% · 11/19 · Investing 역사표"
+      },
+      {
+        "name": "금 선물 (COMEX 11월)",
+        "value": "$3,682.10 / 트로이온스",
+        "change": "−1.46% · 11/19 결제 · USD"
+      }
+    ],
+    "issues": [
+      {
+        "category": "시장 종합",
+        "title": "3대 지수 동반 급락, 시장 전반으로 약세 확대",
+        "highlight": {
+          "title": "11월 19일 정규장",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "S&P 500",
+              "value": "−2.02%",
+              "status": "neutral"
+            },
+            {
+              "label": "나스닥",
+              "value": "−2.25%",
+              "status": "neutral"
+            },
+            {
+              "label": "다우",
+              "value": "−2.19%",
+              "status": "neutral"
+            }
+          ],
+          "note": "AP 종가 · 11/18 AP 종가 대비 계산"
+        },
+        "summary": "AP 종가는 S&P 500 7,175.83, 나스닥 23,879.20, 다우 49,097.06입니다. 보도에 따르면 S&P 500 종목의 90% 이상이 하락했습니다.",
+        "changed": "직전 발행본의 혼조에서 3대 지수 모두 2% 이상 하락으로 바뀌었습니다.",
+        "impact": "해석: 특정 AI 종목만의 약세로 보기보다 국내 지수의 시장 폭과 위험 노출을 함께 점검할 구간입니다.",
+        "analysis": "3대 지수 수익률은 직전 발행본의 AP 종가를 같은 기준으로 비교해 두 자리까지 반올림했습니다. AP 나스닥 포인트 변화의 0.01p 차이는 종가 반올림 범위로 구분합니다.",
+        "follow": "KRX 개장 후 갭·상승/하락 종목 수·외국인 선물 확인",
+        "source": "https://apnews.com/article/2f178054aea79d282e5ccf8d62f26a28",
+        "sourceName": "AP · 11/19 마감"
+      },
+      {
+        "category": "시장구조",
+        "title": "VIX 반등과 반도체 약세가 동반",
+        "highlight": {
+          "title": "변동성과 반도체",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "VIX",
+              "value": "28.47",
+              "status": "neutral"
+            },
+            {
+              "label": "VIX 전 거래일비",
+              "value": "+15.92%",
+              "status": "neutral"
+            },
+            {
+              "label": "SOX",
+              "value": "−2.42%",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/19 Investing 역사표 · 2차 집계, 공식 지수 확정치와 별도"
+        },
+        "summary": "현재 역사표에서 VIX는 24.56에서 28.47로 상승했고 SOX는 9,652.8에서 9,419.7로 하락했습니다.",
+        "changed": "직전 발행본의 VIX 하락에서 상승으로 전환했습니다. SOX는 어제 자료 충돌로 —였으므로 발행본 간 변화율은 계산하지 않습니다.",
+        "impact": "해석: 국내 반도체 갭과 vKOSPI·베이시스가 동반 악화하는지 실제 관측이 필요합니다.",
+        "analysis": "SOX 상단 전일비는 같은 Investing 역사표의 11/18 기준입니다. 과거 발행본 —를 소급 보완하지 않습니다. 어제 Reuters 후속 배포는 SOX +0.1%로 바뀌어 역사표 방향과 일치하지만, 공식 확정치 재검증과는 구분합니다. VIX는 국내 vKOSPI가 아닙니다. https://www.investing.com/indices/volatility-s-p-500-historical-data https://wealthinsights.metrobank.com.ph/news/us-stocks-wall-street-ends-mixed-after-nvidia-earnings-fed-minutes",
+        "follow": "확정 지수 자료와 국내 옵션·선물 수급 확인",
+        "source": "https://www.investing.com/indices/phlx-semiconductor-historical-data",
+        "sourceName": "Investing.com · 11/19 역사표"
+      },
+      {
+        "category": "거시·금리",
+        "title": "국채금리 하락과 주식 하락의 동시 발생",
+        "highlight": {
+          "title": "재무부 일일 곡선",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "2년물",
+              "value": "4.76%",
+              "status": "neutral"
+            },
+            {
+              "label": "10년물",
+              "value": "5.04%",
+              "status": "neutral"
+            },
+            {
+              "label": "10년 전 거래일비",
+              "value": "−3bp",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/19 공식치 · 주식시장 종가와 산출 시각이 다름"
+        },
+        "summary": "재무부 공식 2년물은 4.80%에서 4.76%, 10년물은 5.07%에서 5.04%로 낮아졌습니다.",
+        "changed": "장기금리 하락은 지속됐지만 미국 주가지수 낙폭이 커졌습니다.",
+        "impact": "해석: 금리 하락을 성장주 강세나 연준 완화 전환과 동일시하기 어렵습니다.",
+        "analysis": "공식 파수익률 곡선의 같은 만기·전 거래일을 비교했습니다. 장중 호가·TNX·선물과 섞지 않았습니다.",
+        "follow": "금리 하락의 지속성과 달러·주식 동행 변화",
+        "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve",
+        "sourceName": "미 재무부 · 11/19 공식 곡선"
+      },
+      {
+        "category": "거시·제조업",
+        "title": "필라델피아 제조업 확장 둔화, 가격 압력은 상승",
+        "highlight": {
+          "title": "11월 제조업 조사",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "일반경기",
+              "value": "6.3",
+              "status": "neutral"
+            },
+            {
+              "label": "신규주문",
+              "value": "−0.4",
+              "status": "neutral"
+            },
+            {
+              "label": "투입가격",
+              "value": "58.2",
+              "status": "neutral"
+            },
+            {
+              "label": "판매가격",
+              "value": "47.0",
+              "status": "neutral"
+            }
+          ],
+          "note": "필라델피아 연은 11/19 발표 · 11/9~16 조사, 확산지수"
+        },
+        "summary": "일반경기는 20.9에서 6.3으로 낮아졌고 신규주문은 −0.4였습니다. 투입·판매가격 지수는 각각 58.2·47.0으로 상승했습니다.",
+        "changed": "직전 발행본에서 예정이던 조사 결과가 공개됐습니다.",
+        "impact": "해석: 지역 제조업 성장 둔화와 비용 압력이 공존해 국내 수출·마진 전망을 따로 점검할 필요가 있습니다.",
+        "analysis": "확산지수는 증가 응답 비중에서 감소 응답 비중을 뺀 값입니다. 가격 지수 수치를 물가상승률로 해석하거나 지역 조사를 미국 전국 제조업 수치로 일반화하지 않습니다.",
+        "follow": "추가 지역 조사·실제 주문·가격 전가 확인",
+        "source": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/mbos-2026-11",
+        "sourceName": "필라델피아 연은 · 11월 MBOS"
+      },
+      {
+        "category": "거시·고용",
+        "title": "실업수당 소폭 증가, 직전 수치는 상향 수정",
+        "highlight": {
+          "title": "주간 신규 실업수당",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "11/14 종료 주",
+              "value": "20.3만 건",
+              "status": "neutral"
+            },
+            {
+              "label": "수정 전주",
+              "value": "20.2만 건",
+              "status": "neutral"
+            },
+            {
+              "label": "전주비",
+              "value": "+1천 건",
+              "status": "neutral"
+            }
+          ],
+          "note": "노동부 11/19 발표 · 계절조정 속보"
+        },
+        "summary": "신규 실업수당 청구는 203,000건으로 수정된 전주 대비 1,000건 증가했습니다. 전주 값은 200,000건에서 202,000건으로 수정됐습니다.",
+        "changed": "예정 지표가 발표됐으며 단순히 종전 200,000건 대비 증가분으로 비교하지 않습니다.",
+        "impact": "해석: 한 주의 소폭 변화만으로 노동시장 급랭이나 경기침체를 단정할 수 없습니다.",
+        "analysis": "4주 평균은 197,750건으로 수정된 전주 평균보다 2,000건 늘었습니다. 수정치와 속보치를 명확히 구분합니다.",
+        "follow": "연속 청구·후속 수정과 월간 고용 자료",
+        "source": "https://www.dol.gov/index.php/newsroom/releases?agency=39&page=0&state=All&topic=All&year=all",
+        "sourceName": "미 노동부 · 11/19 주간 청구"
+      },
+      {
+        "category": "기업·실적",
+        "title": "Walmart: 매출 성장과 조정 이익의 기준을 구분",
+        "highlight": {
+          "title": "FY27 3분기 실적",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "매출 전년비",
+              "value": "+5.2%",
+              "status": "neutral"
+            },
+            {
+              "label": "세계 전자상거래",
+              "value": "+17%",
+              "status": "neutral"
+            },
+            {
+              "label": "영업이익 전년비",
+              "value": "+16.0%",
+              "status": "neutral"
+            },
+            {
+              "label": "조정 영업이익·고정환율",
+              "value": "+5.5%",
+              "status": "neutral"
+            }
+          ],
+          "note": "Walmart 11/19 공식 자료 · 공시·조정·고정환율 수치 구분"
+        },
+        "summary": "Walmart는 매출 성장과 세계 전자상거래 증가를 발표했습니다. 공시 영업이익 증가율과 조정·고정환율 증가율은 다릅니다.",
+        "changed": "직전 브리핑의 실적 예정 단계에서 실제 발표 확인 단계로 바뀌었습니다.",
+        "impact": "해석: 유통 소비의 회복력과 이익의 반복 가능성을 구분해야 합니다.",
+        "analysis": "미국 비교매출은 연료 제외 2.9%, 미국 전자상거래는 23% 증가했습니다. 주가는 정규장 1.04% 하락해 실적 성장과 주가 방향은 같지 않았습니다. 이를 단일 원인의 결과로 단정하지 않습니다. https://www.investing.com/equities/wal-mart-stores-historical-data",
+        "follow": "판매량·재고·마진과 관세·가격 투자 영향",
+        "source": "https://corporate.walmart.com/news/2026/11/walmart-releases-q3-fy27-earnings",
+        "sourceName": "Walmart · 11/19 FY27 Q3"
+      },
+      {
+        "category": "연준·정책",
+        "title": "금리 전망과 공식 결정은 별도 확인",
+        "highlight": {
+          "title": "다음 공식 발언",
+          "kind": "steps",
+          "items": [
+            {
+              "label": "Waller 환영사",
+              "value": "11/20 22:25",
+              "status": "pending"
+            },
+            {
+              "label": "Cook 경제 연설",
+              "value": "11/21 02:15",
+              "status": "pending"
+            },
+            {
+              "label": "차기 금리 결정",
+              "value": "미정",
+              "status": "pending"
+            }
+          ],
+          "note": "연준 공식 달력 · KST, 발언 내용 미공개·일정 변경 가능"
+        },
+        "summary": "연준 달력에 11/20 08:25 EST Waller 환영사와 12:15 EST Cook의 경제 연설이 예정돼 있습니다.",
+        "changed": "의사록 공개 이후 후속 공식 발언을 확인하는 단계입니다.",
+        "impact": "해석: 시장의 긴축 우려와 실제 정책 결정을 분리해 읽어야 합니다.",
+        "analysis": "Waller 일정은 행사 환영사로, 통화정책에 관한 새 발언이 반드시 나온다는 뜻은 아닙니다. 공개 전 발언 내용이나 차기 금리 수준을 추정 사실로 적지 않습니다.",
+        "follow": "공식 원문 공개 후 실제 발언과 금리 반응",
+        "source": "https://www.federalreserve.gov/newsevents/2026-November.htm",
+        "sourceName": "연준 · 11월 공식 달력"
+      },
+      {
+        "category": "원자재",
+        "title": "COMEX 11월 금 결제 하락 지속",
+        "highlight": {
+          "title": "같은 계약월 결제",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "11월 금",
+              "value": "$3,682.10/oz",
+              "status": "neutral"
+            },
+            {
+              "label": "전 거래일비",
+              "value": "−1.46%",
+              "status": "neutral"
+            },
+            {
+              "label": "달러 변화",
+              "value": "−$54.70",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/19 COMEX 11월물 결제 · USD/트로이온스 · 비율은 계산"
+        },
+        "summary": "11월 인도 금 선물은 트로이온스당 3,682.10달러로 결제됐습니다.",
+        "changed": "직전 11/18 결제 3,736.80달러 대비 54.70달러 하락했습니다. 보도는 한 자리 −1.5%, 상단은 −1.46%로 계산했습니다.",
+        "impact": "해석: 주식 약세가 금 상승으로 자동 연결된다는 전제는 성립하지 않습니다.",
+        "analysis": "현물·12월물·장중 값과 혼합하지 않고 기존 11월 최근월물 결제 기준을 유지합니다.",
+        "follow": "같은 계약월 결제와 향후 롤오버 기준 확인",
+        "source": "https://www.wsj.com/finance/commodities-futures/gold-catches-breath-but-stays-at-over-one-year-lows-b3d16f60",
+        "sourceName": "WSJ/Dow Jones · 11/19 금 결제"
+      }
+    ],
+    "winners": [
+      {
+        "theme": "디지털 콘텐츠·자산 지주",
+        "stocks": "MPU +66.73%",
+        "reason": "11/19 정규장 개별종목 수익률·StockSetups 종목별 마감 페이지 기준(2차 집계). 상승 확인, 당일 고유 원인 확인 불가. 테마 지수 수익률 아님. https://stocksetups.com/symbol/MPU"
+      },
+      {
+        "theme": "공연·스포츠 티켓 플랫폼",
+        "stocks": "SEAT 상승 · 수익률 확인 불가",
+        "reason": "11/19 정규장 마감 집계에서 상승 방향은 일치하지만 목록과 종목 페이지의 수익률이 달라 확정 수익률은 확인 불가. 고유 원인도 확인 불가. 테마 지수 수익률·순위가 아닙니다. https://stocksetups.com/symbol/SEAT"
+      },
+      {
+        "theme": "세포치료 바이오",
+        "stocks": "MRKR 상승 · 수익률 확인 불가",
+        "reason": "11/19 정규장 마감 집계에서 상승 방향은 일치하지만 목록과 종목 페이지의 수익률이 달라 확정 수익률은 확인 불가. 고유 원인도 확인 불가. 테마 지수 수익률·순위가 아닙니다. https://stocksetups.com/symbol/MRKR"
+      },
+      {
+        "theme": "물류 서비스",
+        "stocks": "ELOG 상승 · 수익률 확인 불가",
+        "reason": "11/19 정규장 마감 집계에서 상승 방향은 일치하지만 목록과 종목 페이지의 수익률이 달라 확정 수익률은 확인 불가. 고유 원인도 확인 불가. 테마 지수 수익률·순위가 아닙니다. https://stocksetups.com/symbol/ELOG"
+      },
+      {
+        "theme": "기업 디지털 전환 소프트웨어",
+        "stocks": "HTCR 상승 · 수익률 확인 불가",
+        "reason": "11/19 정규장 마감 집계에서 상승 방향은 일치하지만 목록과 종목 페이지의 수익률이 달라 확정 수익률은 확인 불가. 고유 원인도 확인 불가. 테마 지수 수익률·순위가 아닙니다. https://stocksetups.com/symbol/HTCR"
+      }
+    ],
+    "losers": [
+      {
+        "theme": "채굴 기반 AI 인프라 전환",
+        "stocks": "IREN −5.45%",
+        "reason": "11/19 정규장 개별종목 수익률·Investing 역사표 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·전체 시장 순위가 아닙니다. https://www.investing.com/equities/iris-energy-historical-data"
+      },
+      {
+        "theme": "금 광산",
+        "stocks": "NEM −4.29%",
+        "reason": "11/19 정규장 개별종목 수익률·Investing 역사표 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·전체 시장 순위가 아닙니다. https://www.investing.com/equities/newmont-mining-historical-data"
+      },
+      {
+        "theme": "GPU·AI 플랫폼",
+        "stocks": "NVDA −3.30%",
+        "reason": "11/19 정규장 개별종목 수익률·Investing 역사표 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·전체 시장 순위가 아닙니다. https://www.investing.com/equities/nvidia-corp-historical-data"
+      },
+      {
+        "theme": "데이터센터 개발·호스팅",
+        "stocks": "APLD −3.25%",
+        "reason": "11/19 정규장 개별종목 수익률·Investing 역사표 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·전체 시장 순위가 아닙니다. https://www.investing.com/equities/applied-blockchain-historical-data"
+      },
+      {
+        "theme": "맞춤형 반도체·연결",
+        "stocks": "AVGO −2.09%",
+        "reason": "11/19 정규장 개별종목 수익률·Investing 역사표 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·전체 시장 순위가 아닙니다. https://www.investing.com/equities/avago-technologies-historical-data"
+      }
+    ],
+    "korea": [
+      {
+        "theme": "반도체·HBM·장비",
+        "stocks": "삼성전자 · SK하이닉스 · 한미반도체",
+        "reason": "해석: 미국 반도체·AI 플랫폼 약세가 국내 위험 선호에 부담일 수 있습니다. 실제 고객 주문·기업 공시·외국인 수급·개장 갭 회복으로 확인합니다. 관찰 종목이며 추천 아님."
+      },
+      {
+        "theme": "전력·데이터센터",
+        "stocks": "HD현대일렉트릭 · LS ELECTRIC",
+        "reason": "해석: 미국 인프라 개별종목 하락을 국내 수주 취소로 바꾸어 해석하지 않습니다. 고객 자금조달·계약·대금 회수·납기 조건을 점검합니다."
+      },
+      {
+        "theme": "소비·유통·소프트웨어",
+        "stocks": "국내 유통 · 콘텐츠 · 기업 소프트웨어",
+        "reason": "해석: Walmart 실적과 미국 소형주 급등 사례는 국내 산업 전체 수혜를 보장하지 않습니다. 납품 고객·실제 매출·반복 이익·환율 민감도를 확인합니다."
+      },
+      {
+        "theme": "KOSPI200 장중 전략",
+        "stocks": "지수 선물 · 반도체 대형주",
+        "reason": "해석: 미국 낙폭과 VIX 상승을 참고하되 국내 vKOSPI·베이시스·외국인 선물·첫 30분 갭의 유지/회복을 관측합니다. 미국 수치를 국내 변동성으로 대입하지 않습니다."
+      }
+    ],
+    "watch": [
+      "오늘 11/20 22:25 KST Waller 환영사, 11/21 02:15 KST Cook 경제 연설 예정. EST+14시간 기준이며 미공개 발언 내용은 확인 불가입니다. https://www.federalreserve.gov/newsevents/2026-November.htm",
+      "11/21(토) 00:00 KST 미국 미시간 소비자심리 11월 최종치 예정(미국 11/20 10:00 EST). https://www.newyorkfed.org/research/calendars/i-nov26.html",
+      "11/19 미국 정규장은 정상 거래 후 완료됐습니다. 다음 정규장은 11/20 23:30~11/21 06:00 KST입니다. 주말 자료로 대체하지 않았습니다.",
+      "상승·하락 각 5개는 개별종목 관찰 사례이며 업종·테마 지수나 전체 시장 순위가 아닙니다. 하락 사례는 확인한 수익률 순서입니다. 상승 사례는 소형주 편중이며 4종목은 수익률 자료 충돌로 —/확인 불가 처리해 순위를 부여하지 않았습니다.",
+      "상승 5개 중 SEAT·MRKR·ELOG·HTCR은 StockSetups movers 목록과 개별 페이지의 수익률이 달라 확정 등락률을 기재하지 않았습니다. MPU 수익률은 두 표기에서 일치합니다. 차이 원인·공식 정정 여부는 확인 불가입니다. https://stocksetups.com/movers/today",
+      "SOX 전일비는 같은 Investing 역사표의 11/18 9,652.8 대비입니다. 직전 발행본은 —이므로 발행본 간 전일비는 확인 불가입니다. VIX는 직전 발행본과 같은 24.56을 기준으로 비교했습니다. https://www.investing.com/indices/phlx-semiconductor-historical-data https://www.investing.com/indices/volatility-s-p-500-historical-data",
+      "금은 COMEX 최근월 11월 인도, USD/트로이온스 결제 기준입니다. 현물·다른 계약월·장중 가격과 섞지 않습니다. https://www.wsj.com/finance/commodities-futures/gold-catches-breath-but-stays-at-over-one-year-lows-b3d16f60"
+    ],
+    "updatedAt": "2026-11-19T22:36:34.973Z"
   }
 ]
