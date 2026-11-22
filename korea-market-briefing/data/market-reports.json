@@ -1,5 +1,75 @@
 [
   {
+    "id": "kospi200-daily-2026-11-23",
+    "reportType": "daily",
+    "date": "2026-11-23",
+    "title": "KOSPI200 Daily Report — 2026년 11월 23일",
+    "summary": "정상 개장일. 금요일 해외 AI 추가 충격을 경계하되 주말 정책 발표와 실제 자금 유입을 분리해 하방 재시험·장초 반전 조건을 점검합니다.",
+    "asOf": "한국·미국 11/20 완료장 / 11/22 정책 발표 / 11/23 06:01 KST 열람",
+    "publishedAt": "2026-11-22T21:01:52Z",
+    "originalCreatedAt": "2026-11-22T21:01:52Z",
+    "notice": "오늘은 정상 거래일. 주말 미국 거래일을 만들지 않았습니다. 증안펀드는 가동 준비 단계, 자사주 한도 완화는 11/24부터입니다. VKOSPI·OI·스큐·RV 괴리·야간/NDF 원자료는 미확인. 기존 07:30 시황과 별도 전략 리포트입니다.",
+    "sources": [
+      {
+        "title": "cal",
+        "url": "https://traderda.com/market/market-holidays",
+        "asOf": "11/23 장전 열람; 본문 기준일·단위 참조"
+      },
+      {
+        "title": "krx",
+        "url": "https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm",
+        "asOf": "11/23 장전 열람; 본문 기준일·단위 참조"
+      },
+      {
+        "title": "kr",
+        "url": "https://www.yna.co.kr/view/AKR20261120137600008",
+        "asOf": "11/23 장전 열람; 본문 기준일·단위 참조"
+      },
+      {
+        "title": "fut",
+        "url": "https://www.yna.co.kr/view/AKR20261120141600008",
+        "asOf": "11/23 장전 열람; 본문 기준일·단위 참조"
+      },
+      {
+        "title": "us",
+        "url": "https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/",
+        "asOf": "11/23 장전 열람; 본문 기준일·단위 참조"
+      },
+      {
+        "title": "rates",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+        "asOf": "11/23 장전 열람; 본문 기준일·단위 참조"
+      },
+      {
+        "title": "policy",
+        "url": "https://www.yna.co.kr/view/AKR20261122044351002",
+        "asOf": "11/22 발표, 집행 여부와 구분"
+      },
+      {
+        "title": "official",
+        "url": "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156790262&pageIndex=1&repCode=nts",
+        "asOf": "11/22 발표, 집행 여부와 구분"
+      },
+      {
+        "title": "prev",
+        "url": "https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-22.json",
+        "asOf": "11/22 주간호 가설 비교"
+      },
+      {
+        "title": "bea",
+        "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+        "asOf": "11/23 장전 열람; 본문 기준일·단위 참조"
+      },
+      {
+        "title": "bok",
+        "url": "https://www.bok.or.kr/portal/singl/crncyPolicyDrcMtg/listYear.do?menuNo=200761&mtgSe=A",
+        "asOf": "11/23 장전 열람; 본문 기준일·단위 참조"
+      }
+    ],
+    "body": "# KOSPI200 Daily Report — 2026년 11월 23일\n\n**오늘은 정상 거래일, 현물 정규장 09:00~15:30입니다.** KRX 수능일 시간 변경은 11/19에만 적용됐습니다. 자료 확인은 11/23 **06:01 KST** 기준. 한국·미국의 최근 완료장은 모두 **11/20**이며 주말 보도를 새 미국 거래일 종가로 표시하지 않습니다. [거래일 캘린더](https://traderda.com/market/market-holidays) · [KRX 시간 공지](https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm)\n\n## P1 · 핵심 3개: 사실 → 해석 → 확인\n\n1. **기관 흡수가 동반 매도로 바뀌었다.** 11/20 KOSPI200 **755.34p(-5.53%)**, 12월 선물 **752.75p(-5.43%)**. 같은 날 장후 보도에서 KOSPI 현물 외국인 **-11,420억원**, 기관 **-9,510억원**, 개인 **+15,955억원**입니다. → 중반 반등을 지탱한 기관 수급이 지속되지 않았습니다. 오늘 기관 흡수 복귀·외국인 매도 둔화를 확인합니다. 현물·선물 종가차 **-2.59p**는 비동시점 단순 차감으로 정상 베이시스 확정값이 아닙니다. [지수·선물](https://www.yna.co.kr/view/AKR20261120141600008) · [11/20 장후 수급](https://www.yna.co.kr/view/AKR20261120137600008)\n\n2. **국내장 종료 뒤 해외 AI 충격이 더해졌다.** 미국 11/20 완료장에서 S&P500 **-3.70%**, Nasdaq **-5.28%**, NVIDIA **-13.8%**(Reuters 보도 기준). 미 재무부 11/20 공식 수익률은 **2년 4.63%·10년 4.92%**, 전일 대비 각각 **-13bp·-12bp**입니다. → 금리 하락이 주식 위험선호 회복으로 이어지지 않았습니다. 금요일 미국 하락을 국내 금요일 하락 원인으로 소급하지 않고 월요일 갭에 추가 반영될 위험으로 봅니다. [미국 완료장](https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/) · [공식 금리](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026)\n\n3. **주말 정책 대응은 ‘준비’와 ‘실제 유입’을 구분해야 한다.** 11/22 정부는 증안펀드 가동 준비 착수와 **11/24부터 3개월간** 자사주 매수주문 수량한도 완화, 불법 공매도 집중 감시를 발표했습니다. → 오늘 이미 증안펀드가 매수했다거나 공매도가 전면 금지됐다는 뜻은 아닙니다. 실제 집행 공지·기관/프로그램 수급으로 확인해야 합니다. [정부 회의 공지](https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156790262&pageIndex=1&repCode=nts) · [세부 조치 보도](https://www.yna.co.kr/view/AKR20261122044351002)\n\n환율은 **11/20 서울 15:30 1,336.2원(+6.2원)**이며 최신 야간/NDF는 미확인입니다. 이 값을 오늘 장전 실시간 환율로 사용하지 않습니다. [환율 기준](https://www.yna.co.kr/view/AKR20261120137600008)\n\n## P2 · 반도체·자료 한계\n\n11/20 국내 삼성전자 **-7.01%**, SK하이닉스 **-5.92%**였습니다. 오늘 두 종목의 시가 이후 동반 회복과 시장폭을 구분합니다. 해외 환산 참고가격·야간 시세는 원천 체결시각 교차검증 전이므로 예상 시가로 쓰지 않습니다. [국내 종목](https://www.yna.co.kr/view/AKR20261120137600008)\n\n**VKOSPI·OI·스큐·PCR·IV 기간구조·RV 괴리의 최신 거래소 확정 원자료는 미확보**입니다. 전일 주간호의 2차 참고치를 오늘 새 관측으로 반복하지 않습니다. 국내 가격 -1 / 해외 기술주 -1 / 미 금리 변화 +1, 확정 변동성·유동성·업종 순위 N/A로 총점은 미산출입니다.\n\n## P3 · 직전 가설 유지, 정책 반증 조건 추가\n\n- **One-line Thesis:** 11/22 주간호의 ‘하방 재시험 우선’을 유지하되 장초 반전을 별도 검증합니다.\n- **Variant View:** 정책 발표 자체보다 매도 흡수가 실제 수급으로 나타나는지가 중요합니다.\n- **Blind Spot:** 정책 집행 시각·옵션 델타/감마·당일 장전 환율은 미확인입니다.\n- **Thesis Invalidation:** 반도체 동반 회복, 외국인 현물 매도 둔화, 기관·프로그램 흡수가 함께 지속되면 하방 우선 판단을 수정합니다. [직전 주간호](https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-22.json)\n\n## P4 · 조건부 시나리오\n\n**v1:** 해외 반도체 약세 전이와 기관 흡수 중단을 경계. **FALSIFY:** 정책 자금 실제 유입, 해외 충격 선반영, 수급 시점 혼용은 각각 기존 해석을 깨뜨릴 수 있습니다. **CROWD VIEW:** 별도 미수집. **v2:** 하방 재시험 가설 유지+정책 집행을 반증 조건으로 추가. 반등은 수급·반도체 동조, 하락 지속은 동반 매도, 혼조는 신호 충돌이 조건이며 확률은 부여하지 않습니다.\n\n## P5 · 오늘 확인 조건\n\nNeutral(확인 전). 다음은 검증 가설이며 주문 신호가 아닙니다.\n\n- **갭·장초 추세/반전:** 현물 개장 후 첫 **15분** VWAP·삼성전자/하이닉스 동조를 봅니다. 하락 갭 뒤 VWAP 회복과 매도 둔화는 반전 후보, 회복 실패와 동반 매도는 지속 후보입니다.\n- **오후 레짐·변동성:** 오전 첫 범위 돌파를 오후까지 자동 연장하지 않습니다. 동시점 베이시스·현물 수급·정책 집행 확인으로 재판정하고, 사이드카/체결 공백·스프레드 확대는 돌파 성과와 분리합니다.\n- **종가 수급·옵션 헤지:** **14:30 이후** 비차익 프로그램과 종가 동시호가를 따로 봅니다. 풋 OI나 콜·풋 순수량만으로 딜러 감마·헤지 매도 방향을 단정하지 않습니다.\n\n위 시각은 오늘 연구용 관찰 구간입니다. 수량·R/R은 N/A. 계좌정보 없는 주문·비중·미검증 승률은 제시하지 않습니다. 재평가 신호는 반도체 동조, 현·선물/프로그램 정합성, 정책 실제 집행입니다.\n\n## 이벤트 · 한국시간\n\n- **11/24:** 자사주 매수주문 한도 완화 시행 예정. 오늘부터 시행된 것으로 앞당겨 해석하지 않습니다. [조치 일정](https://www.yna.co.kr/view/AKR20261122044351002)\n- **11/25 22:30:** 미국 10월 개인소득·소비/PCE 발표 예정(08:30 EST). [BEA](https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026)\n- **11/26:** 한국은행 통화정책방향 결정회의 예정. 결과는 아직 미발표입니다. [한국은행](https://www.bok.or.kr/portal/singl/crncyPolicyDrcMtg/listYear.do?menuNo=200761&mtgSe=A)\n\n전략 연구·의사결정 보조용입니다.\n",
+    "originalBody": "# KOSPI200 Daily Report — 2026년 11월 23일\n\n**오늘은 정상 거래일, 현물 정규장 09:00~15:30입니다.** KRX 수능일 시간 변경은 11/19에만 적용됐습니다. 자료 확인은 11/23 **06:01 KST** 기준. 한국·미국의 최근 완료장은 모두 **11/20**이며 주말 보도를 새 미국 거래일 종가로 표시하지 않습니다. [거래일 캘린더](https://traderda.com/market/market-holidays) · [KRX 시간 공지](https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm)\n\n## P1 · 핵심 3개: 사실 → 해석 → 확인\n\n1. **기관 흡수가 동반 매도로 바뀌었다.** 11/20 KOSPI200 **755.34p(-5.53%)**, 12월 선물 **752.75p(-5.43%)**. 같은 날 장후 보도에서 KOSPI 현물 외국인 **-11,420억원**, 기관 **-9,510억원**, 개인 **+15,955억원**입니다. → 중반 반등을 지탱한 기관 수급이 지속되지 않았습니다. 오늘 기관 흡수 복귀·외국인 매도 둔화를 확인합니다. 현물·선물 종가차 **-2.59p**는 비동시점 단순 차감으로 정상 베이시스 확정값이 아닙니다. [지수·선물](https://www.yna.co.kr/view/AKR20261120141600008) · [11/20 장후 수급](https://www.yna.co.kr/view/AKR20261120137600008)\n\n2. **국내장 종료 뒤 해외 AI 충격이 더해졌다.** 미국 11/20 완료장에서 S&P500 **-3.70%**, Nasdaq **-5.28%**, NVIDIA **-13.8%**(Reuters 보도 기준). 미 재무부 11/20 공식 수익률은 **2년 4.63%·10년 4.92%**, 전일 대비 각각 **-13bp·-12bp**입니다. → 금리 하락이 주식 위험선호 회복으로 이어지지 않았습니다. 금요일 미국 하락을 국내 금요일 하락 원인으로 소급하지 않고 월요일 갭에 추가 반영될 위험으로 봅니다. [미국 완료장](https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/) · [공식 금리](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026)\n\n3. **주말 정책 대응은 ‘준비’와 ‘실제 유입’을 구분해야 한다.** 11/22 정부는 증안펀드 가동 준비 착수와 **11/24부터 3개월간** 자사주 매수주문 수량한도 완화, 불법 공매도 집중 감시를 발표했습니다. → 오늘 이미 증안펀드가 매수했다거나 공매도가 전면 금지됐다는 뜻은 아닙니다. 실제 집행 공지·기관/프로그램 수급으로 확인해야 합니다. [정부 회의 공지](https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156790262&pageIndex=1&repCode=nts) · [세부 조치 보도](https://www.yna.co.kr/view/AKR20261122044351002)\n\n환율은 **11/20 서울 15:30 1,336.2원(+6.2원)**이며 최신 야간/NDF는 미확인입니다. 이 값을 오늘 장전 실시간 환율로 사용하지 않습니다. [환율 기준](https://www.yna.co.kr/view/AKR20261120137600008)\n\n## P2 · 반도체·자료 한계\n\n11/20 국내 삼성전자 **-7.01%**, SK하이닉스 **-5.92%**였습니다. 오늘 두 종목의 시가 이후 동반 회복과 시장폭을 구분합니다. 해외 환산 참고가격·야간 시세는 원천 체결시각 교차검증 전이므로 예상 시가로 쓰지 않습니다. [국내 종목](https://www.yna.co.kr/view/AKR20261120137600008)\n\n**VKOSPI·OI·스큐·PCR·IV 기간구조·RV 괴리의 최신 거래소 확정 원자료는 미확보**입니다. 전일 주간호의 2차 참고치를 오늘 새 관측으로 반복하지 않습니다. 국내 가격 -1 / 해외 기술주 -1 / 미 금리 변화 +1, 확정 변동성·유동성·업종 순위 N/A로 총점은 미산출입니다.\n\n## P3 · 직전 가설 유지, 정책 반증 조건 추가\n\n- **One-line Thesis:** 11/22 주간호의 ‘하방 재시험 우선’을 유지하되 장초 반전을 별도 검증합니다.\n- **Variant View:** 정책 발표 자체보다 매도 흡수가 실제 수급으로 나타나는지가 중요합니다.\n- **Blind Spot:** 정책 집행 시각·옵션 델타/감마·당일 장전 환율은 미확인입니다.\n- **Thesis Invalidation:** 반도체 동반 회복, 외국인 현물 매도 둔화, 기관·프로그램 흡수가 함께 지속되면 하방 우선 판단을 수정합니다. [직전 주간호](https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-22.json)\n\n## P4 · 조건부 시나리오\n\n**v1:** 해외 반도체 약세 전이와 기관 흡수 중단을 경계. **FALSIFY:** 정책 자금 실제 유입, 해외 충격 선반영, 수급 시점 혼용은 각각 기존 해석을 깨뜨릴 수 있습니다. **CROWD VIEW:** 별도 미수집. **v2:** 하방 재시험 가설 유지+정책 집행을 반증 조건으로 추가. 반등은 수급·반도체 동조, 하락 지속은 동반 매도, 혼조는 신호 충돌이 조건이며 확률은 부여하지 않습니다.\n\n## P5 · 오늘 확인 조건\n\nNeutral(확인 전). 다음은 검증 가설이며 주문 신호가 아닙니다.\n\n- **갭·장초 추세/반전:** 현물 개장 후 첫 **15분** VWAP·삼성전자/하이닉스 동조를 봅니다. 하락 갭 뒤 VWAP 회복과 매도 둔화는 반전 후보, 회복 실패와 동반 매도는 지속 후보입니다.\n- **오후 레짐·변동성:** 오전 첫 범위 돌파를 오후까지 자동 연장하지 않습니다. 동시점 베이시스·현물 수급·정책 집행 확인으로 재판정하고, 사이드카/체결 공백·스프레드 확대는 돌파 성과와 분리합니다.\n- **종가 수급·옵션 헤지:** **14:30 이후** 비차익 프로그램과 종가 동시호가를 따로 봅니다. 풋 OI나 콜·풋 순수량만으로 딜러 감마·헤지 매도 방향을 단정하지 않습니다.\n\n위 시각은 오늘 연구용 관찰 구간입니다. 수량·R/R은 N/A. 계좌정보 없는 주문·비중·미검증 승률은 제시하지 않습니다. 재평가 신호는 반도체 동조, 현·선물/프로그램 정합성, 정책 실제 집행입니다.\n\n## 이벤트 · 한국시간\n\n- **11/24:** 자사주 매수주문 한도 완화 시행 예정. 오늘부터 시행된 것으로 앞당겨 해석하지 않습니다. [조치 일정](https://www.yna.co.kr/view/AKR20261122044351002)\n- **11/25 22:30:** 미국 10월 개인소득·소비/PCE 발표 예정(08:30 EST). [BEA](https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026)\n- **11/26:** 한국은행 통화정책방향 결정회의 예정. 결과는 아직 미발표입니다. [한국은행](https://www.bok.or.kr/portal/singl/crncyPolicyDrcMtg/listYear.do?menuNo=200761&mtgSe=A)\n\n전략 연구·의사결정 보조용입니다.\n"
+  },
+  {
     "id": "kospi200-weekly-2026-11-22",
     "reportType": "weekly",
     "date": "2026-11-22",
