@@ -4107,5 +4107,448 @@
       "금은 기존 COMEX 11월 인도 최근월물 결제·USD/트로이온스 기준입니다. 같은 11/20 결제를 유지하며 현물·12월물·장중 값을 혼용하지 않습니다. https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905"
     ],
     "updatedAt": "2026-11-21T22:36:56.959Z"
+  },
+  {
+    "date": "2026-11-23",
+    "session": "미국 2026-11-20(금) 정규장 마감 · 작성 2026-11-23 07:33 KST · 미국 월요일 정규장 시작 전",
+    "summary": "최근 완료된 미국 정규장은 11월 20일 금요일입니다. 직전 발행본과 비교해 7개 주요지표의 기준 마감값은 같고, VIX는 Cboe 공식 종가 35.89를 재확인했습니다. 이번에는 11/22 미국 재무장관의 NVIDIA 대중국 판매 관련 설명 요구 보도를 별도 추가했습니다. 해석: 이는 금요일 이후 정책 불확실성의 점검 항목이며, 금요일 하락의 원인으로 소급하지 않습니다. 국내 월요일에는 반도체 갭 회복·외국인 선물·원/달러를 실제 관측하고, 이번 주 GDP·PCE와 추수감사절 일정을 확인해야 합니다.",
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "6,910.39",
+        "change": "−3.70% · AP 종가 대비 계산"
+      },
+      {
+        "name": "NASDAQ",
+        "value": "22,617.73",
+        "change": "−5.28% · AP 종가 대비 계산"
+      },
+      {
+        "name": "DOW",
+        "value": "48,147.33",
+        "change": "−1.93% · AP 종가 대비 계산"
+      },
+      {
+        "name": "VIX",
+        "value": "35.89",
+        "change": "+26.20% · 11/20 Cboe 공식치 · 11/19 28.44 대비"
+      },
+      {
+        "name": "미 국채 10년",
+        "value": "4.92%",
+        "change": "−12bp · 11/20 공식치"
+      },
+      {
+        "name": "필라델피아 반도체 (SOX)",
+        "value": "8,408.6",
+        "change": "−10.73% · 11/20 · Investing 역사표"
+      },
+      {
+        "name": "금 선물 (COMEX 11월)",
+        "value": "$3,512.30 / 트로이온스",
+        "change": "−4.61% · 11/20 결제 · USD"
+      }
+    ],
+    "issues": [
+      {
+        "category": "시장 종합",
+        "title": "나스닥 낙폭 확대, 3대 지수 동반 하락",
+        "highlight": {
+          "title": "11월 20일 정규장",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "S&P 500",
+              "value": "−3.70%",
+              "status": "neutral"
+            },
+            {
+              "label": "나스닥",
+              "value": "−5.28%",
+              "status": "neutral"
+            },
+            {
+              "label": "다우",
+              "value": "−1.93%",
+              "status": "neutral"
+            }
+          ],
+          "note": "AP 종가 · 11/19 AP 종가 대비 자체 계산"
+        },
+        "summary": "AP 마감치는 S&P 500 6,910.39, 나스닥 22,617.73, 다우 48,147.33입니다.",
+        "changed": "직전 실제 발행본(11/22)과 같은 11/20 AP 종가입니다. 미국 월요일 장은 아직 시작 전이며 상단 등락률은 11/19 대비입니다. 발행본 사이에 추가 급락한 것으로 해석하지 않습니다.",
+        "impact": "해석: 국내 반도체·성장주의 갭과 시장 폭, 외국인 수급을 함께 확인할 구간입니다.",
+        "analysis": "3대 지수는 기존처럼 AP 종가와 직전 AP 종가를 같은 기준으로 비교했습니다. AP의 한 자리 등락률과 상단의 두 자리 계산 등락률은 반올림 자릿수가 다릅니다.",
+        "follow": "월요일 국내 개장 후 갭 회복·거래대금·시장 폭",
+        "source": "https://apnews.com/article/c10b797a17c2acf37924d834efebe135",
+        "sourceName": "AP · 11/20 마감"
+      },
+      {
+        "category": "시장구조",
+        "title": "VIX 35.89 재확인, 미국 월요일 장 전 변동성 점검",
+        "highlight": {
+          "title": "11월 20일 공식 VIX",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "종가",
+              "value": "35.89",
+              "status": "neutral"
+            },
+            {
+              "label": "11/19 공식 종가",
+              "value": "28.44",
+              "status": "neutral"
+            },
+            {
+              "label": "전 거래일비",
+              "value": "+26.20%",
+              "status": "neutral"
+            },
+            {
+              "label": "SOX 역사표 전일비",
+              "value": "−10.73%",
+              "status": "neutral"
+            }
+          ],
+          "note": "VIX Cboe 공식 CSV · SOX Investing 2차 역사표 · 11/20 기준"
+        },
+        "summary": "Cboe 공식 파일에서 VIX 11/20 종가 35.89를 확인했습니다. 같은 파일의 11/19 종가 28.44 대비 26.20%(계산) 상승입니다.",
+        "changed": "직전 발행본과 같은 11/20 공식 종가를 재확인했습니다. 발행본 간 변화는 없으며 +26.20%는 11/19 공식 종가 대비입니다.",
+        "impact": "해석: 금요일의 위험 회피 강도를 확인하는 자료입니다. 국내 vKOSPI 수준으로 대체할 수 없습니다.",
+        "analysis": "Cboe 공식 CSV의 11/20 종가는 35.89, 11/19는 28.44입니다. Investing의 다른 집계값 대신 공식 종가를 우선하며 과거 발행본을 소급 수정하지 않습니다. SOX 8,408.6·−10.73%는 11/20 Investing 역사표 기준으로 자료 성격을 구분합니다. https://www.investing.com/indices/phlx-semiconductor-historical-data",
+        "follow": "다음 실제 거래일 VIX·국내 옵션 변동성·베이시스",
+        "source": "https://cdn-api.cboe.com/api/global/us_indices/daily_prices/VIX_History.csv",
+        "sourceName": "Cboe 공식 일일 VIX 파일 · 11/23 KST 재조회"
+      },
+      {
+        "category": "거시·금리",
+        "title": "2년·10년 국채금리 하락폭 확대",
+        "highlight": {
+          "title": "재무부 일일 곡선",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "2년물",
+              "value": "4.63%",
+              "status": "neutral"
+            },
+            {
+              "label": "10년물",
+              "value": "4.92%",
+              "status": "neutral"
+            },
+            {
+              "label": "10년 전 거래일비",
+              "value": "−12bp",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/20 공식 곡선 · 주식 종가와 산출 시각은 다름"
+        },
+        "summary": "재무부 공식 2년물은 4.76%에서 4.63%, 10년물은 5.04%에서 4.92%로 낮아졌습니다.",
+        "changed": "직전 발행본과 같은 11/20 공식치입니다. 10년물 −12bp는 11/19 대비이며 월요일에 추가 하락한 값이 아닙니다.",
+        "impact": "해석: 주식과 금이 함께 약세인 가운데 국채금리 하락을 성장주 반등이나 정책 완화 확정으로 읽기 어렵습니다.",
+        "analysis": "같은 공식 파수익률 곡선의 전 거래일을 비교했습니다. 장중 금리·TNX·선물 수익률과 혼용하지 않았습니다.",
+        "follow": "다음 거래일 금리·달러·주식의 동행 변화",
+        "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve",
+        "sourceName": "미 재무부 · 11/20 공식치"
+      },
+      {
+        "category": "연준·정책",
+        "title": "Cook: 물가 대응 지연의 비용을 강조",
+        "highlight": {
+          "title": "공식 발언과 결정 구분",
+          "kind": "steps",
+          "items": [
+            {
+              "label": "11/20 연설 공개",
+              "value": "완료",
+              "status": "done"
+            },
+            {
+              "label": "추가 정책 판단",
+              "value": "현재",
+              "status": "current"
+            },
+            {
+              "label": "차기 결정·인상 폭",
+              "value": "미정",
+              "status": "pending"
+            }
+          ],
+          "note": "연준 11/20 연설 원문 · 개인 견해이며 FOMC 결정문이 아님"
+        },
+        "summary": "Cook은 높은 물가가 지속되는 상황에서 대응을 늦추면 향후 더 큰 조정이 필요할 위험을 설명했습니다. 10월 동결에 반대하고 25bp 인상을 선호했던 배경도 재확인했습니다.",
+        "changed": "11/20 공개 연설을 재점검한 내용이며, 직전 발행본 이후 새 FOMC 금리 결정이 발표됐다는 의미가 아닙니다.",
+        "impact": "해석: 주가 하락만으로 긴축 우려가 해소됐다고 판단하기 어렵습니다.",
+        "analysis": "향후 조정 횟수와 폭은 경제의 반응을 보고 판단해야 한다는 견해입니다. AI의 생산성 가능성과 고용 전환·금융안정 위험도 함께 언급했습니다. 개인 견해를 차기 금리 수준이나 실제 결정으로 확정하지 않습니다.",
+        "follow": "추가 물가·고용 자료와 공식 정책 결정",
+        "source": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+        "sourceName": "연준 · Cook 11/20 공식 연설"
+      },
+      {
+        "category": "거시·소비",
+        "title": "소비심리·기대물가와 실제 PCE 발표를 구분",
+        "highlight": {
+          "title": "11월 소비자 조사 최종치",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "소비심리",
+              "value": "51.5",
+              "status": "neutral"
+            },
+            {
+              "label": "1년 기대물가",
+              "value": "3.7%",
+              "status": "neutral"
+            },
+            {
+              "label": "장기 기대물가",
+              "value": "3.3%",
+              "status": "neutral"
+            },
+            {
+              "label": "인터뷰 종료",
+              "value": "11/16",
+              "status": "neutral"
+            }
+          ],
+          "note": "미시간대 11/20 발표 · 설문 기대치이며 실제 PCE 물가가 아님"
+        },
+        "summary": "미시간대 최종표는 소비심리 51.5, 1년 기대물가 3.7%, 장기 기대물가 3.3%를 제시합니다. 인터뷰 기간은 10/20~11/16입니다.",
+        "changed": "직전 발행본과 같은 11월 최종 조사입니다. 11/20 주가 급락 전에 인터뷰가 종료된 설문이라는 점을 유지합니다.",
+        "impact": "해석: 금요일 급락 이전에 종료된 설문을 주말의 실시간 소비심리나 실제 물가로 해석하면 안 됩니다.",
+        "analysis": "1년 기대물가는 전월 4.7%에서 3.7%, 장기 기대물가는 3.5%에서 3.3%로 낮아졌습니다. 이는 응답자의 전망이고 BEA의 10월 PCE 실제 값과는 다릅니다. 실제 발표는 다음 주 확인 대상입니다.",
+        "follow": "11/25 개인소득·지출 및 PCE 공식 발표",
+        "source": "https://www.sca.isr.umich.edu/",
+        "sourceName": "미시간대 Surveys of Consumers · 11월 최종표"
+      },
+      {
+        "category": "정책·기업",
+        "title": "NVIDIA 대중국 판매 관련 설명 요구 보도",
+        "highlight": {
+          "title": "정규장 이후 확인할 단계",
+          "kind": "steps",
+          "items": [
+            {
+              "label": "11/22 발언 보도",
+              "value": "완료",
+              "status": "done"
+            },
+            {
+              "label": "회사 설명 요구",
+              "value": "현재",
+              "status": "current"
+            },
+            {
+              "label": "위반 여부·최종 조치",
+              "value": "확인 불가",
+              "status": "neutral"
+            }
+          ],
+          "note": "Reuters 11/22 미국 재무장관 발언 보도 · 확정 처분·판결이 아님"
+        },
+        "summary": "Reuters는 Bessent 미국 재무장관이 NVIDIA의 대중국 칩 판매와 준법 책임에 관해 설명을 요구했다고 11/22 보도했습니다. 임시 경영진·이사·변호인과 접촉했다는 발언도 전했습니다.",
+        "changed": "직전 발행본 이후 확인한 주말 후속 보도입니다. 최근 완료된 정규장과는 시간 기준이 다릅니다.",
+        "impact": "해석: 국내 HBM·장비의 영향은 실제 수출 허가·고객 주문·회사 설명을 통해 따로 확인해야 합니다.",
+        "analysis": "이 보도만으로 불법 판매, 특정 경영진 책임 또는 최종 제재를 확정하지 않습니다. 11/20 종목 수익률의 원인으로 소급하지 않으며 출처가 불명확한 추가 수치·기한도 기재하지 않습니다.",
+        "follow": "회사 공시·공식 규정·수출 허가 및 후속 설명",
+        "source": "https://www.reuters.com/world/china/us-seeks-answers-nvidias-sale-chips-china-bessent-says-2026-11-22/",
+        "sourceName": "Reuters · 11/22 17:48 UTC 보도"
+      },
+      {
+        "category": "원자재",
+        "title": "COMEX 11월 금 결제 4.61% 하락",
+        "highlight": {
+          "title": "같은 계약월 결제",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "11월 금",
+              "value": "$3,512.30/oz",
+              "status": "neutral"
+            },
+            {
+              "label": "전 거래일비",
+              "value": "−4.61%",
+              "status": "neutral"
+            },
+            {
+              "label": "달러 변화",
+              "value": "−$169.80",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/20 COMEX 11월 인도 최근월물 · USD/트로이온스 결제"
+        },
+        "summary": "Dow Jones는 COMEX 11월 인도 최근월 금 결제를 3,512.30달러로 보도했습니다.",
+        "changed": "직전 발행본과 같은 11/20 COMEX 11월물 결제입니다. −169.80달러·−4.61%는 11/19 결제 대비이며 월요일 새 결제는 아닙니다.",
+        "impact": "해석: 주식 약세가 금 가격 상승으로 자동 연결된다는 가정은 이번 관찰과 맞지 않습니다.",
+        "analysis": "최근월물 결제 기준을 유지했습니다. Reuters의 12월물 결제나 Yahoo 연속물·현물·장중 가격을 11월 시계열에 섞지 않습니다.",
+        "follow": "다음 결제와 11월물 종료·계약월 변경 기준",
+        "source": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905",
+        "sourceName": "WSJ/Dow Jones · 11/20 결제"
+      },
+      {
+        "category": "거래 일정",
+        "title": "미국 월요일 장 재개 전, 추수감사절 일정 확인",
+        "highlight": {
+          "title": "한국시간 기준 일정",
+          "kind": "steps",
+          "items": [
+            {
+              "label": "11/20 정규장",
+              "value": "완료",
+              "status": "done"
+            },
+            {
+              "label": "다음 미국 개장",
+              "value": "11/23 23:30",
+              "status": "pending"
+            },
+            {
+              "label": "추수감사절",
+              "value": "11/26 휴장",
+              "status": "pending"
+            },
+            {
+              "label": "11/27 미국장 마감",
+              "value": "11/28 03:00",
+              "status": "pending"
+            }
+          ],
+          "note": "NYSE 공식 달력 · EST를 KST로 변환, 조기 종료는 주식시장 기준"
+        },
+        "summary": "미국 11/20 정규장은 완료됐고 현지 11/21~22는 주말 비거래일입니다. 다음 정규장은 미국 11/23입니다.",
+        "changed": "오늘은 한국시간 11/23(월) 아침으로 미국 현지는 아직 일요일입니다. 다음 정규장은 오늘 23:30 KST에 시작합니다.",
+        "impact": "해석: 다음 주 휴장·조기 종료로 거래 가능 시간과 유동성이 평소와 다를 수 있습니다.",
+        "analysis": "NYSE는 미국 11/26 추수감사절 휴장과 11/27 13:00 EST 조기 종료를 공지했습니다. 후자는 한국시간 11/28 03:00입니다. 일부 옵션의 13:15 종료와 주식 마감을 구분합니다.",
+        "follow": "다음 거래일 및 공식 일정 변경 확인",
+        "source": "https://www.nyse.com/trade/hours-calendars",
+        "sourceName": "NYSE · 2026 휴장·거래시간"
+      },
+      {
+        "category": "다음 주 일정",
+        "title": "이번 주 GDP·PCE와 베이지북, 아직 결과 미공개",
+        "highlight": {
+          "title": "한국시간 발표 일정",
+          "kind": "steps",
+          "items": [
+            {
+              "label": "GDP 2차 추계",
+              "value": "11/25 22:30",
+              "status": "pending"
+            },
+            {
+              "label": "10월 소득·PCE",
+              "value": "11/25 22:30",
+              "status": "pending"
+            },
+            {
+              "label": "베이지북",
+              "value": "11/26 04:00",
+              "status": "pending"
+            }
+          ],
+          "note": "BEA·연준 공식 달력 · KST, 예정이며 결과 미공개"
+        },
+        "summary": "BEA는 미국 11/25 08:30 EST에 3분기 GDP 2차 추계와 10월 개인소득·지출 발표를 예고했습니다. 베이지북은 같은 날 14:00 EST 예정입니다.",
+        "changed": "직전 발행본과 같은 공식 일정을 재확인했습니다. 발표 예상·추정치와 실제 결과를 혼합하지 않습니다.",
+        "impact": "해석: 휴장 전날 발표가 집중돼 결과와 금리·달러의 반응을 함께 확인할 필요가 있습니다.",
+        "analysis": "PCE 실제 결과·GDP 수정 폭·베이지북 내용은 미공개입니다. Cook 연설의 10월 물가 추정치를 실제 BEA 발표로 대체하지 않습니다. https://www.federalreserve.gov/newsevents/2026-November.htm",
+        "follow": "공식 결과 발표 후 예상·추정과 실제 값 구분",
+        "source": "https://www.bea.gov/news/schedule?trk=article-ssr-frontend-pulse_little-text-block",
+        "sourceName": "BEA·연준 공식 발표 달력 · 11/23 확인"
+      }
+    ],
+    "winners": [
+      {
+        "theme": "통신 서비스",
+        "stocks": "VZ +1.62%",
+        "reason": "11/20 정규장 개별종목 수익률·Investing 역사표 기준. 상승 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·시장 전체 순위가 아닙니다. https://www.investing.com/equities/verizon-communications-historical-data"
+      },
+      {
+        "theme": "필수소비·유통",
+        "stocks": "WMT +1.52%",
+        "reason": "11/20 정규장 개별종목 수익률·Investing 역사표 기준. 상승 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·시장 전체 순위가 아닙니다. https://www.investing.com/equities/wal-mart-stores-historical-data"
+      },
+      {
+        "theme": "의약품·의료기기",
+        "stocks": "JNJ +1.25%",
+        "reason": "11/20 정규장 개별종목 수익률·Investing 역사표 기준. 상승 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·시장 전체 순위가 아닙니다. https://www.investing.com/equities/johnson-johnson-historical-data"
+      },
+      {
+        "theme": "음료",
+        "stocks": "KO +0.94%",
+        "reason": "11/20 정규장 개별종목 수익률·Investing 역사표 기준. 상승 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·시장 전체 순위가 아닙니다. https://www.investing.com/equities/coca-cola-co-historical-data"
+      },
+      {
+        "theme": "생활용품",
+        "stocks": "PG +0.91%",
+        "reason": "11/20 정규장 개별종목 수익률·Investing 역사표 기준. 상승 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·시장 전체 순위가 아닙니다. https://www.investing.com/equities/procter-gamble-historical-data"
+      }
+    ],
+    "losers": [
+      {
+        "theme": "채굴 기반 AI 인프라 전환",
+        "stocks": "IREN −17.97%",
+        "reason": "11/20 정규장 개별종목 수익률·Investing 역사표 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·시장 전체 순위가 아닙니다. https://www.investing.com/equities/iris-energy-historical-data"
+      },
+      {
+        "theme": "데이터센터 개발·호스팅",
+        "stocks": "APLD −17.81%",
+        "reason": "11/20 정규장 개별종목 수익률·Investing 역사표 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·시장 전체 순위가 아닙니다. https://www.investing.com/equities/applied-blockchain-historical-data"
+      },
+      {
+        "theme": "GPU·AI 플랫폼",
+        "stocks": "NVDA −14.01%",
+        "reason": "11/20 정규장 개별종목 수익률·Investing 역사표 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·시장 전체 순위가 아닙니다. https://www.investing.com/equities/nvidia-corp-historical-data"
+      },
+      {
+        "theme": "맞춤형 반도체·연결",
+        "stocks": "AVGO −12.19%",
+        "reason": "11/20 정규장 개별종목 수익률·Investing 역사표 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·시장 전체 순위가 아닙니다. https://www.investing.com/equities/avago-technologies-historical-data"
+      },
+      {
+        "theme": "금 광산",
+        "stocks": "NEM −5.37%",
+        "reason": "11/20 정규장 개별종목 수익률·Investing 역사표 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. 테마 지수·시장 전체 순위가 아닙니다. https://www.investing.com/equities/newmont-mining-historical-data"
+      }
+    ],
+    "korea": [
+      {
+        "theme": "반도체·HBM·장비",
+        "stocks": "삼성전자 · SK하이닉스 · 한미반도체",
+        "reason": "해석: 금요일 반도체 급락과 이후 대중국 판매 설명 요구 보도를 시간상 구분합니다. 회사·정부의 공식 설명과 국내 고객별 주문·월요일 갭 회복·외국인 선물을 확인합니다. 관찰 종목이며 추천 아님."
+      },
+      {
+        "theme": "전력·데이터센터",
+        "stocks": "HD현대일렉트릭 · LS ELECTRIC",
+        "reason": "해석: 미국 AI 인프라 주가 하락을 국내 수주 취소로 환산하지 않습니다. 실제 투자·납기·자금조달·대금 회수를 점검합니다."
+      },
+      {
+        "theme": "필수소비·통신",
+        "stocks": "KT · SK텔레콤 · KT&G · 음식료",
+        "reason": "해석: 미국 통신·필수소비 개별 상승은 상대 방어 사례입니다. 국내 수혜를 보장하지 않으며 실제 이익·배당 지속성·국내 수급을 확인합니다."
+      },
+      {
+        "theme": "KOSPI200 장중 전략",
+        "stocks": "지수 선물 · 반도체 대형주",
+        "reason": "해석: 미국 VIX 35.89와 국내 vKOSPI는 다른 지표입니다. 오늘 한국 개장 후 베이시스·외국인 선물·첫 30분 가격을 관측하고, 금요일 마감을 월요일 새 미국장 결과로 해석하지 않습니다."
+      }
+    ],
+    "watch": [
+      "11/23 KST 아침의 최근 완료 미국 정규장은 11/20(금)입니다. 현지 11/21~22는 주말 비거래일이고 다음 정규장은 오늘 11/23 23:30~11/24 06:00 KST입니다. https://www.nyse.com/trade/hours-calendars",
+      "주말 NVIDIA 관련 설명 요구 보도는 11/20 마감 이후 정보입니다. 실제 위반 판단·제재·매출 영향은 확인 불가이며 회사·정부 후속 설명을 확인합니다. https://www.reuters.com/world/china/us-seeks-answers-nvidias-sale-chips-china-bessent-says-2026-11-22/",
+      "11/25(수) 22:30 KST GDP 2차 추계·10월 개인소득·지출(PCE) 발표 예정. 결과는 미공개입니다. https://www.bea.gov/news/schedule?trk=article-ssr-frontend-pulse_little-text-block",
+      "11/26(목) 04:00 KST 베이지북 예정(미국 11/25 14:00 EST). https://www.federalreserve.gov/newsevents/2026-November.htm",
+      "미국 11/26 추수감사절 휴장, 11/27 주식시장 13:00 EST 조기 종료(11/28 03:00 KST). https://www.nyse.com/trade/hours-calendars",
+      "상승·하락 각 5개는 재조회한 11/20 정규장 개별종목 수익률 사례입니다. 업종·테마 지수나 시장 전체 순위가 아닙니다. 같은 마감일을 유지하므로 일일 발행본 수만큼 수익률을 누적하지 않습니다.",
+      "VIX의 +26.20%는 Cboe 공식 11/20 35.89와 11/19 28.44의 비교입니다. 직전 실제 발행본과는 같은 값이며 과거 기록은 보존합니다. https://cdn-api.cboe.com/api/global/us_indices/daily_prices/VIX_History.csv",
+      "금은 기존 COMEX 11월 인도 최근월물 결제·USD/트로이온스 기준입니다. 11/20 결제를 유지하며 현물·12월물·장중 값을 혼용하지 않습니다. https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905"
+    ],
+    "updatedAt": "2026-11-22T22:34:10.087Z"
   }
 ]
