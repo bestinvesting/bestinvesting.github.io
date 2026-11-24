@@ -231,5 +231,50 @@
     ],
     "createdAt": "2026-11-23T20:41:12.327Z",
     "updatedAt": "2026-11-23T20:41:12.327Z"
+  },
+  {
+    "reportType": "market-regime",
+    "id": "warsh-20261125-0532-kst-korea-flow-reversal-us-tech-divergence",
+    "date": "2026-11-25",
+    "title": "워시 이후 시장 추적 — 2026년 11월 25일 외국인 매수 전환·미국 기술주 반등 약화",
+    "summary": "한국 외국인이 8거래일 만에 현물 순매수로 전환하고 KOSPI가 5,000선을 회복했다. 그러나 미국 기술주는 다시 약세, Fed 인상 기대는 유지·강화됐다. 고변동성 반등 레짐 안에서 한국 수급 개선과 미국 기술주 위험 재평가가 교차하며 중기 위험선호 전환은 미확인.",
+    "asOf": "2026-11-25 05:32 KST 관측·작성 기준. 한국 11/24 정규장 종가·외국인 잠정 수급 및 서울 15:30 환율. 미국 11/24 Reuters 장중 보도(정규장 마감 전), 국채 공식 CMT는 11/23까지 확인.",
+    "body": "# 워시 이후 시장 추적 — 2026년 11월 25일\n\n**판정: 이벤트 주도 고변동성 유지. 한국 수급은 개선됐지만 미국 기술주 반등의 지속성은 약화됐다.** 직전 11월 24일 보고서에서 예상한 한국 반등의 전이가 실제 외국인 순매수 전환으로 확인됐다. 반면 미국에서는 AI 관련 주식이 다시 약해져 동시 위험선호 전환으로 보기 어렵다. 단순 가격 등락이 아니라 7거래일 연속 외국인 매도의 종료와 미국 업종 간 방향 분화가 신규 관찰의 핵심이다.\n\n관측 기준: 2026-11-25 05:32 KST. 한국은 11/24 정규장 종가·잠정 수급·서울 외환시장 15:30 주간 종가. 미국은 11/24 정규장 진행 중 Reuters 기사 수치이며 종가가 아니다.\n\n## 1. 이전 대비 변화\n\n| 지표 | 직전 11/23 관측 | 11/24 신규 관측 |\n|---|---|---|\n| KOSPI | 4,708.54 | 5,006.03 (+6.32%) |\n| 외국인 KOSPI 현물 | 약 3,669억원 순매도 | 약 7,256억원 순매수(연합뉴스 인용 잠정치) |\n| 삼성전자 | 177,500원 | 189,400원 (+6.70%) |\n| SK하이닉스 | 약 109만원 | 1,158,000원 (+6.73%, 당일 보도 기준) |\n| 달러/원 15:30 | 1,345.9원 | 1,342.4원 (-3.5원) |\n| S&P 500 | 장중 +4.92% | 장중 -0.49% |\n| Nasdaq Composite | 장중 +6.65% | 장중 -1.49% |\n| Dow | 장중 +3.26% | 장중 +0.85% |\n| 엔비디아 | 장중 약 +31% | 장중 -7.3% |\n| 미국 2년물 시장 호가 | 4.696% | 약 4.6415% |\n| 미국 10년물 시장 호가 | 4.940% | 약 4.90% |\n| Fed 12월 인상 기대 | 96% | 98% |\n| Fed 1월 추가 인상 기대 | 63% | 66% |\n\n미국 지수·엔비디아는 Reuters 미국 증시 기사 기준, 금리·FedWatch는 별도 Reuters 글로벌 시장 기사 기준으로 관측 시각이 같지 않다. 재무부 공식 CMT 11/23 기준 2년 4.63%, 10년 4.92%로 11/20 공식값과 동일하며 11/24 공식값은 조회 시점 미확인이다. 한국 외국인 순매수는 뉴스핌 7,255억원, 연합뉴스 인용 7,256억원, 머니투데이 후속 집계 7,391억원으로 차이가 있어 약 0.73조원으로 해석한다. 종목별 외국인 매매 및 선물 수급 확정치는 미확인이다.\n\n## 2. 사실과 해석\n\n**한국:** 외국인이 8거래일 만에 순매수로 돌아섰고 KOSPI·KOSDAQ에 매수 사이드카가 발동됐다. 삼성전자와 SK하이닉스 상승률은 거의 같아 이번 반등에서 뚜렷한 종목 간 상대강도 분화는 확인되지 않는다. 원화는 소폭 강세에 그쳤다. 반도체주뿐 아니라 다른 업종도 상승한 점은 수급 개선을 뒷받침하지만 하루 순매수로 구조적 자금 유입을 확정할 수는 없다.\n\n**미국:** 엔비디아 복귀 이벤트 이후 기술주가 일부 상승분을 반납하고 Dow는 상승했다. AI 투자 수익성 및 자금조달에 대한 불확실성이 남아 있는 가운데 업종별 흐름이 갈렸다. Reuters가 11/24 보도한 미 상원의 민주당 지도자의 수출통제 위반 주장은 정치인의 의혹 제기이며 법 위반의 확정이나 당국의 처분이 아니다. 12/3 상원 공개 청문회가 예정된 것으로 보도됐다. 별도로 미국의 16개 교역 상대 과잉생산 관련 관세 검토 보도가 나왔으나 신규 관세율·실제 시행은 확인되지 않았다.\n\n**금리:** CME 선물에 반영된 인상 확률은 소폭 더 높아졌다. 국채 시장 호가는 내려갔지만 금리 인하 기대 전환으로 해석할 수 없다. 두 시점의 시장 호가는 공식 종가와 구분한다.\n\n## 3. 시장 영향 및 후속 확인\n\n미국: 기술주 반등의 지속성이 약해졌지만 Dow 상승과 함께 나타난 혼조이므로 전면적인 위험회피 재개로 확정하지 않는다. 한국: 외국인 매수 복귀로 반등의 근거가 강화됐으나 11/24 한국 종가는 이후 미국 기술주 약세 이전의 가격이다. 다음 개장에는 하방 갭과 장중 변동성에 유의하고 외국인 현물·KOSPI200 선물의 동반 매수 여부, 반도체 상대강도 및 5,000선 유지 여부를 확인한다. 미국 PCE, 12월·1월 Fed 선물, 한국은행 정책 결정, 엔비디아 관련 공식 조사·청문회 후속 및 관세 원문도 추적한다.\n\n**결론:** 고변동성 반등 레짐은 유지되지만 한국 수급 반전이 확인됐고 미국 기술주와의 방향 차이가 발생했다. 지속적인 위험선호 전환은 아직 미확인이다.\n\n### 출처\n- [연합뉴스 인용 한국 증시 마감](https://www.koreatimes.co.kr/economy/others/20261124/seoul-shares-rebound-over-6-on-huangs-return)\n- [뉴스핌 한국 증시 마감](https://www.newspim.com/news/view/20261124001157)\n- [머니투데이 외국인 수급 후속 집계](https://www.mt.co.kr/en/stock/2026/11/24/2026112415523463136)\n- [Reuters 미국 증시 장중](https://www.reuters.com/business/wall-st-futures-dip-chip-stocks-cool-after-nvidia-fueled-rally-2026-11-24/)\n- [Reuters 국채 호가와 FedWatch](https://www.reuters.com/world/china/global-markets-global-markets-2026-11-24/)\n- [미 재무부 공식 국채수익률](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve)\n- [Reuters 상원 수출통제 의혹 제기](https://www.reuters.com/world/china/schumer-accuses-nvidia-ceo-violating-us-export-control-law-2026-11-24/)\n- [Reuters 신규 관세 검토 보도](https://www.reuters.com/world/us/trump-administration-set-unveil-new-tariffs-after-probe-on-excess-factory-2026-11-24/)",
+    "sources": [
+      {
+        "label": "연합뉴스 인용 한국 증시 마감",
+        "url": "https://www.koreatimes.co.kr/economy/others/20261124/seoul-shares-rebound-over-6-on-huangs-return"
+      },
+      {
+        "label": "뉴스핌 한국 증시 마감",
+        "url": "https://www.newspim.com/news/view/20261124001157"
+      },
+      {
+        "label": "머니투데이 외국인 수급 후속 집계",
+        "url": "https://www.mt.co.kr/en/stock/2026/11/24/2026112415523463136"
+      },
+      {
+        "label": "Reuters 미국 증시 장중",
+        "url": "https://www.reuters.com/business/wall-st-futures-dip-chip-stocks-cool-after-nvidia-fueled-rally-2026-11-24/"
+      },
+      {
+        "label": "Reuters 국채 호가 및 FedWatch",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-24/"
+      },
+      {
+        "label": "미 재무부 공식 국채수익률",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+      },
+      {
+        "label": "Reuters 상원 수출통제 의혹 제기",
+        "url": "https://www.reuters.com/world/china/schumer-accuses-nvidia-ceo-violating-us-export-control-law-2026-11-24/"
+      },
+      {
+        "label": "Reuters 신규 관세 검토 보도",
+        "url": "https://www.reuters.com/world/us/trump-administration-set-unveil-new-tariffs-after-probe-on-excess-factory-2026-11-24/"
+      }
+    ],
+    "createdAt": "2026-11-24T20:33:01.955Z",
+    "updatedAt": "2026-11-24T20:33:01.955Z"
   }
 ]
