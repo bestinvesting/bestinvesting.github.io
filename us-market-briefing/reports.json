@@ -4989,5 +4989,450 @@
       "직전 실제 발행본은 2026-11-23이며 당시 지표 기준 정규장은 11/20입니다. 과거 날짜 기록은 보존하고, 오늘 새 관측과 구분합니다."
     ],
     "updatedAt": "2026-11-23T22:36:28.865Z"
+  },
+  {
+    "date": "2026-11-25",
+    "session": "미국장 2026-11-24(화) 정규장 마감 · 작성 2026-11-25 07:35 KST",
+    "summary": "미국 11/24 정규장에서 나스닥 −1.48%, SOX −7.88%로 전날 AI·반도체 급등분을 일부 반납했습니다. S&P 500은 −0.50%, 다우는 +0.85%로 엇갈렸습니다. 소비자신뢰는 103.3으로 개선됐고 델은 장후 실적에서 연간 매출 전망을 높였습니다. 미 10년물 공식 금리는 4.91%, COMEX 11월 금 결제는 −2.45%입니다. 해석: 기술주 약세와 여타 주식의 강세를 구분하고, GDP·PCE 발표 뒤 금리와 국내 반도체 수급을 확인할 구간입니다.",
+    "archiveHighlights": [
+      "기술주 반락 · 나스닥 −1.48% · SOX −7.88%",
+      "소비자신뢰 91.9 → 103.3",
+      "델 장후 매출 549억 달러"
+    ],
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,201.09",
+        "change": "−0.50%"
+      },
+      {
+        "name": "NASDAQ",
+        "value": "23,733.54",
+        "change": "−1.48%"
+      },
+      {
+        "name": "DOW",
+        "value": "50,018.70",
+        "change": "+0.85%"
+      },
+      {
+        "name": "VIX",
+        "value": "26.36",
+        "change": "−0.98% · (11/24)"
+      },
+      {
+        "name": "미 국채 10년",
+        "value": "4.91%",
+        "change": "−1bp · (11/24)"
+      },
+      {
+        "name": "필라델피아 반도체 (SOX)",
+        "value": "8,832.50",
+        "change": "−7.88% · (11/24)"
+      },
+      {
+        "name": "금 선물 (COMEX 11월)",
+        "value": "$3,559.90 / 트로이온스",
+        "change": "−2.45% · (11/24 결제)"
+      }
+    ],
+    "issues": [
+      {
+        "category": "시장 종합",
+        "title": "AI 반등 되돌림, 다우·러셀은 상승",
+        "highlight": {
+          "title": "11/24 미국 정규장",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "S&P 500",
+              "value": "−0.50%",
+              "status": "neutral"
+            },
+            {
+              "label": "나스닥",
+              "value": "−1.48%",
+              "status": "neutral"
+            },
+            {
+              "label": "다우",
+              "value": "+0.85%",
+              "status": "neutral"
+            },
+            {
+              "label": "러셀 2000",
+              "value": "+0.57%",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/24 AP 정규장 종가 · 직전 AP 종가 대비 계산"
+        },
+        "summary": "S&P 500 7,201.09, 나스닥 23,733.54, 다우 50,018.70, 러셀 2000 2,684.94로 마감했습니다.",
+        "changed": "11/23 3대 지수 동반 상승에서 S&P 500과 나스닥은 하락 전환했고 다우는 상승을 이어갔습니다.",
+        "impact": "해석: 대형 기술주 매도와 여타 종목의 강세가 함께 나타나 지수별 체감이 달랐습니다.",
+        "analysis": "AP는 기술주 밖에서 다수 종목이 상승했다고 전했습니다. 등락률은 AP의 두 거래일 종가로 계산했습니다.",
+        "follow": "시총 가중 지수와 상승 종목 수, 휴장 전 거래량",
+        "source": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-6cc4e580290aadf304ee316d6d46dd81",
+        "sourceName": "AP · 11/24 정규장 마감"
+      },
+      {
+        "category": "시장구조",
+        "title": "반도체 급락, VIX 마감 집계는 소폭 하락",
+        "highlight": {
+          "title": "반도체·변동성",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "SOX",
+              "value": "−7.88%",
+              "status": "neutral"
+            },
+            {
+              "label": "엔비디아",
+              "value": "−5.86%",
+              "status": "neutral"
+            },
+            {
+              "label": "VIX",
+              "value": "26.36",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/24 마감 자료 · SOX 역사표 대조, VIX 보조 마감 자료 일치·공식 CSV 당일 행 미확인"
+        },
+        "summary": "SOX는 8,832.50, NVDA는 155.38달러로 마감했습니다. VIX는 두 보조 마감 집계가 26.36으로 일치합니다.",
+        "changed": "SOX는 직전 발행본의 +14.03%에서 하락 전환했습니다. VIX −0.98%는 공식 CSV에도 추가된 11/23 종가 26.62 대비이며 직전 발행본은 당시 상태로 보존합니다.",
+        "impact": "해석: 반도체 급락과 S&P 500 옵션 내재변동성은 다른 방향으로 움직였습니다.",
+        "analysis": "SOX는 정규장 이후 마감 자료를 비교했습니다. VIX는 16:15 EST 마감 집계를 채택했습니다. SOX 대조 https://fourweekmba.com/ai-chip-index-gives-back-64-of-its-rally-at-tuesdays-close/ VIX 대조 https://finabase.io/symbol/%5Evix/history https://www.investing.com/indices/volatility-s-p-500-historical-data Cboe 공식 CSV https://cdn-api.cboe.com/api/global/us_indices/daily_prices/VIX_History.csv NVDA 마감 https://www.marketscreener.com/news/nasdaq-s-p-500-end-lower-following-monday-s-nvidia-fueled-rally-ce7851dbdd81f720",
+        "follow": "Cboe 11/24 공식치와 국내 반도체 상대강도",
+        "source": "https://www.stockquote.io/stocks/%5ESOX/history",
+        "sourceName": "StockQuote · 11/24 SOX 마감"
+      },
+      {
+        "category": "거시·경기",
+        "title": "소비자신뢰 103.3, 리치먼드 제조업도 개선",
+        "highlight": {
+          "title": "11월 설문",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "소비자신뢰",
+              "value": "103.3",
+              "status": "neutral"
+            },
+            {
+              "label": "10월 소비자신뢰",
+              "value": "91.9",
+              "status": "neutral"
+            },
+            {
+              "label": "리치먼드 제조업",
+              "value": "−2 → 3",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/24 Conference Board 잠정 설문과 리치먼드 연은 공식 지역 조사"
+        },
+        "summary": "소비자신뢰는 전월보다 11.4p 상승했습니다. 현재 상황은 132.8, 기대 지수는 83.6입니다. 리치먼드 제조업 종합지수는 −2에서 3으로 올랐습니다.",
+        "changed": "직전 발행본에서 발표 예정이었던 두 설문의 결과입니다.",
+        "impact": "해석: 체감 개선은 수요의 참고 신호입니다. 소비지출·물가는 BEA 발표와 함께 볼 필요가 있습니다.",
+        "analysis": "소비자신뢰 조사 기간은 11/1~17입니다. 제조업 수치는 제5연은 관할 설문입니다. https://www.richmondfed.org/-/media/RichmondFedOrg/region_communities/regional_data_analysis/regional_economy/surveys_of_business_conditions/manufacturing/2026/pdf/mfg_11_24_26.pdf",
+        "follow": "10월 실제 소비지출·PCE",
+        "source": "https://www.conference-board.org/topics/consumer-confidence/",
+        "sourceName": "Conference Board · 11/24 공식 소비자신뢰"
+      },
+      {
+        "category": "연준·금리",
+        "title": "10년물 4.91%, GDP·PCE 앞두고 1bp 하락",
+        "highlight": {
+          "title": "재무부 일일 곡선",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "2년물",
+              "value": "4.63%",
+              "status": "neutral"
+            },
+            {
+              "label": "10년물",
+              "value": "4.91%",
+              "status": "neutral"
+            },
+            {
+              "label": "10년물 전일비",
+              "value": "−1bp",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/24 미 재무부 공식 곡선 · 장중 호가와 별도"
+        },
+        "summary": "2년물은 4.63%로 보합, 10년물은 4.92%에서 4.91%로 낮아졌습니다.",
+        "changed": "Reuters는 11/24 당시 CME FedWatch에서 12월 25bp 인상 기대가 우세했다고 전했습니다.",
+        "impact": "해석: 하루의 장기금리 변화와 정책금리 기대는 서로 다른 신호입니다.",
+        "analysis": "미국 12/8~9 FOMC가 예정돼 있습니다. 정책 기대 보도 https://www.marketscreener.com/news/nasdaq-s-p-500-end-lower-following-monday-s-nvidia-fueled-rally-ce7851dbdd81f720 회의 달력 https://www.federalreserve.gov/newsevents/2026-december.htm",
+        "follow": "11/25 22:30 KST GDP·PCE와 금리 반응",
+        "source": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve",
+        "sourceName": "미 재무부 · 11/24 일일 파수익률"
+      },
+      {
+        "category": "통상 정책",
+        "title": "과잉생산 조사 후속 관세 보도",
+        "highlight": {
+          "title": "무역법 301조 진행",
+          "kind": "steps",
+          "items": [
+            {
+              "label": "공식 조사 개시",
+              "value": "완료",
+              "status": "done"
+            },
+            {
+              "label": "후속 관세 보도",
+              "value": "현재",
+              "status": "current"
+            },
+            {
+              "label": "새 세율·시행일",
+              "value": "미정",
+              "status": "pending"
+            }
+          ],
+          "note": "3월 USTR 공식 발표·11/24 Reuters 소식통 보도 · 후속 조치는 미확정"
+        },
+        "summary": "USTR은 3월 한국을 포함한 16개 경제권 관련 조사를 개시했습니다. Reuters는 조사 결과와 추가 관세가 공개될 가능성을 보도했습니다.",
+        "changed": "11/24 장중 확인된 새 통상 정책 보도입니다.",
+        "impact": "해석: 한국 수출주의 영향은 최종 적용 품목과 기존 합의의 적용 범위에 따라 달라집니다.",
+        "analysis": "공식 조사 개시 문서는 확인했습니다. 신규 세율·시행일을 확정하는 후속 문서는 조회 시점에 확보하지 못했습니다. https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/ustr-initiates-section-301-investigations-relating-structural-excess-capacity-and-production",
+        "follow": "USTR·연방관보 발표, 대상 품목·기존 합의 조건",
+        "source": "https://www.reuters.com/world/us/trump-administration-set-unveil-new-tariffs-after-probe-on-excess-factory-2026-11-24/",
+        "sourceName": "Reuters · 11/24 소식통 보도"
+      },
+      {
+        "category": "기업·실적",
+        "title": "델 장후 공시, AI 서버 매출 증가",
+        "highlight": {
+          "title": "Dell FY27 3분기",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "매출",
+              "value": "549억 달러",
+              "status": "neutral"
+            },
+            {
+              "label": "AI 서버 매출",
+              "value": "220억 달러",
+              "status": "neutral"
+            },
+            {
+              "label": "연간 매출 전망",
+              "value": "2,020억 달러",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/24 Dell SEC 제출자료 · 연간 수치는 회사 전망"
+        },
+        "summary": "분기 매출은 전년비 103%, AI 최적화 서버 매출은 291% 증가했습니다. 연간 매출 전망은 1,920억에서 2,020억 달러로 상향했습니다.",
+        "changed": "정규장 DELL −11.83%는 장후 실적 공개 전에 형성된 수익률입니다.",
+        "impact": "해석: 서버 투자 강도의 근거는 주가뿐 아니라 주문 잔고의 매출 전환과 현금흐름에서도 확인할 수 있습니다.",
+        "analysis": "AI 주문 잔고 1,323억 달러는 회사 공시로, 인식 매출과 구분합니다. 정규장 집계 https://quant500.com/sp500-gainers-losers",
+        "follow": "다음 정규장 반응, 서버 출하·현금흐름",
+        "source": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/exhibit991earnings8kq3fy27.htm",
+        "sourceName": "Dell · 11/24 SEC 8-K 첨부자료"
+      },
+      {
+        "category": "기업·실적",
+        "title": "달러트리 상승, 아날로그디바이시스 하락",
+        "highlight": {
+          "title": "정규장과 실적",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "DLTR",
+              "value": "+11.18%",
+              "status": "neutral"
+            },
+            {
+              "label": "DLTR 동일점 매출",
+              "value": "+4.6%",
+              "status": "neutral"
+            },
+            {
+              "label": "ADI",
+              "value": "−17.37%",
+              "status": "neutral"
+            },
+            {
+              "label": "ADI 분기 매출",
+              "value": "43.7억 달러",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/24 공식 실적 및 Quant500 정규장 종목 수익률"
+        },
+        "summary": "달러트리 동일점 매출은 4.6% 증가했고, 아날로그디바이시스 분기 매출은 43.7억 달러였습니다.",
+        "changed": "동일한 장 전 실적 발표일에 두 종목의 수익률 방향이 갈렸습니다.",
+        "impact": "해석: 실적·시장 기대·동종주 움직임을 함께 봐야 가격 반응을 해석할 수 있습니다.",
+        "analysis": "회사 실적과 주가 수익률을 각각 확인했습니다. ADI 공시 https://www.analog.com/en/newsroom/press-releases/2026/11-24-26-adi-reports-record-4th-qtr-and-fiscal-2026-financial-results.html 종목 집계 https://quant500.com/sp500-gainers-losers",
+        "follow": "가이던스·동종 기업 후속 반응",
+        "source": "https://corporate.dollartree.com/investors/news-events/press-releases/detail/313/dollar-tree-inc-reports-third-quarter-results",
+        "sourceName": "Dollar Tree · 11/24 공식 실적"
+      },
+      {
+        "category": "원자재",
+        "title": "COMEX 11월 금 결제 −2.45%",
+        "highlight": {
+          "title": "동일 계약월 비교",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "11월물",
+              "value": "$3,559.90/oz",
+              "status": "neutral"
+            },
+            {
+              "label": "전일비",
+              "value": "−2.45%",
+              "status": "neutral"
+            },
+            {
+              "label": "가격 변화",
+              "value": "−$89.30",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/24 WSJ/Dow Jones 결제 보도 · COMEX 2026년 11월물, USD/트로이온스"
+        },
+        "summary": "COMEX 11월 인도 최근월물은 트로이온스당 3,559.90달러에 결제됐습니다.",
+        "changed": "같은 11월물의 11/23 결제 3,649.20달러에서 89.30달러 하락했습니다.",
+        "impact": "해석: 주식 약세가 항상 금 강세로 이어지는 것은 아닙니다.",
+        "analysis": "계약월과 결제 기준을 유지했습니다. 현물과 장중 시세는 별도입니다.",
+        "follow": "PCE 발표 이후 결제와 최근월물 전환",
+        "source": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a",
+        "sourceName": "WSJ/Dow Jones · 11/24 COMEX 결제"
+      },
+      {
+        "category": "후속 일정",
+        "title": "GDP·PCE 발표와 추수감사절 휴장",
+        "highlight": {
+          "title": "다음 주요 일정",
+          "kind": "steps",
+          "items": [
+            {
+              "label": "GDP·PCE",
+              "value": "11/25 22:30",
+              "status": "pending"
+            },
+            {
+              "label": "다음 정규장 개장",
+              "value": "11/25 23:30",
+              "status": "pending"
+            },
+            {
+              "label": "추수감사절",
+              "value": "미국 11/26 휴장",
+              "status": "pending"
+            },
+            {
+              "label": "조기 마감",
+              "value": "11/28 03:00",
+              "status": "pending"
+            }
+          ],
+          "note": "BEA·NYSE 공식 일정 · 시각은 KST, 휴장은 미국 날짜"
+        },
+        "summary": "11/25 22:30 KST에 3분기 GDP 2차 추계·10월 개인소득 및 지출과 PCE가 발표될 예정입니다.",
+        "changed": "미국 11/24 정규장 완료. 다음 정규장은 11/25 23:30~11/26 06:00 KST입니다.",
+        "impact": "해석: 경제지표 발표 직후 금리·달러와 AI 주도주의 반응을 함께 볼 구간입니다.",
+        "analysis": "NYSE는 미국 11/26 휴장과 11/27 13:00 EST 주식 조기 종료를 공지했습니다. https://www.nyse.com/trade/hours-calendars",
+        "follow": "GDP·PCE 공식 결과와 주 후반 거래시간",
+        "source": "https://www.bea.gov/news/schedule/",
+        "sourceName": "BEA·NYSE 공식 달력"
+      }
+    ],
+    "winners": [
+      {
+        "theme": "할인 소매",
+        "stocks": "DLTR +11.18%",
+        "reason": "11/24 정규장 대표 종목 수익률 기준. 장 전 실적에서 동일점 매출 +4.6% 발표. https://corporate.dollartree.com/investors/news-events/press-releases/detail/313/dollar-tree-inc-reports-third-quarter-results https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "부동산 정보·플랫폼",
+        "stocks": "CSGP +8.08%",
+        "reason": "11/24 정규장 대표 종목 수익률 기준. 상승 사실 확인, 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "mRNA 바이오",
+        "stocks": "MRNA +7.21%",
+        "reason": "11/24 정규장 대표 종목 수익률 기준. 상승 사실 확인, 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "케이블·광대역",
+        "stocks": "CHTR +6.21%",
+        "reason": "11/24 정규장 대표 종목 수익률 기준. 상승 사실 확인, 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "스포츠 의류·신발",
+        "stocks": "NKE +5.89%",
+        "reason": "11/24 정규장 대표 종목 수익률 기준. 상승 사실 확인, 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      }
+    ],
+    "losers": [
+      {
+        "theme": "아날로그 반도체",
+        "stocks": "ADI −17.37%",
+        "reason": "11/24 정규장 대표 종목 수익률 기준. 장 전 분기 실적 발표와 정규장 하락 확인. https://www.analog.com/en/newsroom/press-releases/2026/11-24-26-adi-reports-record-4th-qtr-and-fiscal-2026-financial-results.html https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "서버·IT 하드웨어",
+        "stocks": "DELL −11.83%",
+        "reason": "11/24 정규장 대표 종목 수익률 기준. 정규장 하락 확인. 실적은 장후 발표. https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/exhibit991earnings8kq3fy27.htm https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "메모리",
+        "stocks": "MU −11.01%",
+        "reason": "11/24 정규장 대표 종목 수익률 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "광통신 부품",
+        "stocks": "LITE −10.52%",
+        "reason": "11/24 정규장 대표 종목 수익률 기준. 하락 사실 확인, 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "AI 가속기",
+        "stocks": "NVDA −5.86%",
+        "reason": "11/24 정규장 대표 종목 수익률 기준. 전일 급등 이후 하락. Reuters는 CEO 복귀를 둘러싼 지배구조 불확실성도 전했습니다. https://www.marketscreener.com/news/nasdaq-s-p-500-end-lower-following-monday-s-nvidia-fueled-rally-ce7851dbdd81f720"
+      }
+    ],
+    "korea": [
+      {
+        "theme": "반도체·HBM·장비",
+        "stocks": "삼성전자 · SK하이닉스 · 한미반도체",
+        "reason": "해석: 미국 메모리·가속기 동반 약세가 개장 심리에 영향을 줄 수 있습니다. 시초 갭 회복과 외국인 선물, 메모리 가격을 확인합니다."
+      },
+      {
+        "theme": "서버 공급망·전력",
+        "stocks": "삼성전기 · HD현대일렉트릭 · LS ELECTRIC",
+        "reason": "해석: 델 장후 서버 실적은 수요 참고 자료입니다. 국내 공급사의 실제 수주·출하와 전력 인프라 투자 일정은 별도로 확인합니다."
+      },
+      {
+        "theme": "대미 수출·현지 생산",
+        "stocks": "현대차 · 기아 · 철강",
+        "reason": "해석: 추가 관세 영향은 최종 품목, 기존 합의 적용과 현지 생산 비중에 따라 달라집니다."
+      },
+      {
+        "theme": "KOSPI200 장중 점검",
+        "stocks": "지수 선물 · 반도체 대형주",
+        "reason": "해석: 기술주와 다우 방향이 엇갈렸습니다. 국내 반도체 상대강도와 원/달러, 외국인 선물·베이시스를 함께 관찰합니다."
+      }
+    ],
+    "watch": [
+      "11/25 22:30 KST 미국 3분기 GDP 2차 추계·10월 개인소득 및 지출(PCE). 결과는 작성 시점 미공개입니다. https://www.bea.gov/news/schedule/",
+      "다음 미국 정규장 11/25 23:30~11/26 06:00 KST. 미국 11/26 추수감사절 휴장, 11/27 현지 13:00 조기 마감(11/28 03:00 KST). https://www.nyse.com/trade/hours-calendars",
+      "미국 12/8~9 FOMC 예정. https://www.federalreserve.gov/newsevents/2026-december.htm",
+      "상승·하락 각 5개는 확인한 11/24 정규장 대표주 사례입니다. 개별주 수익률과 테마 지수 수익률은 구분합니다. https://quant500.com/sp500-gainers-losers",
+      "당일 VIX는 보조 마감 집계 일치값입니다. Cboe 일일 CSV의 11/24 행은 작성 시점 미확인입니다. https://cdn-api.cboe.com/api/global/us_indices/daily_prices/VIX_History.csv"
+    ],
+    "updatedAt": "2026-11-24T22:35:29.293Z"
   }
 ]
