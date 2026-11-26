@@ -1,5 +1,70 @@
 [
   {
+    "id": "kospi200-daily-2026-11-27",
+    "reportType": "daily",
+    "date": "2026-11-27",
+    "title": "KOSPI200 Daily Report — 2026년 11월 27일",
+    "summary": "금리 인상 뒤 장중 상승분 반납. 기관 현물 매수·외국인 선물 매수의 지속성, 배당 역송금과 미국 휴일 유동성을 점검합니다.",
+    "asOf": "국내 11/26 완료장·15:40 잠정 수급 / 미국 현지 11/26 휴장, 11/27 06:02 KST 열람 / 미 금리 11/25 공식치",
+    "publishedAt": "2026-11-26T21:03:04Z",
+    "originalCreatedAt": "2026-11-26T21:03:04Z",
+    "notice": "한국 정상 거래일·미국 추수감사절 휴장. 미국 지수·SOX 최근 확정 종가 재검증 실패로 수치 미기재. VKOSPI·OI·스큐·RV 괴리 미확인. 07:30 시황과 별도.",
+    "sources": [
+      {
+        "title": "cal",
+        "url": "https://traderda.com/market/market-holidays",
+        "asOf": "11/27 장전 열람; 본문 기준일·시각·단위 참조"
+      },
+      {
+        "title": "krx",
+        "url": "https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm",
+        "asOf": "11/27 장전 열람; 본문 기준일·시각·단위 참조"
+      },
+      {
+        "title": "kr",
+        "url": "https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026112616180917K_02_02.pdf&inlineYn=Y&saveKey=research.pdf",
+        "asOf": "11/27 장전 열람; 본문 기준일·시각·단위 참조"
+      },
+      {
+        "title": "price",
+        "url": "https://markets.hankyung.com/indices/kospi200",
+        "asOf": "11/27 장전 열람; 본문 기준일·시각·단위 참조"
+      },
+      {
+        "title": "fx",
+        "url": "https://www.yna.co.kr/view/AKR20261126095751002",
+        "asOf": "11/27 장전 열람; 본문 기준일·시각·단위 참조"
+      },
+      {
+        "title": "semi",
+        "url": "https://www.mt.co.kr/index.php/stock/2026/11/26/2026112615405050994",
+        "asOf": "11/27 장전 열람; 본문 기준일·시각·단위 참조"
+      },
+      {
+        "title": "bok",
+        "url": "https://www.bok.or.kr/portal/singl/baseRate/list.do?menuNo=200656",
+        "asOf": "11/27 장전 열람; 본문 기준일·시각·단위 참조"
+      },
+      {
+        "title": "rate",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+        "asOf": "11/27 장전 열람; 본문 기준일·시각·단위 참조"
+      },
+      {
+        "title": "holiday",
+        "url": "https://www.nasdaq.com/market-activity/stock-market-holiday-schedule",
+        "asOf": "11/27 장전 열람; 본문 기준일·시각·단위 참조"
+      },
+      {
+        "title": "prev",
+        "url": "https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-26.json",
+        "asOf": "11/27 장전 열람; 본문 기준일·시각·단위 참조"
+      }
+    ],
+    "body": "# KOSPI200 Daily Report — 2026년 11월 27일\n\n**오늘 한국장은 정상 개장, 현물 정규장 09:00~15:30입니다.** 거래일 캘린더와 KRX 공지를 확인했습니다. 수능 시간 변경은 11/19에 한정됩니다. [캘린더](https://traderda.com/market/market-holidays) · [KRX 공지](https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm)\n\n국내는 11/26 완료장, 해외 일정·금리는 **11/27 06:02 KST 열람** 기준입니다. **미국 현지 11/26은 추수감사절 휴장**으로 새 정규장 종가가 없습니다. 미국의 최근 완료 정규장은 11/25이며, 그날 지수·SOX 확정 종가는 이번 회차 재검증에 실패해 수치를 재인용하지 않습니다. [미국 공식 일정](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)\n\n## P1 · 핵심 변화 3개: 사실 → 해석 → 확인\n\n1. **종가는 반등했지만 장중 상승을 지키지 못했습니다.** 11/26 KOSPI200은 **727.08p(+0.45%)**, 고가 **744.86p**, 저가 **725.98p**였습니다. → 종가 상승만으로 장초 추세 성공을 판단하면 안 됩니다. 오늘은 상승 갭 이후 시가·VWAP 이탈과 첫 범위 돌파 실패를 별도 관찰합니다. [11/26 장마감 시세](https://markets.hankyung.com/indices/kospi200)\n\n2. **기관 현물 매수와 외국인 선물 매수가 함께 나타났지만 외국인 현물은 매도였습니다.** 11/26 **15:40 잠정** KOSPI 현물은 기관 **+7,508억원**, 외국인 **-1,095억원**, 개인 **-10,439억원**. KOSPI200 선물은 외국인 **+1,389억원**, 기관 **-1,535억원**, 개인 **+246억원**입니다(계약 수 아님). → 선물 매수를 방향성 복귀로 확정하지 않습니다. 오늘 현물 매도 둔화·비차익 흐름·동시점 베이시스 개선이 동반되는지 확인합니다. 이후 장후 집계와 차이가 있어 잠정치끼리 비교합니다. [삼성증권·KRX 인용](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026112616180917K_02_02.pdf&inlineYn=Y&saveKey=research.pdf)\n\n3. **금리 인상 뒤 원화 강세는 제한적이었습니다.** 한국은행은 11/26 기준금리를 **3.00%→3.25%(+0.25%p)**로 인상했습니다. 원·달러는 같은 날 서울 **15:30에 1,342.7원(-0.5원)**. → ‘금리 인상=원화 강세=주식 매수’라는 단선적 해석을 보류합니다. 오늘 수출업체 달러 매도와 배당 역송금 수요가 환율·외국인 수급에 미치는 영향을 분리합니다. [한은 공식](https://www.bok.or.kr/portal/singl/baseRate/list.do?menuNo=200656) · [환율·수급 배경](https://www.yna.co.kr/view/AKR20261126095751002)\n\n미 재무부의 최신 확인치는 **11/25 2년 4.61%·10년 4.85%**, 11/24 대비 각각 **-2bp·-6bp**입니다. 이는 간밤 신규 거래값이 아니라 휴장 전 공식 일별 수익률입니다. [미 재무부 원자료](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026)\n\n## P2 · 반도체와 자료 한계\n\n11/26 삼성전자 **+0.35%**, SK하이닉스 **+2.23%**로 회복 강도가 달랐습니다. → 두 종목이 함께 오르더라도 장초 상대강도·수급 지속성을 확인해야 합니다. [11/26 종목 마감](https://www.mt.co.kr/index.php/stock/2026/11/26/2026112615405050994)\n\n최신 VKOSPI·IV 기간구조·RV 괴리, 동시점 OI·베이시스, 풋콜·스큐·프로그램 확정치와 옵션 델타 수급은 미확인입니다. 원·달러 전일값을 오늘 NDF로 쓰지 않습니다. 업종 점수·종합점수는 자료 부족으로 N/A입니다.\n\n## P3 · 직전 가설\n\n- **One-line Thesis — 유지·일부 수정:** 하방 경계는 유지하되, 기관 현물 매수·외국인 선물 매수의 지속성을 추가 검증합니다. 반등을 추세 전환으로 격상하지 않습니다. [직전 보고서](https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-26.json)\n- **Variant View:** 외국인 선물 매수 자체보다 현물·프로그램 동조가 중요합니다.\n- **Blind Spot:** 해외 휴장으로 신규 현물 가격발견이 없고, 옵션 헤지 방향도 미확인입니다.\n- **Thesis Invalidation:** 반도체 동반 회복·외국인 현물 매도 둔화·오후 수급 유지가 함께 확인되면 하방 우선 해석을 수정합니다.\n\n## P4 · 조건부 시나리오 — 통계 확률 아님\n\nMY ORIGINAL VIEW v1: 수급 동조가 개선되면 반등 연장, 신호가 충돌하면 혼조, 장초 상승을 반납하고 현물 매도가 커지면 하방 재시험을 가정합니다.\nFALSIFY: 금리 인상 부담을 이미 반영했거나 기관 수요가 예상보다 지속되면 하방 가설이 실패할 수 있습니다.\nCROWD VIEW: 미수집. MY REVISED VIEW v2: 갭과 장중 방향을 분리하는 원칙 유지, 수급 개선 확인 전 추세 판단 보류.\n\n## P5 · 오늘 장중 확인 조건\n\n판단은 **Neutral·조건 확인 전**입니다. 아래 구간은 전략 연구용이며 주문 신호가 아닙니다.\n\n- **갭·장초 추세/반전:** 첫 15분 시가·VWAP 유지와 반도체 동조를 확인합니다. 상승 갭 뒤 시가 이탈은 전일과 같은 반납 레짐의 검증 대상으로 분류합니다.\n- **오전·오후/변동성 돌파:** 오전 첫 범위 돌파가 거래·현선물 수급을 동반하는지 확인하고, 오후에는 독립 재평가합니다. 전일 진폭이나 미확인 VKOSPI로 고정 돌파폭을 만들지 않습니다.\n- **종가 수급·옵션 헤지:** 14:30 이후 비차익 프로그램·외국인 선물·환율의 동조를 재점검합니다. OI만으로 딜러 감마, 행사가 지지선·핀 고정을 단정하지 않습니다.\n\n계좌·비용·검증 성과가 없어 수량·목표가·승률은 미산출입니다. 계획 밖 추격·물타기 판단을 대신하는 자료가 아닙니다.\n\n## 이벤트·점검\n\n- **11/27 삼성전자 배당금 지급 예정:** 역송금 경계는 보도상 변수이지 확인된 달러 매수량이 아닙니다. [11/26 장후 보도](https://www.yna.co.kr/view/AKR20261126095751002)\n- **미국 11/27 조기폐장 13:00 ET = 한국 11/28 03:00:** 휴일 전후 유동성 저하를 감안해 해외 신호 대표성을 재점검합니다. [Nasdaq 공식](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)\n- **오늘 종가→다음 거래일:** 기관 매수 지속·외국인 현물/선물 동조·동시점 옵션 자료 확보를 우선 과제로 남깁니다.\n\n기존 07:30 한국 일일 시황과 별도인 전략 시장리포트입니다. 의사결정 보조·연구용이며 후행 결과를 장전 정보로 소급하지 않습니다.\n",
+    "originalBody": "# KOSPI200 Daily Report — 2026년 11월 27일\n\n**오늘 한국장은 정상 개장, 현물 정규장 09:00~15:30입니다.** 거래일 캘린더와 KRX 공지를 확인했습니다. 수능 시간 변경은 11/19에 한정됩니다. [캘린더](https://traderda.com/market/market-holidays) · [KRX 공지](https://kind.krx.co.kr/external/2026/11/05/000141/20261105000216/99303.htm)\n\n국내는 11/26 완료장, 해외 일정·금리는 **11/27 06:02 KST 열람** 기준입니다. **미국 현지 11/26은 추수감사절 휴장**으로 새 정규장 종가가 없습니다. 미국의 최근 완료 정규장은 11/25이며, 그날 지수·SOX 확정 종가는 이번 회차 재검증에 실패해 수치를 재인용하지 않습니다. [미국 공식 일정](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)\n\n## P1 · 핵심 변화 3개: 사실 → 해석 → 확인\n\n1. **종가는 반등했지만 장중 상승을 지키지 못했습니다.** 11/26 KOSPI200은 **727.08p(+0.45%)**, 고가 **744.86p**, 저가 **725.98p**였습니다. → 종가 상승만으로 장초 추세 성공을 판단하면 안 됩니다. 오늘은 상승 갭 이후 시가·VWAP 이탈과 첫 범위 돌파 실패를 별도 관찰합니다. [11/26 장마감 시세](https://markets.hankyung.com/indices/kospi200)\n\n2. **기관 현물 매수와 외국인 선물 매수가 함께 나타났지만 외국인 현물은 매도였습니다.** 11/26 **15:40 잠정** KOSPI 현물은 기관 **+7,508억원**, 외국인 **-1,095억원**, 개인 **-10,439억원**. KOSPI200 선물은 외국인 **+1,389억원**, 기관 **-1,535억원**, 개인 **+246억원**입니다(계약 수 아님). → 선물 매수를 방향성 복귀로 확정하지 않습니다. 오늘 현물 매도 둔화·비차익 흐름·동시점 베이시스 개선이 동반되는지 확인합니다. 이후 장후 집계와 차이가 있어 잠정치끼리 비교합니다. [삼성증권·KRX 인용](https://www.samsungpop.com/common.do?cmd=down&contentType=application%2Fpdf&fileName=4020%2F2026112616180917K_02_02.pdf&inlineYn=Y&saveKey=research.pdf)\n\n3. **금리 인상 뒤 원화 강세는 제한적이었습니다.** 한국은행은 11/26 기준금리를 **3.00%→3.25%(+0.25%p)**로 인상했습니다. 원·달러는 같은 날 서울 **15:30에 1,342.7원(-0.5원)**. → ‘금리 인상=원화 강세=주식 매수’라는 단선적 해석을 보류합니다. 오늘 수출업체 달러 매도와 배당 역송금 수요가 환율·외국인 수급에 미치는 영향을 분리합니다. [한은 공식](https://www.bok.or.kr/portal/singl/baseRate/list.do?menuNo=200656) · [환율·수급 배경](https://www.yna.co.kr/view/AKR20261126095751002)\n\n미 재무부의 최신 확인치는 **11/25 2년 4.61%·10년 4.85%**, 11/24 대비 각각 **-2bp·-6bp**입니다. 이는 간밤 신규 거래값이 아니라 휴장 전 공식 일별 수익률입니다. [미 재무부 원자료](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026)\n\n## P2 · 반도체와 자료 한계\n\n11/26 삼성전자 **+0.35%**, SK하이닉스 **+2.23%**로 회복 강도가 달랐습니다. → 두 종목이 함께 오르더라도 장초 상대강도·수급 지속성을 확인해야 합니다. [11/26 종목 마감](https://www.mt.co.kr/index.php/stock/2026/11/26/2026112615405050994)\n\n최신 VKOSPI·IV 기간구조·RV 괴리, 동시점 OI·베이시스, 풋콜·스큐·프로그램 확정치와 옵션 델타 수급은 미확인입니다. 원·달러 전일값을 오늘 NDF로 쓰지 않습니다. 업종 점수·종합점수는 자료 부족으로 N/A입니다.\n\n## P3 · 직전 가설\n\n- **One-line Thesis — 유지·일부 수정:** 하방 경계는 유지하되, 기관 현물 매수·외국인 선물 매수의 지속성을 추가 검증합니다. 반등을 추세 전환으로 격상하지 않습니다. [직전 보고서](https://bestinvesting.github.io/korea-market-briefing/data/market-reports/2026-11-26.json)\n- **Variant View:** 외국인 선물 매수 자체보다 현물·프로그램 동조가 중요합니다.\n- **Blind Spot:** 해외 휴장으로 신규 현물 가격발견이 없고, 옵션 헤지 방향도 미확인입니다.\n- **Thesis Invalidation:** 반도체 동반 회복·외국인 현물 매도 둔화·오후 수급 유지가 함께 확인되면 하방 우선 해석을 수정합니다.\n\n## P4 · 조건부 시나리오 — 통계 확률 아님\n\nMY ORIGINAL VIEW v1: 수급 동조가 개선되면 반등 연장, 신호가 충돌하면 혼조, 장초 상승을 반납하고 현물 매도가 커지면 하방 재시험을 가정합니다.\nFALSIFY: 금리 인상 부담을 이미 반영했거나 기관 수요가 예상보다 지속되면 하방 가설이 실패할 수 있습니다.\nCROWD VIEW: 미수집. MY REVISED VIEW v2: 갭과 장중 방향을 분리하는 원칙 유지, 수급 개선 확인 전 추세 판단 보류.\n\n## P5 · 오늘 장중 확인 조건\n\n판단은 **Neutral·조건 확인 전**입니다. 아래 구간은 전략 연구용이며 주문 신호가 아닙니다.\n\n- **갭·장초 추세/반전:** 첫 15분 시가·VWAP 유지와 반도체 동조를 확인합니다. 상승 갭 뒤 시가 이탈은 전일과 같은 반납 레짐의 검증 대상으로 분류합니다.\n- **오전·오후/변동성 돌파:** 오전 첫 범위 돌파가 거래·현선물 수급을 동반하는지 확인하고, 오후에는 독립 재평가합니다. 전일 진폭이나 미확인 VKOSPI로 고정 돌파폭을 만들지 않습니다.\n- **종가 수급·옵션 헤지:** 14:30 이후 비차익 프로그램·외국인 선물·환율의 동조를 재점검합니다. OI만으로 딜러 감마, 행사가 지지선·핀 고정을 단정하지 않습니다.\n\n계좌·비용·검증 성과가 없어 수량·목표가·승률은 미산출입니다. 계획 밖 추격·물타기 판단을 대신하는 자료가 아닙니다.\n\n## 이벤트·점검\n\n- **11/27 삼성전자 배당금 지급 예정:** 역송금 경계는 보도상 변수이지 확인된 달러 매수량이 아닙니다. [11/26 장후 보도](https://www.yna.co.kr/view/AKR20261126095751002)\n- **미국 11/27 조기폐장 13:00 ET = 한국 11/28 03:00:** 휴일 전후 유동성 저하를 감안해 해외 신호 대표성을 재점검합니다. [Nasdaq 공식](https://www.nasdaq.com/market-activity/stock-market-holiday-schedule)\n- **오늘 종가→다음 거래일:** 기관 매수 지속·외국인 현물/선물 동조·동시점 옵션 자료 확보를 우선 과제로 남깁니다.\n\n기존 07:30 한국 일일 시황과 별도인 전략 시장리포트입니다. 의사결정 보조·연구용이며 후행 결과를 장전 정보로 소급하지 않습니다.\n"
+  },
+  {
     "id": "kospi200-daily-2026-11-26",
     "reportType": "daily",
     "date": "2026-11-26",
