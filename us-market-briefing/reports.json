@@ -5822,5 +5822,455 @@
       "상승·하락은 11/25 대표주 가격수익률 각 5개 사례입니다. 테마 지수나 시장 전체 순위와 구분합니다. https://quant500.com/sp500-gainers-losers"
     ],
     "updatedAt": "2026-11-25T22:33:30.960Z"
+  },
+  {
+    "date": "2026-11-27",
+    "session": "미국장 2026-11-26 추수감사절 휴장 · 2026-11-25 정규장 종가 기준 · 작성 2026-11-27 07:36 KST",
+    "summary": "미국 11/26 추수감사절 휴장으로 11/25 정규장을 기준으로 삼았습니다. 당시 나스닥 −0.62%, 다우 +0.33%, SOX −0.65%였습니다. 새로 확인한 Cboe 11/25 VIX 공식 종가는 28.29(+7.32%)입니다. 미 10년물 4.85%와 COMEX 11월물 금 결제 3,534.70달러는 모두 11/25 기준입니다. 해석: 한국 시장에서는 미국 새 종가 신호가 없는 가운데 국내 반도체 수급과 환율을 확인하고, 미국 금요일 조기 마감과 블랙프라이데이 실제 판매 집계를 구분해 볼 구간입니다.",
+    "archiveHighlights": [
+      "추수감사절 휴장 · 11/25 혼조 마감 기준",
+      "11/25 VIX 공식 종가 28.29 · +7.32%",
+      "다음 미국장 11/27 23:30~28일 03:00 KST"
+    ],
+    "indices": [
+      {
+        "name": "S&P 500",
+        "value": "7,182.78",
+        "change": "−0.25% · (11/25)"
+      },
+      {
+        "name": "NASDAQ",
+        "value": "23,585.80",
+        "change": "−0.62% · (11/25)"
+      },
+      {
+        "name": "DOW",
+        "value": "50,182.95",
+        "change": "+0.33% · (11/25)"
+      },
+      {
+        "name": "VIX",
+        "value": "28.29",
+        "change": "+7.32% · (11/25)"
+      },
+      {
+        "name": "미 국채 10년",
+        "value": "4.85%",
+        "change": "−6bp · (11/25)"
+      },
+      {
+        "name": "필라델피아 반도체 (SOX)",
+        "value": "8,774.86",
+        "change": "−0.65% · (11/25)"
+      },
+      {
+        "name": "금 선물 (COMEX 11월)",
+        "value": "$3,534.70 / 트로이온스",
+        "change": "−0.71% · (11/25 결제)"
+      }
+    ],
+    "issues": [
+      {
+        "category": "거래 일정",
+        "title": "추수감사절 휴장 뒤 금요일 조기 마감",
+        "highlight": {
+          "title": "뉴욕증권거래소 일정",
+          "kind": "steps",
+          "items": [
+            {
+              "label": "미국 11/25 정규장",
+              "value": "완료",
+              "status": "done"
+            },
+            {
+              "label": "미국 11/26 추수감사절",
+              "value": "휴장",
+              "status": "done"
+            },
+            {
+              "label": "다음 개장",
+              "value": "11/27 23:30 KST",
+              "status": "pending"
+            },
+            {
+              "label": "다음 조기 마감",
+              "value": "11/28 03:00 KST",
+              "status": "pending"
+            }
+          ],
+          "note": "NYSE 2026 공식 달력 · 개장·마감은 한국시각"
+        },
+        "summary": "미국 11/26 주식시장은 추수감사절로 휴장했습니다. 다음 정규장은 미국 11/27 09:30~13:00 EST입니다.",
+        "changed": "11/26 정규장 거래가 없어 최신 미국 주식 종가는 11/25입니다.",
+        "impact": "해석: 거래시간이 짧아 장중 거래대금을 평소와 비교할 때 경과 시간을 함께 봅니다.",
+        "analysis": "조기 마감은 NYSE 주식 기준입니다. 일부 옵션의 종료 시각은 따로 공지됩니다.",
+        "follow": "다음 거래일 개장·초반 거래량",
+        "source": "https://www.nyse.com/trade/hours-calendars",
+        "sourceName": "NYSE · 2026 휴장·거래시간"
+      },
+      {
+        "category": "시장구조",
+        "title": "장중 급락 만회, 다우 상승",
+        "highlight": {
+          "title": "장중 급락 만회, 다우 상승",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "S&P 500",
+              "value": "−0.25%",
+              "status": "neutral"
+            },
+            {
+              "label": "나스닥",
+              "value": "−0.62%",
+              "status": "neutral"
+            },
+            {
+              "label": "다우",
+              "value": "+0.33%",
+              "status": "neutral"
+            },
+            {
+              "label": "SOX",
+              "value": "−0.65%",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/25 AP 종가·SOX 일별 마감 · 11/24 대비, 11/26 휴장"
+        },
+        "summary": "S&P 500은 장중 약 3.2% 하락한 뒤 7,182.78로 마감했습니다. 나스닥 23,585.80, 다우 50,182.95입니다.",
+        "changed": "휴장으로 새 종가가 없습니다. 주요 주가지수는 직전 발행본과 같은 11/25 마감이며, 등락률은 11/24 대비입니다.",
+        "impact": "해석: 대형 기술주 약세 속에서도 다우와 러셀 2000은 올라 지수별 흐름이 갈렸습니다.",
+        "analysis": "SOX 종가 8,774.86. 11/24 종가 8,832.50 대비 계산했습니다. https://www.stockquote.io/stocks/%5ESOX/history",
+        "follow": "조기 마감일 거래량과 반도체 상대강도",
+        "source": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-94fdb0ecb060ec65c0b02879ce0d2d09",
+        "sourceName": "AP · 11/25 마감"
+      },
+      {
+        "category": "시장구조",
+        "title": "11/25 VIX 공식 종가 28.29 확인",
+        "highlight": {
+          "title": "Cboe 공식 종가",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "11/25 VIX",
+              "value": "28.29",
+              "status": "neutral"
+            },
+            {
+              "label": "11/24 VIX",
+              "value": "26.36",
+              "status": "neutral"
+            },
+            {
+              "label": "거래일 대비",
+              "value": "+7.32%",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/25·11/24 Cboe 공식 일일 CSV · 같은 종가 시계열 계산"
+        },
+        "summary": "Cboe 공식 일일 파일에 11/25 종가 28.29가 수록됐습니다.",
+        "changed": "직전 발행본에서 미확인으로 표기한 11/25 관측값을 이번 발행본에 반영했습니다. 미국 11/26 새 VIX 종가로 해석하지 않습니다.",
+        "impact": "해석: 11/25 주가 낙폭 축소에도 종가 기준 내재변동성은 전 거래일보다 높았습니다.",
+        "analysis": "26.36에서 28.29로 1.93p 상승한 값입니다.",
+        "follow": "금요일 재개장 후 공식 VIX·반도체 상대강도",
+        "source": "https://cdn-api.cboe.com/api/global/us_indices/daily_prices/VIX_History.csv",
+        "sourceName": "Cboe · 공식 VIX 일별 데이터"
+      },
+      {
+        "category": "거시·물가",
+        "title": "GDP 상향, 근원 PCE 3.3%",
+        "highlight": {
+          "title": "GDP 상향, 근원 PCE 3.3%",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "3분기 GDP 연율",
+              "value": "+4.3%",
+              "status": "neutral"
+            },
+            {
+              "label": "GDP 속보치",
+              "value": "+3.4%",
+              "status": "neutral"
+            },
+            {
+              "label": "10월 PCE 전년비",
+              "value": "+3.8%",
+              "status": "neutral"
+            },
+            {
+              "label": "근원 PCE 전년비",
+              "value": "+3.3%",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/25 BEA 공식 발표 · GDP는 2차 추계"
+        },
+        "summary": "3분기 실질 GDP는 연율 4.3%로 0.9%p 상향됐습니다. 10월 PCE와 근원 PCE 가격지수는 각각 전월비 0.3% 상승했습니다.",
+        "changed": "11/25 공개 내용을 직전 거래일 기준으로 유지합니다. 11/26 미국 주식시장 휴장으로 새로운 종가 반응은 없습니다.",
+        "impact": "해석: 성장률 상향과 물가 수준을 함께 봐야 정책 기대 변화를 해석할 수 있습니다.",
+        "analysis": "GDP 상향은 투자와 소비지출 수정이 주된 배경입니다. 10월 실질 소비는 전월비 0.1% 미만 감소했습니다. https://www.bea.gov/sites/default/files/2026-11/gdp3q26-2nd.pdf",
+        "follow": "소비 실질 증가율과 다음 물가 발표",
+        "source": "https://bea.gov/news/2026/personal-income-and-outlays-october-2026",
+        "sourceName": "BEA · 10월 개인소득·지출"
+      },
+      {
+        "category": "연준·금리",
+        "title": "베이지북 성장 보고, 10년물 4.85%",
+        "highlight": {
+          "title": "베이지북 성장 보고, 10년물 4.85%",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "성장 보고 지역",
+              "value": "8/12",
+              "status": "neutral"
+            },
+            {
+              "label": "보합 보고 지역",
+              "value": "4/12",
+              "status": "neutral"
+            },
+            {
+              "label": "2년물",
+              "value": "4.61%",
+              "status": "neutral"
+            },
+            {
+              "label": "10년물",
+              "value": "4.85%",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/25 연준 지역 보고·재무부 공식 수익률"
+        },
+        "summary": "베이지북에서 8개 지역은 소폭~완만한 성장, 4개는 보합을 보고했습니다. 전국 소비지출은 대체로 보합이었습니다.",
+        "changed": "11/25 공개 내용을 직전 거래일 기준으로 유지합니다. 11/26 미국 주식시장 휴장으로 새로운 종가 반응은 없습니다.",
+        "impact": "해석: GDP와 지역 조사 기간·범위가 달라 성장 신호의 온도차에 유의할 구간입니다.",
+        "analysis": "베이지북은 지역 정성 조사이며 정책 결정문은 별도입니다. 재무부 종가 기준 https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve",
+        "follow": "미국 12/8~9 FOMC와 단기금리 반응",
+        "source": "https://www.federalreserve.gov/monetarypolicy/beigebook202611-summary.htm",
+        "sourceName": "연준 · 11월 베이지북 전국 요약"
+      },
+      {
+        "category": "통상 정책",
+        "title": "USTR 한국 포함 14개 경제권 관세안 공개",
+        "highlight": {
+          "title": "USTR 한국 포함 14개 경제권 관세안 공개",
+          "kind": "steps",
+          "items": [
+            {
+              "label": "301조 판단 공개",
+              "value": "완료",
+              "status": "done"
+            },
+            {
+              "label": "한국 관련 제안",
+              "value": "최대 15%",
+              "status": "current"
+            },
+            {
+              "label": "서면 의견 마감",
+              "value": "2027/1/5",
+              "status": "pending"
+            },
+            {
+              "label": "공청회",
+              "value": "2027/1/25",
+              "status": "pending"
+            }
+          ],
+          "note": "11/25 USTR 공식 제안 · 최종 적용 미확정"
+        },
+        "summary": "USTR은 한국을 포함한 14개 경제권에 대한 301조 판단과 조치 제안을 발표했습니다. 한국 관련 제안은 최혜국세율과 기존 301조 관세를 차감하는 방식의 최대 15%를 고려하며 일부 품목 예외를 둡니다.",
+        "changed": "11/25 공개 내용을 직전 거래일 기준으로 유지합니다. 11/26 미국 주식시장 휴장으로 새로운 종가 반응은 없습니다.",
+        "impact": "해석: 한국 수출주의 영향은 최종 문서, 예외품목과 기존 관세 적용 방식에 따라 달라집니다.",
+        "analysis": "최대 15%는 제안 조건입니다. 일률적 추가 15% 부과나 실제 시행으로 해석할 근거는 없습니다.",
+        "follow": "최종 연방관보·품목 예외·기존 232조와의 관계",
+        "source": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+        "sourceName": "USTR · 11/25 공식 발표"
+      },
+      {
+        "category": "기업·실적",
+        "title": "HP 실적 공개 다음 날 11.49% 상승",
+        "highlight": {
+          "title": "HP 실적 공개 다음 날 11.49% 상승",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "HPQ 종가",
+              "value": "+11.49%",
+              "status": "neutral"
+            },
+            {
+              "label": "FY26 매출",
+              "value": "605억 달러",
+              "status": "neutral"
+            },
+            {
+              "label": "매출 전년비",
+              "value": "+9.5%",
+              "status": "neutral"
+            },
+            {
+              "label": "GAAP 희석 EPS",
+              "value": "$2.62",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/24 HP 공식 실적 · 11/25 Quant500 정규장 수익률"
+        },
+        "summary": "HP는 FY26 매출 605억 달러를 발표했습니다. HPQ는 다음 정규장에서 11.49% 상승했습니다.",
+        "changed": "11/25 공개 내용을 직전 거래일 기준으로 유지합니다. 11/26 미국 주식시장 휴장으로 새로운 종가 반응은 없습니다.",
+        "impact": "해석: 기업별 실적과 제품 구성이 달라 기술주 내부에서도 방향이 다를 수 있습니다.",
+        "analysis": "GAAP 희석 EPS에는 관세 환급의 유리한 효과가 포함됩니다. 정규장 수익률 https://quant500.com/sp500-gainers-losers",
+        "follow": "PC 출하와 환급 제외 이익 비교",
+        "source": "https://www.hp.com/us-en/newsroom/press-releases/2026/hp-inc-reports-fiscal-2026-full-year-and-fourth-quarter-results.html",
+        "sourceName": "HP · FY26 실적 발표"
+      },
+      {
+        "category": "원자재",
+        "title": "금 최근월물은 11/25 결제 기준",
+        "highlight": {
+          "title": "COMEX 11월물",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "11/25 결제",
+              "value": "$3,534.70/oz",
+              "status": "neutral"
+            },
+            {
+              "label": "11/24 결제",
+              "value": "$3,559.90/oz",
+              "status": "neutral"
+            },
+            {
+              "label": "결제 대비",
+              "value": "−0.71%",
+              "status": "neutral"
+            }
+          ],
+          "note": "11/25·11/24 Dow Jones 결제 보도 · USD/트로이온스"
+        },
+        "summary": "11/25 기준 COMEX 최근월물은 2026년 11월 인도분이며, 결제값은 트로이온스당 3,534.70달러입니다.",
+        "changed": "휴장 브리핑에서는 직전 미국 정규장과 같은 11/25 결제값을 유지합니다.",
+        "impact": "해석: 금과 국채금리를 비교할 때 계약월과 기준일을 일치시켜야 방향을 판단할 수 있습니다.",
+        "analysis": "같은 계약월의 결제가 25.20달러 내렸습니다. 휴장 중 선물 호가나 금 현물은 이 비교에 포함하지 않았습니다.",
+        "follow": "다음 확인 가능한 결제와 최근월물 전환",
+        "source": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3",
+        "sourceName": "WSJ/Dow Jones · 11/25 결제"
+      },
+      {
+        "category": "소비·유통",
+        "title": "블랙프라이데이 소비는 실제 집계로 확인",
+        "highlight": {
+          "title": "연말 소비 전망",
+          "kind": "metrics",
+          "items": [
+            {
+              "label": "연말 소매판매 전망",
+              "value": "+4.2% YoY",
+              "status": "neutral"
+            },
+            {
+              "label": "추수감사절 주말 집중 응답",
+              "value": "64%",
+              "status": "neutral"
+            }
+          ],
+          "note": "NRF 10/28 전망·설문 · 블랙프라이데이 실제 매출 미공개"
+        },
+        "summary": "NRF는 연말 소매판매가 전년 대비 4.2% 늘 것으로 전망했습니다. 10월 조사에서 응답자 64%는 연말 쇼핑의 대부분을 추수감사절 주말까지 기다릴 가능성이 있다고 답했습니다.",
+        "changed": "미국 11/27 블랙프라이데이 실제 매출은 작성 시점 미공개입니다.",
+        "impact": "해석: 할인 판매가 매출 증가와 수익성 개선으로 이어졌는지는 별개로 확인할 항목입니다.",
+        "analysis": "NRF 수치는 조사와 시즌 전망입니다. 개별 유통업체의 실적 또는 블랙프라이데이 확정 판매액과 구분합니다.",
+        "follow": "블랙프라이데이 실제 판매 집계·할인 강도",
+        "source": "https://nrf.com/blog/2026-holiday-shopping-trends-what-consumers-are-planning",
+        "sourceName": "NRF · 10/28 연말 쇼핑 조사"
+      }
+    ],
+    "winners": [
+      {
+        "theme": "PC·프린터",
+        "stocks": "HPQ +11.49%",
+        "reason": "미국 11/26 휴장 · 직전 11/25 정규장 개별종목 수익률. 상승 사실 확인. 전날 FY26 실적 공개. https://www.hp.com/us-en/newsroom/press-releases/2026/hp-inc-reports-fiscal-2026-full-year-and-fourth-quarter-results.html https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "케이블·광대역",
+        "stocks": "CHTR +8.39%",
+        "reason": "미국 11/26 휴장 · 직전 11/25 정규장 개별종목 수익률. 상승 사실 확인. 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "공공안전 기술",
+        "stocks": "AXON +7.43%",
+        "reason": "미국 11/26 휴장 · 직전 11/25 정규장 개별종목 수익률. 상승 사실 확인. 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "아날로그 반도체",
+        "stocks": "ADI +6.44%",
+        "reason": "미국 11/26 휴장 · 직전 11/25 정규장 개별종목 수익률. 상승 사실 확인. 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "천연가스 생산",
+        "stocks": "EXE +5.75%",
+        "reason": "미국 11/26 휴장 · 직전 11/25 정규장 개별종목 수익률. 상승 사실 확인. 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      }
+    ],
+    "losers": [
+      {
+        "theme": "반도체 식각·증착 장비",
+        "stocks": "LRCX −5.68%",
+        "reason": "미국 11/26 휴장 · 직전 11/25 정규장 개별종목 수익률. 하락 사실 확인. 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "낸드·저장장치",
+        "stocks": "SNDK −5.57%",
+        "reason": "미국 11/26 휴장 · 직전 11/25 정규장 개별종목 수익률. 하락 사실 확인. 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "기업 데이터베이스·클라우드",
+        "stocks": "ORCL −5.13%",
+        "reason": "미국 11/26 휴장 · 직전 11/25 정규장 개별종목 수익률. 하락 사실 확인. 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "DRAM·메모리",
+        "stocks": "MU −4.53%",
+        "reason": "미국 11/26 휴장 · 직전 11/25 정규장 개별종목 수익률. 하락 사실 확인. 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      },
+      {
+        "theme": "클라우드 관측 소프트웨어",
+        "stocks": "DDOG −4.31%",
+        "reason": "미국 11/26 휴장 · 직전 11/25 정규장 개별종목 수익률. 하락 사실 확인. 당일 고유 원인은 확인 불가. https://quant500.com/sp500-gainers-losers"
+      }
+    ],
+    "korea": [
+      {
+        "theme": "메모리·반도체 장비",
+        "stocks": "삼성전자 · SK하이닉스 · 원익IPS",
+        "reason": "해석: 휴장으로 미국 반도체 새 종가가 없습니다. 11/25 미국 장비·메모리 종목 약세는 기존 관측으로 두고, 국내 외국인 선물 수급과 반도체 상대강도를 확인합니다."
+      },
+      {
+        "theme": "대미 수출·현지 생산",
+        "stocks": "현대차 · 기아 · 석유화학",
+        "reason": "해석: USTR 제안의 실제 노출은 품목별 예외와 현지 생산 비중에 따라 달라집니다."
+      },
+      {
+        "theme": "금리·환율",
+        "stocks": "KOSPI200 선물 · 원/달러",
+        "reason": "해석: 미국 장기금리 하락과 통상 불확실성 속에서 원화와 국내 외국인 선물 수급을 함께 봅니다."
+      }
+    ],
+    "watch": [
+      "미국 11/26 휴장. 다음 정규장은 11/27 23:30~11/28 03:00 KST(조기 마감). https://www.nyse.com/trade/hours-calendars",
+      "블랙프라이데이 실제 매출과 할인 강도 확인. NRF 조사와 전망을 실적과 구분. https://nrf.com/blog/2026-holiday-shopping-trends-what-consumers-are-planning",
+      "미국 12/8~9 FOMC 예정. https://www.federalreserve.gov/newsevents/2026-december.htm",
+      "USTR 조치안 서면 의견 마감 2027/1/5, 공청회 1/25. https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+      "상승·하락 각 5개는 직전 11/25 대표주 정규장 사례이며, 휴장일 신규 수익률이나 테마 지수 순위가 아닙니다. https://quant500.com/sp500-gainers-losers"
+    ],
+    "updatedAt": "2026-11-26T22:36:27.657Z"
   }
 ]
